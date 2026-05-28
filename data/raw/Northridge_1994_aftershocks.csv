@@ -1,0 +1,1017 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1994-04-17T07:43:01.990Z,34.172,-118.542,15.924,2.57,ml,0,55.8,,0.27,ci,ci3163662,2016-02-12T22:43:30.117Z,"1km E of Tarzana, California",earthquake,,0.255,,29,reviewed,ci,ci
+1994-04-15T23:49:11.200Z,34.271,-118.449,10.268,3.02,ml,0,28.2,,0.292,ci,ci3163503,2016-02-11T18:44:16.996Z,"2km SW of San Fernando, California",earthquake,,0.251,,54,reviewed,ci,ci
+1994-04-14T06:42:22.080Z,34.317,-118.552,1.8,2.53,ml,0,24.2,,0.326,ci,ci3163261,2016-02-12T07:24:34.099Z,"7km NW of Granada Hills, California",earthquake,,0.082,,23,reviewed,ci,ci
+1994-04-13T15:29:42.010Z,34.282,-118.482,4.939,2.55,ml,0,26.2,,0.301,ci,ci3163175,2016-02-13T01:17:03.994Z,"2km ENE of Granada Hills, California",earthquake,,1.775,,29,reviewed,ci,ci
+1994-04-13T11:18:25.970Z,34.368,-118.513,1.899,2.77,ml,0,25.2,,0.308,ci,ci3163144,2016-02-13T01:16:59.382Z,"5km S of Santa Clarita, California",earthquake,,0.118,,22,reviewed,ci,ci
+1994-04-13T01:57:31.890Z,34.334,-118.593,11.69,3.21,ml,0,21.3,,0.26,ci,ci3163096,2016-02-12T07:24:27.088Z,"9km N of Chatsworth, California",earthquake,,0.15,,51,reviewed,ci,ci
+1994-04-11T03:00:54.470Z,34.557,-119.169,9.266,2.68,ml,0,27.9,,0.292,ci,ci3163111,2016-02-11T21:29:32.373Z,"14km NNE of Ojai, California",earthquake,,0.601,,47,reviewed,ci,ci
+1994-04-10T16:01:22.550Z,34.337,-118.477,5.099,2.55,ml,0,19.8,,0.296,ci,ci3162717,2016-02-13T08:50:18.024Z,"7km NNW of Pacoima, California",earthquake,,0.444,,24,reviewed,ci,ci
+1994-04-09T19:15:39.760Z,34.367,-118.657,11.99,2.84,ml,0,24,,0.223,ci,ci3162616,2016-02-13T08:50:09.027Z,"12km SW of Valencia, California",earthquake,,0.254,,55,reviewed,ci,ci
+1994-04-09T13:10:11.070Z,34.402,-118.633,16.37,2.51,ml,0,24.2,,0.217,ci,ci3162567,2016-02-13T06:15:31.093Z,"8km SW of Valencia, California",earthquake,,0.307,,23,reviewed,ci,ci
+1994-04-09T12:29:53.010Z,34.258,-118.68,14.088,2.5,ml,0,35.1,,0.272,ci,ci3162564,2016-02-12T12:22:34.892Z,"6km ESE of Simi Valley, California",earthquake,,0.184,,22,reviewed,ci,ci
+1994-04-08T17:53:31.620Z,34.465,-118.955,2.968,3.57,ml,0,45,,0.344,ci,ci3162465,2016-02-13T03:48:21.776Z,"8km NNW of Fillmore, California",earthquake,,0.177,,65,reviewed,ci,ci
+1994-04-08T17:15:17.590Z,34.305,-118.453,7.569,2.78,ml,0,30.1,,0.331,ci,ci3162459,2016-02-11T21:29:19.944Z,"3km NNW of Pacoima, California",earthquake,,0.366,,25,reviewed,ci,ci
+1994-04-07T04:40:08.510Z,34.334,-118.467,4.049,2.53,ml,0,29.1,,0.27,ci,ci3162178,2016-02-12T05:01:23.165Z,"6km NNW of Pacoima, California",earthquake,,0.073,,29,reviewed,ci,ci
+1994-04-07T04:19:28.630Z,34.333,-118.466,3.769,3.5,ml,0,25.9,,0.291,ci,ci3162175,2016-02-12T17:39:00.445Z,"6km NNW of Pacoima, California",earthquake,,0.076,,52,reviewed,ci,ci
+1994-04-06T09:18:59.210Z,34.349,-118.533,3.539,2.94,ml,0,21.7,,0.302,ci,ci3162063,2016-02-12T20:12:45.427Z,"8km SSW of Santa Clarita, California",earthquake,,0.07,,50,reviewed,ci,ci
+1994-04-05T23:49:20.000Z,34.378,-118.62,11.53,2.52,ml,0,24.9,,0.241,ci,ci3162013,2016-02-13T01:16:02.500Z,"10km SSW of Valencia, California",earthquake,,0.178,,25,reviewed,ci,ci
+1994-04-03T18:28:24.440Z,34.224,-118.593,17.754,2.67,ml,0,34.8,,0.288,ci,ci3161667,2016-02-13T01:15:45.402Z,"3km NNE of Canoga Park, California",earthquake,,0.224,,37,reviewed,ci,ci
+1994-04-03T09:09:22.260Z,34.327,-118.596,14.787,2.64,ml,0,33,,0.241,ci,ci3161612,2016-02-11T18:42:27.056Z,"8km N of Chatsworth, California",earthquake,,0.176,,25,reviewed,ci,ci
+1994-04-03T04:41:19.970Z,34.376,-118.576,3.781,2.6,ml,0,26.9,,0.243,ci,ci3161587,2016-02-12T09:49:43.063Z,"8km SW of Santa Clarita, California",earthquake,,0.07,,20,reviewed,ci,ci
+1994-04-02T14:10:47.930Z,34.366,-118.654,12.26,3.29,ml,0,24,,0.24,ci,ci3161512,2016-02-13T06:14:33.135Z,"12km SW of Valencia, California",earthquake,,0.135,,57,reviewed,ci,ci
+1994-04-01T09:07:36.230Z,34.282,-118.632,7.576,2.5,mh,0,72.1,,0.224,ci,ci3161466,2016-02-13T08:49:18.025Z,"4km NW of Chatsworth, California",earthquake,,0.666,,0,reviewed,ci,ci
+1994-04-01T09:07:23.580Z,34.285,-118.625,9.416,2.59,ml,0,47.9,,0.215,ci,ci3161458,2016-02-11T21:28:45.785Z,"4km NNW of Chatsworth, California",earthquake,,0.324,,25,reviewed,ci,ci
+1994-03-31T15:48:50.330Z,34.051,-118.121,10.568,2.64,ml,0,51.9,,0.253,ci,ci3161241,2016-02-12T17:37:59.445Z,"1km S of Monterey Park, California",earthquake,,0.162,,51,reviewed,ci,ci
+1994-03-31T15:13:16.410Z,34.462,-119.083,3.772,2.61,ml,0,43.9,,0.374,ci,ci3161238,2016-02-12T05:00:29.382Z,"12km N of Santa Paula, California",earthquake,,0.131,,18,reviewed,ci,ci
+1994-03-29T17:24:30.730Z,34.364,-118.415,6.809,2.55,ml,0,46.8,,0.228,ci,ci3160937,2016-02-12T17:37:50.936Z,"9km NNE of Pacoima, California",earthquake,,0.289,,23,reviewed,ci,ci
+1994-03-29T12:19:31.250Z,34.939,-119,10.981,2.5,ml,0,78.9,,0.293,ci,ci3160913,2016-02-12T05:00:16.815Z,"6km W of Grapevine, California",earthquake,,0.225,,41,reviewed,ci,ci
+1994-03-26T15:13:31.920Z,34.354,-118.695,10.853,2.86,ml,0,26.7,,0.26,ci,ci3160535,2016-02-12T02:32:49.700Z,"10km NNE of Simi Valley, California",earthquake,,0.227,,48,reviewed,ci,ci
+1994-03-25T10:13:42.850Z,34.224,-118.475,13.615,2.71,ml,0,35.4,,0.296,ci,ci3160374,2016-02-12T20:11:27.061Z,"2km W of Panorama City, California",earthquake,,0.2,,47,reviewed,ci,ci
+1994-03-25T01:58:45.650Z,34.32,-118.556,2.27,2.75,ml,0,24.2,,0.315,ci,ci3160313,2016-02-11T18:41:23.277Z,"7km NW of Granada Hills, California",earthquake,,0.081,,38,reviewed,ci,ci
+1994-03-24T18:04:58.370Z,34.394,-118.629,14.381,2.51,ml,0,35.7,,0.209,ci,ci3160248,2016-02-13T01:14:46.987Z,"9km SW of Valencia, California",earthquake,,0.248,,24,reviewed,ci,ci
+1994-03-23T17:00:44.640Z,34.29,-118.46,9.799,3.23,ml,0,26.9,,0.311,ci,ci3160056,2016-02-12T02:32:27.827Z,"2km WNW of San Fernando, California",earthquake,,0.259,,55,reviewed,ci,ci
+1994-03-23T03:19:47.440Z,34.317,-118.54,-0.62,2.61,ml,0,38.8,,0.306,ci,ci2155417,2021-02-18T19:18:20.601Z,"6km NW of Granada Hills, California",earthquake,,1.32,,5,reviewed,ci,ci
+1994-03-22T15:32:42.130Z,34.311,-118.433,6.377,2.61,ml,0,32.1,,0.278,ci,ci3159887,2016-02-11T18:41:07.645Z,"3km N of Pacoima, California",earthquake,,0.62,,24,reviewed,ci,ci
+1994-03-21T10:16:03.330Z,34.354,-118.871,1.912,2.51,ml,0,60.2,,0.301,ci,ci3159526,2016-02-12T17:36:24.183Z,"7km SE of Fillmore, California",earthquake,,0.287,,20,reviewed,ci,ci
+1994-03-21T04:00:09.310Z,34.225,-118.507,12.591,2.51,ml,0,27.6,,0.318,ci,ci3159476,2016-02-13T06:12:55.945Z,"3km ESE of Northridge, California",earthquake,,0.218,,53,reviewed,ci,ci
+1994-03-20T21:20:12.260Z,34.231,-118.475,12.442,5.24,ml,0,27,,0.332,ci,ci3159411,2022-04-28T17:48:27.677Z,"3km WNW of Panorama City, California",earthquake,,0.134,,40,reviewed,ci,ci
+1994-03-20T20:23:43.020Z,34.362,-118.639,10.3,2.51,ml,0,24,,0.254,ci,ci3159400,2016-02-12T09:48:09.512Z,"12km SSW of Valencia, California",earthquake,,0.182,,21,reviewed,ci,ci
+1994-03-20T06:48:31.310Z,34.349,-118.7,12.523,2.98,ml,0,27.4,,0.248,ci,ci3159301,2016-02-12T07:22:03.991Z,"9km NNE of Simi Valley, California",earthquake,,0.131,,58,reviewed,ci,ci
+1994-03-19T21:05:17.520Z,34.295,-118.511,9.799,2.55,ml,0,27.8,,0.329,ci,ci3159246,2016-02-13T01:14:02.831Z,"3km NNW of Granada Hills, California",earthquake,,0.301,,20,reviewed,ci,ci
+1994-03-18T17:58:17.740Z,34.244,-118.458,11.098,2.56,ml,0,41.6,,0.27,ci,ci3159080,2016-02-12T07:21:51.650Z,"3km NNW of Panorama City, California",earthquake,,0.337,,47,reviewed,ci,ci
+1994-03-17T18:01:24.790Z,34.396,-118.629,14.95,2.99,ml,0,24.4,,0.239,ci,ci3158934,2016-02-12T17:36:01.267Z,"8km SW of Valencia, California",earthquake,,0.094,,55,reviewed,ci,ci
+1994-03-17T06:07:10.490Z,34.396,-118.631,15.27,2.76,ml,0,24.3,,0.272,ci,ci3158847,2016-02-12T02:31:46.921Z,"8km SW of Valencia, California",earthquake,,0.063,,58,reviewed,ci,ci
+1994-03-16T19:21:59.920Z,34.3,-118.42,5.808,2.66,ml,0,27.1,,0.294,ci,ci3158836,2016-02-12T15:00:46.752Z,"2km NE of Pacoima, California",earthquake,,1.052,,27,reviewed,ci,ci
+1994-03-15T10:44:21.790Z,34.327,-118.473,3.491,3.02,ml,0,28.7,,0.303,ci,ci3158543,2016-02-11T21:26:14.049Z,"6km NNW of Pacoima, California",earthquake,,0.12,,42,reviewed,ci,ci
+1994-03-15T01:13:41.800Z,34.273,-118.434,8.912,2.59,ml,0,32.2,,0.275,ci,ci3158492,2016-02-12T02:31:34.453Z,"1km SSE of San Fernando, California",earthquake,,0.516,,22,reviewed,ci,ci
+1994-03-13T16:41:26.240Z,34.316,-118.45,4.747,2.96,ml,0,30.7,,0.295,ci,ci3158264,2016-02-12T07:21:14.390Z,"4km NNW of Pacoima, California",earthquake,,0.077,,55,reviewed,ci,ci
+1994-03-13T11:12:08.670Z,34.236,-118.606,18.558,2.66,ml,0,35.9,,0.274,ci,ci3158234,2016-02-12T07:21:12.230Z,"2km S of Chatsworth, California",earthquake,,0.152,,51,reviewed,ci,ci
+1994-03-13T09:15:55.280Z,34.311,-118.44,5.477,2.58,ml,0,35.7,,0.27,ci,ci3158218,2016-02-12T17:35:28.895Z,"3km N of Pacoima, California",earthquake,,0.865,,27,reviewed,ci,ci
+1994-03-12T21:45:43.530Z,34.228,-118.609,4.458,2.6,ml,0,36.3,,0.291,ci,ci3158136,2016-02-12T15:00:22.168Z,"3km N of Canoga Park, California",earthquake,,0.076,,49,reviewed,ci,ci
+1994-03-11T13:55:59.510Z,34.314,-118.551,1.57,3.05,ml,0,31.6,,0.273,ci,ci3157952,2016-02-12T15:00:15.585Z,"6km NW of Granada Hills, California",earthquake,,0.098,,50,reviewed,ci,ci
+1994-03-11T05:38:46.900Z,34.32,-118.584,4.09,3.01,ml,0,17.3,,0.284,ci,ci3157906,2016-02-12T02:31:08.831Z,"7km NNE of Chatsworth, California",earthquake,,0.052,,55,reviewed,ci,ci
+1994-03-10T12:44:14.750Z,34.329,-118.578,3.09,3.49,ml,0,24.5,,0.278,ci,ci3157755,2016-02-12T09:46:54.240Z,"8km NNE of Chatsworth, California",earthquake,,0.06,,53,reviewed,ci,ci
+1994-03-10T07:59:55.600Z,34.28,-118.462,8.729,2.53,ml,0,31.1,,0.322,ci,ci3157722,2016-02-11T23:59:38.640Z,"2km W of San Fernando, California",earthquake,,0.293,,50,reviewed,ci,ci
+1994-03-10T05:26:51.010Z,34.064,-118.851,13.374,2.5,ml,0,70.5,,0.311,ci,ci3157707,2016-02-12T09:46:47.444Z,"8km NNW of Malibu, California",earthquake,,0.201,,20,reviewed,ci,ci
+1994-03-09T09:17:50.300Z,34.381,-118.621,14.11,2.88,ml,0,45.9,,0.236,ci,ci3157649,2016-02-11T21:25:27.900Z,"9km SSW of Valencia, California",earthquake,,0.234,,24,reviewed,ci,ci
+1994-03-09T09:17:05.460Z,34.386,-118.62,12.58,2.85,ml,0,21.3,,0.233,ci,ci3157439,2016-02-13T03:44:53.903Z,"9km SSW of Valencia, California",earthquake,,0.18,,37,reviewed,ci,ci
+1994-03-09T02:51:13.960Z,34.013,-119.181,3.847,2.67,ml,0,184.8,,0.369,ci,ci3157405,2016-02-11T23:59:27.962Z,"15km S of Port Hueneme, California",earthquake,,0.944,,17,reviewed,ci,ci
+1994-03-08T12:53:01.430Z,34.245,-118.458,10.72,3.28,ml,0,29.6,,0.322,ci,ci3157314,2016-02-12T04:57:55.922Z,"3km NNW of Panorama City, California",earthquake,,0.218,,54,reviewed,ci,ci
+1994-03-06T18:19:11.480Z,34.354,-118.522,2.029,2.63,ml,0,24.5,,0.276,ci,ci3156974,2016-02-12T09:46:20.551Z,"7km SSW of Santa Clarita, California",earthquake,,0.126,,23,reviewed,ci,ci
+1994-03-06T10:41:14.540Z,34.296,-118.461,5.379,2.6,ml,0,26.3,,0.286,ci,ci3156935,2016-02-11T23:58:59.380Z,"2km NW of Pacoima, California",earthquake,,0.792,,22,reviewed,ci,ci
+1994-03-06T10:23:58.780Z,34.248,-118.476,13.437,2.8,ml,0,26.4,,0.343,ci,ci3156933,2016-02-11T21:24:58.907Z,"4km SE of Granada Hills, California",earthquake,,0.151,,29,reviewed,ci,ci
+1994-03-05T23:37:56.150Z,34.307,-118.478,3.109,3.13,ml,0,31.5,,0.319,ci,ci3156844,2016-02-12T02:30:36.304Z,"4km NNE of Granada Hills, California",earthquake,,0.074,,28,reviewed,ci,ci
+1994-03-05T14:23:12.090Z,34.31,-118.475,2.489,3.14,ml,0,27.9,,0.324,ci,ci3156773,2016-02-12T04:57:30.309Z,"4km NW of Pacoima, California",earthquake,,0.082,,27,reviewed,ci,ci
+1994-03-04T23:48:52.710Z,34.198,-118.566,18.191,2.56,ml,0,38.3,,0.3,ci,ci3156689,2016-02-11T21:24:47.694Z,"3km NNW of Tarzana, California",earthquake,,0.292,,21,reviewed,ci,ci
+1994-03-04T22:01:48.800Z,34.39,-118.627,15.8,2.9,ml,0,26.1,,0.226,ci,ci3156667,2016-02-12T02:30:27.359Z,"9km SW of Valencia, California",earthquake,,0.249,,22,reviewed,ci,ci
+1994-03-04T16:35:17.650Z,33.448,-118.248,5.788,2.8,ml,0,143.7,,0.313,ci,ci3156620,2016-02-13T01:12:11.643Z,"14km NNE of Avalon, California",earthquake,,,,19,reviewed,ci,ci
+1994-03-03T17:34:33.740Z,33.93,-118.207,14.849,2.8,ml,0,128.7,,0.187,ci,ci3156225,2016-02-13T03:44:05.917Z,"0km E of Lynwood, California",earthquake,,0.22,,6,reviewed,ci,ci
+1994-03-03T09:53:50.020Z,34.379,-118.492,-0.031,2.98,ml,0,21.1,,0.3,ci,ci3156198,2016-02-12T14:59:15.043Z,"4km SSE of Santa Clarita, California",earthquake,,0.167,,26,reviewed,ci,ci
+1994-03-03T08:41:20.010Z,34.342,-118.46,4.139,2.57,ml,0,27.2,,0.263,ci,ci3156162,2016-02-12T07:19:54.941Z,"7km NNW of Pacoima, California",earthquake,,0.065,,22,reviewed,ci,ci
+1994-03-02T20:06:03.670Z,34.202,-118.613,2.331,3.15,ml,0,37,,0.365,ci,ci2151869,2016-02-12T17:33:48.165Z,"1km WNW of Canoga Park, California",earthquake,,0.147,,15,reviewed,ci,ci
+1994-03-02T12:50:16.220Z,34.246,-118.482,13.991,2.62,ml,0,26.1,,0.314,ci,ci3156036,2016-02-12T14:59:07.912Z,"3km SSE of Granada Hills, California",earthquake,,0.185,,25,reviewed,ci,ci
+1994-02-27T12:01:42.770Z,34.164,-118.582,19.909,2.5,mc,0,193.4,0.1096,0.213,ci,ci3155761,2016-02-11T21:24:03.679Z,"2km ESE of Woodland Hills, California",earthquake,,1.456,,70,reviewed,ci,ci
+1994-02-26T13:06:00.590Z,34.333,-118.744,14.115,2.5,ml,0,36.8,,0.194,ci,ci3155365,2016-02-12T02:29:37.456Z,"7km N of Simi Valley, California",earthquake,,0.163,,24,reviewed,ci,ci
+1994-02-26T13:03:51.400Z,34.334,-118.733,13.774,2.76,ml,0,34,,0.254,ci,ci3155364,2016-02-12T20:07:56.694Z,"7km N of Simi Valley, California",earthquake,,0.156,,27,reviewed,ci,ci
+1994-02-25T21:16:22.630Z,34.323,-118.432,6.217,2.73,ml,0,29.6,,0.281,ci,ci3155246,2016-02-13T08:44:41.158Z,"4km N of Pacoima, California",earthquake,,0.439,,15,reviewed,ci,ci
+1994-02-25T13:56:13.770Z,34.321,-118.422,2.858,3.7,ml,0,28.4,,0.285,ci,ci3155156,2016-02-11T21:23:34.512Z,"4km NNE of Pacoima, California",earthquake,,0.09,,62,reviewed,ci,ci
+1994-02-25T13:11:43.090Z,34.359,-118.48,0.507,3.11,ml,0,22.2,,0.335,ci,ci3155152,2016-02-13T08:44:38.389Z,"7km SSE of Santa Clarita, California",earthquake,,0.119,,51,reviewed,ci,ci
+1994-02-25T12:59:12.590Z,34.357,-118.48,0.527,4.03,ml,0,21.5,,0.315,ci,ci3155150,2016-02-12T20:07:43.481Z,"7km SSE of Santa Clarita, California",earthquake,,0.11,,60,reviewed,ci,ci
+1994-02-24T02:54:24.070Z,34.303,-118.44,6.603,2.79,ml,0,28.4,,0.297,ci,ci3154807,2016-02-12T20:07:30.495Z,"2km N of Pacoima, California",earthquake,,0.484,,26,reviewed,ci,ci
+1994-02-22T21:46:33.940Z,34.214,-118.596,19.464,2.58,ml,0,35.1,,0.273,ci,ci3154480,2016-02-12T12:17:19.227Z,"2km NNE of Canoga Park, California",earthquake,,0.243,,23,reviewed,ci,ci
+1994-02-22T21:02:42.300Z,34.336,-118.767,4.319,2.98,ml,0,41.9,,0.299,ci,ci3154472,2016-02-13T01:10:25.694Z,"8km NNW of Simi Valley, California",earthquake,,0.097,,56,reviewed,ci,ci
+1994-02-21T15:04:05.450Z,34.373,-118.632,12.004,2.51,ml,0,22.8,,0.221,ci,ci3154181,2016-02-11T23:56:49.648Z,"11km SSW of Valencia, California",earthquake,,0.169,,17,reviewed,ci,ci
+1994-02-20T05:24:03.680Z,34.315,-118.582,3.538,2.55,mc,0,25,,0.233,ci,ci3153811,2016-02-12T09:44:36.505Z,"7km NNE of Chatsworth, California",earthquake,,0.064,,166,reviewed,ci,ci
+1994-02-19T02:54:08.160Z,34.243,-118.474,12.213,2.58,ml,0,42.4,,0.314,ci,ci3153583,2016-02-12T14:57:18.338Z,"3km NW of Panorama City, California",earthquake,,0.257,,15,reviewed,ci,ci
+1994-02-18T15:44:23.400Z,34.303,-118.454,6.856,3.07,ml,0,27.2,,0.285,ci,ci3153329,2016-02-12T17:32:16.996Z,"3km NNW of Pacoima, California",earthquake,,0.422,,60,reviewed,ci,ci
+1994-02-18T09:13:28.370Z,34.236,-118.576,16.031,3.72,ml,0,33.1,,0.313,ci,ci3153233,2016-02-13T01:09:46.566Z,"3km SE of Chatsworth, California",earthquake,,0.144,,57,reviewed,ci,ci
+1994-02-17T16:13:59.310Z,33.949,-118.63,9.225,2.62,ml,0,65.7,,0.308,ci,ci3152909,2016-02-12T17:32:05.862Z,"10km S of Las Flores, California",earthquake,,1.003,,21,reviewed,ci,ci
+1994-02-17T07:21:59.940Z,34.316,-118.561,9.566,2.56,ml,0,24.6,,0.282,ci,ci3152845,2016-02-12T17:32:00.164Z,"7km NW of Granada Hills, California",earthquake,,0.19,,27,reviewed,ci,ci
+1994-02-16T18:00:38.510Z,34.288,-118.445,2.603,2.95,ml,0,28.7,,0.347,ci,ci3152719,2016-02-12T20:06:29.928Z,"1km NW of Pacoima, California",earthquake,,0.094,,28,reviewed,ci,ci
+1994-02-16T07:58:42.210Z,34.098,-118.51,5.28,3.2,ml,0,66.3,,0.397,ci,ci3152649,2016-02-11T23:56:12.807Z,"7km S of Encino, California",earthquake,,0.619,,24,reviewed,ci,ci
+1994-02-15T13:51:49.420Z,34.241,-118.562,1.401,2.8,ml,0,31.9,,0.349,ci,ci3152456,2016-02-12T09:44:00.927Z,"3km WNW of Northridge, California",earthquake,,0.149,,22,reviewed,ci,ci
+1994-02-15T12:31:55.330Z,34.293,-118.451,6.426,3.15,ml,0,29.2,,0.303,ci,ci3152592,2016-02-12T04:55:15.604Z,"2km NW of Pacoima, California",earthquake,,0.515,,56,reviewed,ci,ci
+1994-02-15T09:42:48.390Z,34.373,-118.642,13.351,2.97,ml,0,23.1,,0.286,ci,ci3152435,2016-02-12T17:31:36.013Z,"11km SW of Valencia, California",earthquake,,0.091,,13,reviewed,ci,ci
+1994-02-15T02:53:23.220Z,34.264,-118.463,10.583,2.54,ml,0,28.3,,0.299,ci,ci3152583,2016-02-12T14:56:43.020Z,"3km SW of San Fernando, California",earthquake,,0.265,,24,reviewed,ci,ci
+1994-02-15T00:22:37.390Z,34.256,-118.644,5.569,2.6,mh,0,70.9,,0.27,ci,ci3152554,2016-02-13T06:08:38.716Z,"4km W of Chatsworth, California",earthquake,,0.683,,0,reviewed,ci,ci
+1994-02-15T00:22:22.930Z,34.254,-118.632,6.143,2.84,ml,0,38,,0.197,ci,ci3152329,2016-02-12T07:17:37.547Z,"3km W of Chatsworth, California",earthquake,,0.34,,25,reviewed,ci,ci
+1994-02-14T20:32:57.550Z,34.208,-118.556,16.58,3.18,ml,0,31.3,,0.291,ci,ci3152209,2016-02-13T03:41:56.293Z,"2km WNW of Reseda, California",earthquake,,0.186,,53,reviewed,ci,ci
+1994-02-14T20:15:59.650Z,34.28,-118.506,12.012,3.36,mc,0,60.2,,0.28,ci,ci3152333,2016-02-13T08:43:32.648Z,"1km NNW of Granada Hills, California",earthquake,,0.876,,3,reviewed,ci,ci
+1994-02-13T21:21:17.880Z,34.2893333,-118.4865,7.3,2.9,mh,100,27,,0.24,ci,ci2148244,2016-04-01T19:41:53.045Z,"2km NE of Granada Hills, CA",earthquake,0.16,0.37,,0,reviewed,ci,ci
+1994-02-13T19:43:07.260Z,34.252,-118.549,0.858,2.51,ml,0,30.8,,0.278,ci,ci3151716,2016-02-12T22:36:09.634Z,"2km NW of Northridge, California",earthquake,,0.166,,23,reviewed,ci,ci
+1994-02-13T11:56:19.210Z,34.28,-118.436,8.411,2.6,ml,0,27.3,,0.281,ci,ci3151672,2016-02-13T06:08:20.785Z,"0km SE of San Fernando, California",earthquake,,0.365,,23,reviewed,ci,ci
+1994-02-13T00:43:18.710Z,34.189,-118.57,19.784,2.78,mc,0,33,,0.293,ci,ci3151637,2016-02-12T12:16:02.714Z,"2km NW of Tarzana, California",earthquake,,0.266,,53,reviewed,ci,ci
+1994-02-12T22:12:10.300Z,34.292,-118.535,9.324,2.59,ml,0,28.9,,0.263,ci,ci3151566,2016-02-12T04:54:50.405Z,"4km NW of Granada Hills, California",earthquake,,0.238,,24,reviewed,ci,ci
+1994-02-12T15:10:30.450Z,34.315,-118.543,2.333,2.85,ml,0,26.1,,0.31,ci,ci3151517,2016-02-11T21:21:30.528Z,"6km NW of Granada Hills, California",earthquake,,0.117,,50,reviewed,ci,ci
+1994-02-12T02:50:01.710Z,34.278,-118.567,8.879,2.57,ml,0,31.4,,0.328,ci,ci3151403,2016-02-12T04:54:42.014Z,"4km NE of Chatsworth, California",earthquake,,0.284,,22,reviewed,ci,ci
+1994-02-11T15:52:49.190Z,34.401,-118.775,10.228,3.1,ml,0,29.4,,0.264,ci,ci3151303,2016-02-12T09:43:23.767Z,"2km SE of Piru, California",earthquake,,0.312,,23,reviewed,ci,ci
+1994-02-11T14:08:33.830Z,34.341,-118.485,6.479,2.5,mh,0,80.2,,0.152,ci,ci3151453,2016-02-12T02:27:43.688Z,"8km NW of Pacoima, California",earthquake,,1.136,,0,reviewed,ci,ci
+1994-02-11T14:07:53.070Z,34.335,-118.484,4.404,3.69,ml,0,19.5,,0.299,ci,ci3151277,2016-02-12T07:16:58.214Z,"7km NW of Pacoima, California",earthquake,,0.069,,53,reviewed,ci,ci
+1994-02-11T06:41:13.880Z,34.312,-118.447,4.755,2.79,ml,0,30.5,,0.306,ci,ci3151199,2016-02-12T02:27:37.396Z,"3km NNW of Pacoima, California",earthquake,,0.104,,29,reviewed,ci,ci
+1994-02-11T00:53:37.110Z,34.371,-118.509,1.72,2.93,ml,0,27.6,,0.334,ci,ci3151159,2016-02-12T14:56:15.467Z,"5km S of Santa Clarita, California",earthquake,,0.113,,52,reviewed,ci,ci
+1994-02-10T15:35:27.300Z,34.401,-118.612,1.665,2.57,ml,0,30.1,,0.285,ci,ci3151037,2016-02-13T08:42:37.695Z,"7km SSW of Valencia, California",earthquake,,0.089,,24,reviewed,ci,ci
+1994-02-10T11:16:12.270Z,34.376,-118.494,0.85,3.45,ml,0,21.9,,0.321,ci,ci3151009,2016-02-12T09:43:13.299Z,"5km SSE of Santa Clarita, California",earthquake,,0.167,,30,reviewed,ci,ci
+1994-02-10T09:47:51.380Z,34.326,-118.641,7.323,2.52,ml,0,35.3,,0.241,ci,ci3150991,2016-02-11T23:55:17.840Z,"8km NNW of Chatsworth, California",earthquake,,0.265,,24,reviewed,ci,ci
+1994-02-10T07:43:07.080Z,34.367,-118.502,2.338,3.33,ml,0,28,,0.318,ci,ci3150980,2016-02-11T21:21:08.114Z,"6km S of Santa Clarita, California",earthquake,,0.088,,55,reviewed,ci,ci
+1994-02-10T06:45:25.620Z,34.367,-118.505,2.518,2.52,ml,0,24.9,,0.316,ci,ci3150963,2016-02-12T17:30:20.786Z,"6km S of Santa Clarita, California",earthquake,,0.087,,26,reviewed,ci,ci
+1994-02-10T04:19:26.020Z,34.237,-118.62,20.024,2.5,ml,0,34.1,,0.289,ci,ci3150936,2016-02-12T14:56:07.642Z,"3km SW of Chatsworth, California",earthquake,,0.184,,27,reviewed,ci,ci
+1994-02-09T21:52:45.850Z,34.371,-118.606,11.205,2.62,ml,0,22.3,,0.228,ci,ci3150872,2016-02-13T08:42:26.640Z,"10km SSW of Valencia, California",earthquake,,0.194,,23,reviewed,ci,ci
+1994-02-08T14:23:55.500Z,34.358,-118.731,11.568,2.72,ml,0,27.2,,0.466,ci,ci3150570,2016-02-13T03:40:58.063Z,"9km SE of Piru, California",earthquake,,0.176,,27,reviewed,ci,ci
+1994-02-08T11:16:05.770Z,34.341,-118.538,4.444,2.94,ml,0,20.1,,0.288,ci,ci3150555,2016-02-12T22:35:10.567Z,"8km NNW of Granada Hills, California",earthquake,,0.054,,21,reviewed,ci,ci
+1994-02-08T07:06:54.940Z,34.341,-118.603,4.115,2.5,ml,0,24.6,,0.278,ci,ci3150524,2016-02-12T14:55:59.295Z,"9km N of Chatsworth, California",earthquake,,0.056,,23,reviewed,ci,ci
+1994-02-08T06:30:07.040Z,34.295,-118.513,9.436,2.65,ml,0,29,,0.32,ci,ci3150519,2016-02-12T22:35:08.930Z,"3km NNW of Granada Hills, California",earthquake,,0.201,,21,reviewed,ci,ci
+1994-02-08T02:07:08.810Z,34.231,-118.598,18.39,2.61,ml,0,34.9,,0.299,ci,ci3150490,2016-02-13T06:07:35.094Z,"3km S of Chatsworth, California",earthquake,,0.215,,25,reviewed,ci,ci
+1994-02-07T22:52:30.340Z,34.329,-118.623,13.547,2.76,ml,0,26.4,,0.245,ci,ci3150453,2016-02-12T14:55:56.504Z,"8km NNW of Chatsworth, California",earthquake,,0.135,,19,reviewed,ci,ci
+1994-02-07T04:09:56.980Z,34.271,-118.476,10.666,2.66,ml,0,33.5,,0.303,ci,ci3150287,2016-02-13T03:40:39.165Z,"2km E of Granada Hills, California",earthquake,,0.353,,6,reviewed,ci,ci
+1994-02-06T14:19:54.650Z,34.293,-118.471,5.505,2.59,ml,0,26.9,,0.287,ci,ci3150110,2016-02-12T14:55:42.711Z,"3km WNW of San Fernando, California",earthquake,,0.793,,22,reviewed,ci,ci
+1994-02-06T13:21:45.790Z,34.291,-118.476,7.86,3.57,ml,0,25.9,,0.372,ci,ci3150211,2016-02-12T17:29:35.692Z,"3km NE of Granada Hills, California",earthquake,,0.336,,24,reviewed,ci,ci
+1994-02-06T13:19:27.020Z,34.292,-118.476,9.004,4.09,ml,0,25.9,,0.354,ci,ci3150210,2016-02-13T06:07:26.066Z,"3km NE of Granada Hills, California",earthquake,,0.211,,51,reviewed,ci,ci
+1994-02-06T10:00:21.120Z,34.377,-118.662,10.685,3.15,ml,0,23.1,,0.29,ci,ci3150067,2016-02-13T03:40:23.299Z,"12km SW of Valencia, California",earthquake,,0.206,,57,reviewed,ci,ci
+1994-02-05T21:18:41.040Z,34.116,-118.491,6.1,2.95,ml,0,80,,0.348,ci,ci3149895,2016-02-12T22:34:46.587Z,"5km S of Encino, California",earthquake,,0.536,,40,reviewed,ci,ci
+1994-02-05T19:54:59.940Z,34.309,-118.526,0.766,2.54,ml,0,34.8,,0.314,ci,ci3149876,2016-02-13T08:41:36.211Z,"5km NNW of Granada Hills, California",earthquake,,0.235,,23,reviewed,ci,ci
+1994-02-05T11:19:46.670Z,34.31,-118.525,1.136,2.84,ml,0,24.7,,0.334,ci,ci3149757,2016-02-12T22:34:39.405Z,"5km NNW of Granada Hills, California",earthquake,,0.127,,28,reviewed,ci,ci
+1994-02-05T09:53:44.230Z,34.373,-118.637,12.651,2.74,ml,0,22.9,,0.274,ci,ci3149732,2016-02-13T03:40:07.582Z,"11km SSW of Valencia, California",earthquake,,0.172,,22,reviewed,ci,ci
+1994-02-05T08:58:47.480Z,34.373,-118.645,14.535,2.67,mc,0,44.5,,0.244,ci,ci3150417,2016-02-11T18:33:57.136Z,"11km SW of Valencia, California",earthquake,,0.406,,35,reviewed,ci,ci
+1994-02-05T08:58:34.940Z,34.372,-118.644,13.547,2.81,ml,0,23.1,,0.252,ci,ci3149689,2016-02-12T09:42:33.115Z,"11km SW of Valencia, California",earthquake,,0.131,,26,reviewed,ci,ci
+1994-02-05T08:51:39.250Z,34.413,-118.68,11.05,3.69,ml,0,73.9,,0.538,ci,ci3149924,2016-02-11T18:33:55.769Z,"10km SSW of Castaic, California",earthquake,,0.668,,49,reviewed,ci,ci
+1994-02-05T08:51:29.820Z,34.372,-118.649,14.765,3.3,mh,0,52.8,,0.248,ci,ci3149858,2016-02-12T09:42:31.617Z,"12km SW of Valencia, California",earthquake,,0.258,,0,reviewed,ci,ci
+1994-02-05T08:51:06.640Z,34.374,-118.63,12.745,3.48,ml,0,31.7,,0.248,ci,ci3149688,2016-02-12T09:42:29.971Z,"10km SSW of Valencia, California",earthquake,,0.138,,16,reviewed,ci,ci
+1994-02-05T08:17:18.940Z,34.375,-118.634,12.567,2.73,ml,0,31.2,,0.24,ci,ci3149890,2016-02-13T01:06:52.433Z,"11km SSW of Valencia, California",earthquake,,0.17,,25,reviewed,ci,ci
+1994-02-04T20:15:51.860Z,34.31,-118.442,6.106,2.99,ml,0,31.2,,0.286,ci,ci3149534,2016-02-11T18:33:45.343Z,"3km N of Pacoima, California",earthquake,,0.782,,48,reviewed,ci,ci
+1994-02-04T16:25:40.050Z,34.309,-118.613,3.565,2.53,ml,0,33.6,,0.376,ci,ci3149484,2016-02-13T01:06:45.925Z,"6km N of Chatsworth, California",earthquake,,0.069,,19,reviewed,ci,ci
+1994-02-04T14:26:06.000Z,34.273,-118.401,3.639,3.24,ml,0,25.7,,0.325,ci,ci3149474,2016-02-12T17:28:56.937Z,"4km W of Lake View Terrace, California",earthquake,,0.105,,52,reviewed,ci,ci
+1994-02-04T06:33:39.500Z,34.277,-118.621,1.928,3.49,ml,0,22.6,,0.25,ci,ci3149315,2016-02-12T12:14:14.299Z,"3km NW of Chatsworth, California",earthquake,,0.082,,62,reviewed,ci,ci
+1994-02-04T04:49:46.050Z,34.296,-118.41,5.516,2.94,ml,0,24.8,,0.318,ci,ci3149297,2016-02-13T06:06:48.843Z,"3km ENE of Pacoima, California",earthquake,,0.913,,26,reviewed,ci,ci
+1994-02-03T16:23:35.370Z,34.3,-118.44,8.59,3.95,ml,0,39.3,,0.268,ci,ci3149105,2016-02-13T03:39:42.108Z,"2km N of Pacoima, California",earthquake,,0.328,,47,reviewed,ci,ci
+1994-02-03T14:18:24.340Z,34.022,-118.938,14.728,2.62,ml,0,121.6,,0.372,ci,ci3149080,2016-02-13T01:06:27.778Z,"12km W of Malibu, California",earthquake,,0.378,,25,reviewed,ci,ci
+1994-02-03T12:32:38.160Z,34.3,-118.491,8.173,2.63,ml,0,47.1,,0.269,ci,ci3149055,2016-02-12T22:34:09.179Z,"3km NNE of Granada Hills, California",earthquake,,0.334,,23,reviewed,ci,ci
+1994-02-03T08:21:21.760Z,34.305,-118.435,4.459,2.89,ml,0,38.7,,0.305,ci,ci3148988,2016-02-13T08:40:56.116Z,"2km N of Pacoima, California",earthquake,,0.135,,25,reviewed,ci,ci
+1994-02-02T15:55:17.120Z,34.395,-118.576,3.511,2.83,ml,0,47,,0.271,ci,ci3148756,2016-02-12T20:04:03.538Z,"7km S of Valencia, California",earthquake,,0.094,,17,reviewed,ci,ci
+1994-02-02T11:51:53.790Z,34.378,-118.512,-0.11,2.79,ml,0,29.6,,0.283,ci,ci3148722,2016-02-12T17:28:34.582Z,"4km S of Santa Clarita, California",earthquake,,0.208,,22,reviewed,ci,ci
+1994-02-02T11:24:37.880Z,34.293,-118.61,0.397,3.75,ml,0,67.7,,0.257,ci,ci3148720,2016-02-13T01:06:16.075Z,"4km N of Chatsworth, California",earthquake,,0.154,,54,reviewed,ci,ci
+1994-02-02T07:30:17.270Z,34.319,-118.46,6.932,2.6,ml,0,42.4,,0.232,ci,ci3148691,2016-02-13T03:39:21.432Z,"4km NNW of Pacoima, California",earthquake,,0.377,,23,reviewed,ci,ci
+1994-02-02T01:26:04.870Z,34.317,-118.459,10.926,2.6,ml,0,42.2,,0.305,ci,ci3148614,2016-02-12T14:54:30.348Z,"4km NNW of Pacoima, California",earthquake,,0.749,,25,reviewed,ci,ci
+1994-02-01T21:15:22.170Z,34.251,-118.618,4.49,2.72,ml,0,36.7,,0.331,ci,ci3148553,2016-02-12T14:54:28.459Z,"2km WSW of Chatsworth, California",earthquake,,0.086,,20,reviewed,ci,ci
+1994-02-01T18:23:36.010Z,34.338,-118.615,5.257,2.92,ml,0,20.7,,0.253,ci,ci3148529,2016-02-12T17:28:26.921Z,"9km N of Chatsworth, California",earthquake,,0.57,,23,reviewed,ci,ci
+1994-02-01T12:51:58.750Z,34.318,-118.504,10.749,2.65,ml,0,33,,0.295,ci,ci3148482,2016-02-11T21:18:57.999Z,"5km N of Granada Hills, California",earthquake,,0.21,,22,reviewed,ci,ci
+1994-02-01T09:59:10.960Z,34.332,-118.694,3.71,3.18,ml,0,39.8,,0.315,ci,ci3148450,2016-02-11T21:18:54.163Z,"8km NNE of Simi Valley, California",earthquake,,0.117,,52,reviewed,ci,ci
+1994-02-01T09:29:58.150Z,34.155,-119.172,22.943,2.9,ml,0,66.3,,0.293,ci,ci3148429,2016-02-11T21:18:51.534Z,"2km ENE of Port Hueneme, California",earthquake,,0.625,,23,reviewed,ci,ci
+1994-02-01T07:40:19.990Z,34.234,-118.616,3.404,3.62,ml,0,36.9,,0.303,ci,ci3148411,2016-02-12T07:14:53.643Z,"3km SSW of Chatsworth, California",earthquake,,0.101,,59,reviewed,ci,ci
+1994-02-01T06:08:20.000Z,34.232,-118.594,18.544,2.96,ml,0,34.8,,0.303,ci,ci3148401,2016-02-11T23:53:12.641Z,"3km SSE of Chatsworth, California",earthquake,,0.262,,48,reviewed,ci,ci
+1994-01-31T22:36:37.770Z,34.33,-118.491,4.116,2.54,mc,0,54.5,,0.167,ci,ci2177227,2016-02-13T06:06:10.392Z,"7km N of Granada Hills, California",earthquake,,0.185,,10,reviewed,ci,ci
+1994-01-31T17:38:14.500Z,34.325,-118.615,13.657,2.67,ml,0,39.1,,0.211,ci,ci3148420,2016-02-12T14:54:10.690Z,"8km N of Chatsworth, California",earthquake,,0.12,,12,reviewed,ci,ci
+1994-01-31T11:41:45.760Z,34.38,-118.645,5.974,2.6,mh,0,29.8,,0.229,ci,ci2177133,2016-02-12T12:13:21.475Z,"11km SW of Valencia, California",earthquake,,1.015,,0,reviewed,ci,ci
+1994-01-31T11:41:15.480Z,34.29,-118.431,7.37,2.78,ml,0,26.5,,0.289,ci,ci3148120,2016-02-12T02:25:02.736Z,"1km NE of Pacoima, California",earthquake,,0.591,,26,reviewed,ci,ci
+1994-01-31T09:35:31.790Z,34.323,-118.517,0.629,2.53,ml,0,32.4,,0.337,ci,ci3148072,2016-02-22T16:36:12.662Z,"6km NNW of Granada Hills, California",earthquake,,0.253,,24,reviewed,ci,ci
+1994-01-31T05:20:15.810Z,34.291,-118.617,2.725,2.91,ml,0,33.4,,0.263,ci,ci3148026,2016-02-11T23:52:55.818Z,"4km NNW of Chatsworth, California",earthquake,,0.076,,24,reviewed,ci,ci
+1994-01-31T04:57:18.660Z,34.294,-118.624,1.182,3.26,mc,0,104.9,,0.148,ci,ci2177236,2016-02-13T06:05:50.875Z,"5km NNW of Chatsworth, California",earthquake,,4.374,,1,reviewed,ci,ci
+1994-01-31T04:55:50.250Z,34.294,-118.619,1.915,3.35,ml,0,33.6,,0.313,ci,ci3148020,2016-02-11T18:32:46.729Z,"4km NNW of Chatsworth, California",earthquake,,0.093,,31,reviewed,ci,ci
+1994-01-31T04:27:47.050Z,34.368,-118.514,2.11,2.53,ml,0,41.1,,0.256,ci,ci3148013,2016-02-11T23:52:54.306Z,"5km S of Santa Clarita, California",earthquake,,0.109,,26,reviewed,ci,ci
+1994-01-31T01:30:02.160Z,34.311,-118.466,10.421,2.59,mc,0,59.1,,0.135,ci,ci3192244,2016-02-12T12:13:14.005Z,"4km NW of Pacoima, California",earthquake,,1.273,,2,reviewed,ci,ci
+1994-01-31T00:36:49.150Z,34.193,-118.671,4.341,2.5,mc,0,99.4,,0.186,ci,ci3148097,2016-02-12T07:14:37.631Z,"2km W of West Hills, California",earthquake,,0.332,,12,reviewed,ci,ci
+1994-01-30T17:01:42.490Z,34.309,-118.441,5.449,2.74,ml,0,26.1,,0.268,ci,ci3147773,2016-02-13T06:05:41.759Z,"3km N of Pacoima, California",earthquake,,0.935,,26,reviewed,ci,ci
+1994-01-30T13:22:39.930Z,34.339,-118.538,4.544,2.64,ml,0,30.3,,0.274,ci,ci3147712,2016-02-12T14:53:49.918Z,"8km NNW of Granada Hills, California",earthquake,,0.068,,19,reviewed,ci,ci
+1994-01-30T10:54:41.370Z,34.322,-118.542,7.019,3.72,mc,0,126.6,,0.292,ci,ci3182276,2016-02-12T12:13:08.525Z,"7km NNW of Granada Hills, California",earthquake,,2.11,,2,reviewed,ci,ci
+1994-01-30T10:44:40.460Z,34.381,-118.565,1.987,3.27,ml,0,27.8,,0.357,ci,ci3147842,2016-02-12T07:14:30.514Z,"7km SW of Santa Clarita, California",earthquake,,0.117,,26,reviewed,ci,ci
+1994-01-30T09:56:01.820Z,34.32,-118.552,2.724,2.53,ml,0,35.3,,0.339,ci,ci3147663,2016-02-13T01:05:42.331Z,"7km NW of Granada Hills, California",earthquake,,0.077,,21,reviewed,ci,ci
+1994-01-30T09:19:56.480Z,34.318,-118.554,0.694,3.26,ml,0,30.6,,0.329,ci,ci3147655,2016-02-11T23:52:35.589Z,"7km NW of Granada Hills, California",earthquake,,0.12,,31,reviewed,ci,ci
+1994-01-30T08:19:05.990Z,34.286,-118.486,5.789,2.93,ml,0,26.5,,0.354,ci,ci3147650,2016-02-12T17:27:35.914Z,"2km NE of Granada Hills, California",earthquake,,1.02,,29,reviewed,ci,ci
+1994-01-30T06:35:36.140Z,34.368,-118.565,3.347,2.68,ml,0,45.7,,0.235,ci,ci3147629,2016-02-12T12:13:01.646Z,"8km SW of Santa Clarita, California",earthquake,,0.09,,19,reviewed,ci,ci
+1994-01-30T04:59:39.780Z,34.252,-118.466,11.242,2.55,ml,0,36,,0.284,ci,ci3147604,2016-02-12T20:03:07.946Z,"4km NNW of Panorama City, California",earthquake,,0.277,,27,reviewed,ci,ci
+1994-01-30T00:50:16.480Z,34.274,-118.467,8.612,2.54,ml,0,34.2,,0.29,ci,ci3147524,2016-02-12T20:03:05.213Z,"3km WSW of San Fernando, California",earthquake,,0.512,,27,reviewed,ci,ci
+1994-01-30T00:12:28.430Z,34.274,-118.467,10.542,2.65,ml,0,32.4,,0.307,ci,ci3147511,2016-02-11T18:32:27.607Z,"3km WSW of San Fernando, California",earthquake,,0.333,,28,reviewed,ci,ci
+1994-01-29T21:45:14.050Z,34.312,-118.473,7.342,2.97,ml,0,32.5,,0.255,ci,ci3147443,2016-02-11T18:32:16.974Z,"4km NW of Pacoima, California",earthquake,,0.33,,23,reviewed,ci,ci
+1994-01-29T21:08:43.990Z,34.277,-118.609,1.195,2.53,ml,0,48.2,,0.286,ci,ci3147518,2016-02-12T20:03:03.835Z,"2km NNW of Chatsworth, California",earthquake,,0.133,,22,reviewed,ci,ci
+1994-01-29T19:25:44.650Z,34.378,-118.65,10.358,2.73,ml,0,30.8,,0.257,ci,ci3147399,2016-02-13T08:39:55.684Z,"11km SW of Valencia, California",earthquake,,0.34,,23,reviewed,ci,ci
+1994-01-29T18:54:46.800Z,34.395,-118.627,16.258,2.61,ml,0,31.3,,0.283,ci,ci3147394,2016-02-13T08:39:53.698Z,"8km SW of Valencia, California",earthquake,,0.226,,28,reviewed,ci,ci
+1994-01-29T18:20:43.500Z,34.296,-118.635,2.575,2.7,ml,0,56.3,,0.257,ci,ci3147390,2016-02-13T03:38:32.429Z,"5km NNW of Chatsworth, California",earthquake,,0.13,,24,reviewed,ci,ci
+1994-01-29T17:22:52.580Z,34.3,-118.563,2.187,2.6,ml,0,30.6,,0.3,ci,ci3147370,2016-02-12T17:27:27.832Z,"6km NE of Chatsworth, California",earthquake,,0.084,,22,reviewed,ci,ci
+1994-01-29T16:19:09.660Z,34.186,-118.618,3.754,2.78,ml,0,37.5,,0.325,ci,ci3147357,2016-02-12T14:53:38.680Z,"2km SW of Canoga Park, California",earthquake,,0.142,,32,reviewed,ci,ci
+1994-01-29T14:03:47.540Z,34.297,-118.567,2.307,2.86,ml,0,48,,0.278,ci,ci3147346,2016-02-13T03:38:24.238Z,"6km NE of Chatsworth, California",earthquake,,0.162,,9,reviewed,ci,ci
+1994-01-29T14:03:06.950Z,34.298,-118.565,1.867,3.36,ml,0,30.7,,0.277,ci,ci3147344,2016-02-12T14:53:33.247Z,"6km NE of Chatsworth, California",earthquake,,0.087,,26,reviewed,ci,ci
+1994-01-29T13:15:49.200Z,34.288,-118.632,1.675,2.88,ml,0,34.2,,0.276,ci,ci3147283,2016-02-13T01:05:31.928Z,"4km NW of Chatsworth, California",earthquake,,0.114,,26,reviewed,ci,ci
+1994-01-29T12:59:43.710Z,34.316,-118.559,1.844,3.09,ml,0,30.8,,0.316,ci,ci3147277,2016-02-11T23:52:17.694Z,"7km NW of Granada Hills, California",earthquake,,0.101,,24,reviewed,ci,ci
+1994-01-29T12:47:36.220Z,34.348,-118.607,12.497,3.26,ml,0,34.1,,0.243,ci,ci3147272,2016-02-12T20:02:57.576Z,"10km N of Chatsworth, California",earthquake,,0.179,,24,reviewed,ci,ci
+1994-01-29T12:36:33.570Z,34.295,-118.631,0.298,2.61,mc,0,98.6,,0.285,ci,ci3182253,2016-02-12T07:14:20.271Z,"5km NNW of Chatsworth, California",earthquake,,1.663,,11,reviewed,ci,ci
+1994-01-29T12:35:33.830Z,34.314,-118.564,0.307,2.83,ml,0,37.1,,0.314,ci,ci3147457,2016-02-13T06:05:22.676Z,"7km NNE of Chatsworth, California",earthquake,,0.129,,15,reviewed,ci,ci
+1994-01-29T12:21:11.040Z,34.294,-118.608,1.347,3.23,ml,0,32.9,,0.306,ci,ci3147263,2016-02-12T12:12:40.408Z,"4km N of Chatsworth, California",earthquake,,0.112,,27,reviewed,ci,ci
+1994-01-29T12:16:56.350Z,34.278,-118.611,2.326,4.33,ml,0,32.6,,0.292,ci,ci3147259,2016-02-12T07:14:19.009Z,"2km NNW of Chatsworth, California",earthquake,,0.082,,25,reviewed,ci,ci
+1994-01-29T11:37:32.270Z,34.365,-118.641,11.933,3.34,ml,0,67.5,,0.291,ci,ci3147246,2016-02-12T12:12:38.897Z,"12km SSW of Valencia, California",earthquake,,0.464,,26,reviewed,ci,ci
+1994-01-29T11:37:30.120Z,34.303,-118.661,2.005,2.5,mh,0,37.7,,0.316,ci,ci2176175,2016-02-12T09:41:01.669Z,"7km NW of Chatsworth, California",earthquake,,0.156,,0,reviewed,ci,ci
+1994-01-29T11:30:00.430Z,34.314,-118.542,2.204,2.64,ml,0,33.5,,0.275,ci,ci3147243,2016-02-11T21:18:06.412Z,"6km NW of Granada Hills, California",earthquake,,0.148,,7,reviewed,ci,ci
+1994-01-29T11:20:35.970Z,34.306,-118.579,0.607,5.06,ml,0,22.4,,0.339,ci,ci3147406,2022-04-28T17:53:30.583Z,"6km NNE of Chatsworth, California",earthquake,,0.149,,20,reviewed,ci,ci
+1994-01-29T11:13:18.180Z,34.306,-118.41,6.159,3.39,ml,0,24.1,,0.308,ci,ci3147539,2016-02-11T23:52:13.009Z,"4km NE of Pacoima, California",earthquake,,0.585,,30,reviewed,ci,ci
+1994-01-29T10:42:27.220Z,34.316,-118.465,7.806,2.7,ml,0,31.7,,0.331,ci,ci3147235,2016-02-11T18:32:04.274Z,"4km NW of Pacoima, California",earthquake,,0.286,,23,reviewed,ci,ci
+1994-01-29T07:52:21.490Z,34.234,-118.617,20.614,2.6,ml,0,42,,0.274,ci,ci3147167,2016-02-13T06:05:14.664Z,"3km SSW of Chatsworth, California",earthquake,,0.287,,24,reviewed,ci,ci
+1994-01-29T00:47:17.640Z,34.291,-118.459,9.826,2.89,ml,0,25,,0.353,ci,ci3147057,2016-02-13T06:05:11.930Z,"2km WNW of Pacoima, California",earthquake,,0.243,,28,reviewed,ci,ci
+1994-01-28T23:04:54.790Z,34.362,-118.486,1.727,2.65,ml,0,28.1,,0.286,ci,ci3147037,2016-02-12T14:53:21.369Z,"6km SSE of Santa Clarita, California",earthquake,,0.139,,25,reviewed,ci,ci
+1994-01-28T22:25:53.370Z,34.376,-118.566,3.199,2.6,ml,0,28.8,,0.202,ci,ci3147340,2016-02-13T03:37:59.166Z,"7km SW of Santa Clarita, California",earthquake,,0.091,,15,reviewed,ci,ci
+1994-01-28T20:52:54.670Z,34.278,-118.56,12.102,2.59,mc,0,128.4,,0.256,ci,ci3181701,2016-02-12T07:14:02.358Z,"5km ENE of Chatsworth, California",earthquake,,6.45,,1,reviewed,ci,ci
+1994-01-28T20:11:05.150Z,34.374,-118.501,-0.37,3.88,ml,0,20.2,,0.345,ci,ci3147036,2016-02-11T23:52:04.995Z,"5km S of Santa Clarita, California",earthquake,,0.243,,18,reviewed,ci,ci
+1994-01-28T20:09:53.430Z,34.375,-118.494,0.19,4.21,ml,0,26.5,,0.322,ci,ci3146983,2016-02-13T08:39:39.515Z,"5km SSE of Santa Clarita, California",earthquake,,0.184,,27,reviewed,ci,ci
+1994-01-28T12:49:27.040Z,34.365,-118.497,2.116,2.59,mc,0,56,,0.198,ci,ci3181684,2016-02-12T22:32:29.602Z,"6km S of Santa Clarita, California",earthquake,,0.365,,7,reviewed,ci,ci
+1994-01-28T12:48:42.110Z,34.373,-118.489,0.407,3.12,ml,0,26.7,,0.312,ci,ci3146868,2016-02-13T06:05:00.733Z,"5km SSE of Santa Clarita, California",earthquake,,0.186,,19,reviewed,ci,ci
+1994-01-28T12:34:36.180Z,34.374,-118.495,0.166,2.66,ml,0,39.1,,0.319,ci,ci3146864,2016-02-13T08:39:32.938Z,"5km SSE of Santa Clarita, California",earthquake,,0.197,,20,reviewed,ci,ci
+1994-01-28T07:44:46.300Z,34.233,-118.615,20.532,3.43,ml,0,34.6,,0.293,ci,ci3146815,2016-02-12T09:40:34.434Z,"3km SSW of Chatsworth, California",earthquake,,0.232,,24,reviewed,ci,ci
+1994-01-28T05:47:51.860Z,34.358,-118.63,10.473,3.21,ml,0,35.6,,0.212,ci,ci3146791,2016-02-12T09:40:28.590Z,"12km NNW of Chatsworth, California",earthquake,,0.247,,25,reviewed,ci,ci
+1994-01-28T04:58:34.070Z,34.308,-118.451,5.794,3.26,ml,0,25,,0.275,ci,ci3146789,2016-02-12T20:02:36.374Z,"3km NNW of Pacoima, California",earthquake,,0.648,,29,reviewed,ci,ci
+1994-01-27T20:41:11.900Z,34.356,-118.551,3.647,2.99,ml,0,31.1,,0.247,ci,ci3146681,2016-02-11T21:17:07.639Z,"8km SSW of Santa Clarita, California",earthquake,,0.076,,25,reviewed,ci,ci
+1994-01-27T17:56:33.780Z,34.179,-118.615,3.747,2.73,mc,0,37.1,,0.313,ci,ci3146638,2016-02-13T06:04:43.059Z,"2km NW of Woodland Hills, California",earthquake,,0.158,,110,reviewed,ci,ci
+1994-01-27T17:19:58.830Z,34.273,-118.563,14.535,4.57,ml,0,30.9,,0.333,ci,ci3146628,2016-02-11T18:31:40.488Z,"4km ENE of Chatsworth, California",earthquake,,0.082,,20,reviewed,ci,ci
+1994-01-27T14:31:10.640Z,34.256,-118.583,15.296,3.26,ml,0,33.5,,0.299,ci,ci3146657,2016-02-13T03:37:41.610Z,"2km E of Chatsworth, California",earthquake,,0.087,,28,reviewed,ci,ci
+1994-01-27T13:49:05.370Z,34.36,-118.48,0.813,2.75,ml,0,28.2,,0.261,ci,ci3146550,2016-02-11T18:31:34.636Z,"7km SSE of Santa Clarita, California",earthquake,,0.196,,26,reviewed,ci,ci
+1994-01-27T12:10:53.650Z,34.319,-118.465,6.42,2.63,ml,0,26.5,,0.327,ci,ci3146522,2016-02-13T03:37:36.023Z,"5km NNW of Pacoima, California",earthquake,,0.292,,25,reviewed,ci,ci
+1994-01-27T06:26:22.280Z,34.259,-118.458,13.192,2.55,ml,0,28.6,,0.323,ci,ci3146452,2016-02-12T09:40:03.809Z,"3km SW of San Fernando, California",earthquake,,0.219,,25,reviewed,ci,ci
+1994-01-27T05:50:08.890Z,34.336,-118.718,3.144,2.56,ml,0,41.8,,0.309,ci,ci3146437,2016-02-13T01:04:46.028Z,"8km NNE of Simi Valley, California",earthquake,,0.106,,24,reviewed,ci,ci
+1994-01-27T04:43:52.720Z,34.365,-118.482,0.514,3.38,ml,0,27.4,,0.339,ci,ci3146427,2016-02-12T12:11:23.909Z,"6km SSE of Santa Clarita, California",earthquake,,0.125,,48,reviewed,ci,ci
+1994-01-27T04:04:22.730Z,34.282,-118.455,9.206,2.63,ml,0,25.3,,0.294,ci,ci3146419,2016-02-12T04:51:21.340Z,"2km W of San Fernando, California",earthquake,,0.409,,23,reviewed,ci,ci
+1994-01-26T21:23:49.870Z,34.357,-118.525,3.66,2.68,mc,0,117.8,0.0566,0.156,ci,ci3146315,2016-02-11T21:16:47.754Z,"7km SSW of Santa Clarita, California",earthquake,,0.9,,2,reviewed,ci,ci
+1994-01-26T17:59:41.190Z,34.213,-118.609,2.214,3,ml,0,55.1,,0.338,ci,ci3146242,2016-02-13T08:38:55.794Z,"2km NNW of Canoga Park, California",earthquake,,0.181,,25,reviewed,ci,ci
+1994-01-26T17:38:47.370Z,34.345,-118.608,13.077,2.62,ml,0,34.1,,0.204,ci,ci3146270,2016-02-12T17:26:34.412Z,"10km N of Chatsworth, California",earthquake,,0.196,,20,reviewed,ci,ci
+1994-01-26T17:09:22.840Z,34.373,-118.517,0.56,3.51,ml,0,27.6,,0.298,ci,ci3146233,2016-02-12T07:13:25.780Z,"5km SSW of Santa Clarita, California",earthquake,,0.192,,51,reviewed,ci,ci
+1994-01-26T16:20:31.030Z,34.237,-118.596,1.776,2.64,ml,0,40.4,,0.373,ci,ci3146268,2016-02-12T22:32:05.695Z,"2km SSE of Chatsworth, California",earthquake,,0.163,,24,reviewed,ci,ci
+1994-01-26T16:07:03.270Z,34.372,-118.628,12.051,2.77,ml,0,32.4,,0.23,ci,ci3146267,2016-02-12T02:23:28.052Z,"11km SSW of Valencia, California",earthquake,,0.293,,23,reviewed,ci,ci
+1994-01-26T13:53:23.340Z,34.18,-118.612,2.667,2.9,ml,0,57.3,,0.23,ci,ci3146168,2016-02-11T23:51:18.896Z,"2km NNW of Woodland Hills, California",earthquake,,0.167,,31,reviewed,ci,ci
+1994-01-26T12:28:47.230Z,34.303,-118.47,9.73,3.74,ml,0,25.5,,0.367,ci,ci3146149,2016-02-13T01:04:38.636Z,"4km NW of Pacoima, California",earthquake,,0.219,,48,reviewed,ci,ci
+1994-01-26T11:50:40.450Z,34.328,-118.441,5.25,2.55,ml,0,29.3,,0.288,ci,ci3146189,2016-02-12T14:52:32.955Z,"5km N of Pacoima, California",earthquake,,0.433,,21,reviewed,ci,ci
+1994-01-26T08:46:15.550Z,34.18,-118.617,2.567,2.5,mc,0,37.4,,0.327,ci,ci3146164,2016-02-12T04:51:06.268Z,"2km NW of Woodland Hills, California",earthquake,,0.139,,112,reviewed,ci,ci
+1994-01-26T07:58:51.470Z,34.281,-118.493,8.519,2.5,ml,0,26.9,,0.319,ci,ci3146073,2016-02-13T08:38:45.597Z,"1km NE of Granada Hills, California",earthquake,,0.331,,27,reviewed,ci,ci
+1994-01-26T05:38:28.340Z,34.281,-118.501,9.066,2.57,ml,0,27.4,,0.317,ci,ci3146038,2016-02-12T04:51:01.254Z,"1km N of Granada Hills, California",earthquake,,0.392,,25,reviewed,ci,ci
+1994-01-26T04:04:03.100Z,34.256,-118.468,11.649,2.84,ml,0,35.1,,0.319,ci,ci3146008,2016-02-11T21:16:34.048Z,"4km ESE of Granada Hills, California",earthquake,,0.37,,28,reviewed,ci,ci
+1994-01-26T03:53:59.180Z,34.375,-118.663,11.569,2.77,ml,0,32.2,,0.306,ci,ci3146006,2016-02-13T03:37:06.969Z,"12km SW of Valencia, California",earthquake,,0.245,,26,reviewed,ci,ci
+1994-01-26T03:43:09.380Z,34.187,-118.54,12.527,2.72,ml,0,31.2,,0.327,ci,ci3146002,2016-02-13T06:04:15.870Z,"2km SSW of Reseda, California",earthquake,,0.197,,26,reviewed,ci,ci
+1994-01-26T03:16:11.240Z,34.306,-118.422,5.444,3.22,mc,0,200.3,,0.208,ci,ci3179857,2016-02-12T07:13:13.531Z,"3km NNE of Pacoima, California",earthquake,,,,2,reviewed,ci,ci
+1994-01-26T02:46:43.990Z,34.252,-118.606,0.912,2.53,mc,0,88.4,,0.296,ci,ci3175714,2016-02-12T12:11:00.526Z,"1km SSW of Chatsworth, California",earthquake,,0.621,,4,reviewed,ci,ci
+1994-01-26T02:17:29.520Z,34.275,-118.639,22.747,2.98,ml,0,34.2,,0.233,ci,ci3145977,2016-02-12T04:50:58.446Z,"4km WNW of Chatsworth, California",earthquake,,0.181,,28,reviewed,ci,ci
+1994-01-25T23:46:52.390Z,34.283,-118.553,20.668,2.54,mc,0,135.4,0.02555,0.18,ci,ci3187681,2016-02-12T04:50:55.924Z,"5km WNW of Granada Hills, California",earthquake,,5.255,,2,reviewed,ci,ci
+1994-01-25T22:23:23.620Z,34.371,-118.72,8.557,2.92,ml,0,34.4,,0.27,ci,ci3145922,2016-02-12T02:23:13.269Z,"8km SE of Piru, California",earthquake,,0.384,,27,reviewed,ci,ci
+1994-01-25T18:42:43.800Z,34.319,-118.438,5.58,3.33,ml,0,23.8,,0.295,ci,ci3145851,2016-02-11T23:50:54.772Z,"4km N of Pacoima, California",earthquake,,0.512,,24,reviewed,ci,ci
+1994-01-25T18:08:42.470Z,34.318,-118.516,0.289,2.71,ml,0,44.3,,0.312,ci,ci3145846,2016-02-13T03:36:58.520Z,"5km NNW of Granada Hills, California",earthquake,,0.296,,23,reviewed,ci,ci
+1994-01-25T17:17:29.610Z,34.318,-118.506,1.17,3.49,ml,0,23.6,,0.34,ci,ci3146011,2016-02-12T17:26:18.580Z,"5km N of Granada Hills, California",earthquake,,0.16,,21,reviewed,ci,ci
+1994-01-25T16:21:25.170Z,34.268,-118.413,10.642,2.53,ml,0,27.4,,0.322,ci,ci3145830,2016-02-12T20:01:53.023Z,"3km ESE of San Fernando, California",earthquake,,0.369,,23,reviewed,ci,ci
+1994-01-25T12:09:00.220Z,34.318,-118.506,0.759,2.95,ml,0,28.5,,0.352,ci,ci3145743,2016-02-11T23:50:50.586Z,"5km N of Granada Hills, California",earthquake,,0.256,,23,reviewed,ci,ci
+1994-01-25T10:21:58.100Z,34.305,-118.554,10.684,3.2,ml,0,30.3,,0.32,ci,ci3145747,2016-02-12T14:52:06.190Z,"6km NW of Granada Hills, California",earthquake,,0.161,,43,reviewed,ci,ci
+1994-01-25T08:41:47.920Z,34.369,-118.547,3.398,2.69,mc,0,41.4,,0.305,ci,ci3145738,2016-02-12T22:31:33.951Z,"6km SW of Santa Clarita, California",earthquake,,0.109,,47,reviewed,ci,ci
+1994-01-25T08:41:13.840Z,34.312,-118.441,6.712,2.8,ml,0,25.9,,0.291,ci,ci3145736,2016-02-12T20:01:45.326Z,"3km N of Pacoima, California",earthquake,,0.494,,12,reviewed,ci,ci
+1994-01-25T08:40:22.970Z,34.36,-118.535,2.728,2.59,mc,0,30.6,,0.25,ci,ci3145735,2016-02-11T23:50:44.700Z,"7km SSW of Santa Clarita, California",earthquake,,0.116,,108,reviewed,ci,ci
+1994-01-25T03:36:30.450Z,34.326,-118.588,11.349,3.51,mc,0,66.9,,0.296,ci,ci3187660,2016-02-11T21:16:03.936Z,"8km N of Chatsworth, California",earthquake,,1.256,,1,reviewed,ci,ci
+1994-01-25T03:09:31.560Z,34.348,-118.493,1.854,2.85,ml,0,30.4,,0.286,ci,ci3145652,2016-02-13T01:04:02.629Z,"8km S of Santa Clarita, California",earthquake,,0.113,,16,reviewed,ci,ci
+1994-01-25T02:06:35.850Z,34.302,-118.441,7.263,2.84,ml,0,33.7,,0.299,ci,ci3145547,2016-02-12T02:22:55.747Z,"2km N of Pacoima, California",earthquake,,0.384,,15,reviewed,ci,ci
+1994-01-24T21:31:44.760Z,34.287,-118.427,3.093,2.88,ml,0,29.2,,0.341,ci,ci3145456,2016-02-12T07:12:51.585Z,"1km ENE of Pacoima, California",earthquake,,0.138,,15,reviewed,ci,ci
+1994-01-24T18:16:29.690Z,34.36,-118.555,0.187,3.22,ml,0,40.6,,0.329,ci,ci3145401,2016-02-13T06:03:43.923Z,"8km SW of Santa Clarita, California",earthquake,,0.264,,42,reviewed,ci,ci
+1994-01-24T18:05:59.950Z,34.367,-118.654,12.273,3.4,ml,0,55.5,,0.204,ci,ci3145396,2016-02-13T03:36:47.452Z,"12km SW of Valencia, California",earthquake,,0.172,,41,reviewed,ci,ci
+1994-01-24T17:52:51.410Z,34.368,-118.655,12.033,3.16,ml,0,55.3,,0.24,ci,ci3145393,2016-02-12T07:12:46.764Z,"12km SW of Valencia, California",earthquake,,0.192,,40,reviewed,ci,ci
+1994-01-24T16:25:48.610Z,34.307,-118.408,4.719,2.53,ml,0,26.7,,0.284,ci,ci3145387,2016-02-12T02:22:47.359Z,"4km NE of Pacoima, California",earthquake,,0.152,,15,reviewed,ci,ci
+1994-01-24T12:39:10.530Z,34.275,-118.476,9.347,2.92,ml,0,29,,0.296,ci,ci3145271,2016-02-12T09:39:10.234Z,"2km E of Granada Hills, California",earthquake,,0.352,,36,reviewed,ci,ci
+1994-01-24T10:48:48.700Z,34.35,-118.561,13.377,3.09,ml,0,42.8,,0.275,ci,ci3174345,2016-02-13T06:03:38.665Z,"9km SW of Santa Clarita, California",earthquake,,0.779,,35,reviewed,ci,ci
+1994-01-24T10:48:27.790Z,34.348,-118.561,13.557,3.1,ml,0,40.1,,0.22,ci,ci3145284,2016-02-11T23:50:30.722Z,"9km SSW of Santa Clarita, California",earthquake,,0.138,,17,reviewed,ci,ci
+1994-01-24T07:04:37.410Z,34.299,-118.49,8.613,2.56,ml,0,26.8,,0.287,ci,ci3145187,2016-02-12T04:50:22.462Z,"3km NNE of Granada Hills, California",earthquake,,0.286,,16,reviewed,ci,ci
+1994-01-24T06:33:45.080Z,34.332,-118.466,3.672,2.72,ml,0,40.5,,0.306,ci,ci3145185,2016-02-13T01:03:49.512Z,"6km NNW of Pacoima, California",earthquake,,0.085,,14,reviewed,ci,ci
+1994-01-24T06:27:39.020Z,34.28,-118.483,10.782,2.58,mc,0,28.6,,0.278,ci,ci3145184,2016-02-11T23:50:23.191Z,"2km ENE of Granada Hills, California",earthquake,,0.221,,105,reviewed,ci,ci
+1994-01-24T06:13:10.320Z,34.358,-118.614,10.201,2.71,mc,0,49,,0.235,ci,ci3145176,2016-02-12T17:25:45.424Z,"11km N of Chatsworth, California",earthquake,,0.3,,90,reviewed,ci,ci
+1994-01-24T05:59:22.700Z,34.35,-118.618,9.827,2.73,mc,0,49.1,,0.238,ci,ci3145172,2016-02-13T01:03:46.820Z,"10km N of Chatsworth, California",earthquake,,0.387,,73,reviewed,ci,ci
+1994-01-24T05:54:21.070Z,34.364,-118.627,10.333,4.2,ml,0,38.9,,0.292,ci,ci3145171,2016-02-12T07:12:41.493Z,"11km SSW of Valencia, California",earthquake,,0.152,,48,reviewed,ci,ci
+1994-01-24T05:50:24.340Z,34.361,-118.628,11.573,4.3,ml,0,38.6,,0.314,ci,ci3145168,2016-02-12T09:39:03.703Z,"12km SSW of Valencia, California",earthquake,,0.117,,46,reviewed,ci,ci
+1994-01-24T05:22:29.440Z,34.305,-118.416,8.234,2.5,ml,0,32.6,,0.222,ci,ci3145158,2016-02-13T03:36:26.419Z,"3km NE of Pacoima, California",earthquake,,0.468,,12,reviewed,ci,ci
+1994-01-24T05:11:27.310Z,34.272,-118.541,17.274,2.71,mc,0,137.4,,0.05,ci,ci3187574,2016-02-12T20:01:19.301Z,"4km W of Granada Hills, California",earthquake,,3.873,,2,reviewed,ci,ci
+1994-01-24T04:15:18.820Z,34.347,-118.552,6.024,4.59,ml,0,25.5,,0.314,ci,ci3145150,2016-02-12T17:25:41.011Z,"9km SSW of Santa Clarita, California",earthquake,,0.335,,40,reviewed,ci,ci
+1994-01-24T03:42:46.610Z,34.31,-118.572,1.787,2.92,ml,0,36.6,,0.282,ci,ci3145173,2016-02-13T01:03:42.657Z,"7km NNE of Chatsworth, California",earthquake,,0.084,,15,reviewed,ci,ci
+1994-01-24T02:41:02.680Z,34.253,-118.474,12.86,3.56,ml,0,31.1,,0.339,ci,ci3145129,2016-02-12T14:51:35.250Z,"3km SE of Granada Hills, California",earthquake,,0.14,,46,reviewed,ci,ci
+1994-01-24T02:07:47.630Z,34.358,-118.521,2.387,2.56,mc,0,138.7,,0.265,ci,ci3174235,2016-02-12T20:01:18.003Z,"7km SSW of Santa Clarita, California",earthquake,,0.918,,1,reviewed,ci,ci
+1994-01-23T23:37:22.980Z,34.298,-118.425,5.952,2.79,ml,0,39.1,,0.293,ci,ci3145050,2016-02-12T22:31:09.804Z,"2km NE of Pacoima, California",earthquake,,0.636,,17,reviewed,ci,ci
+1994-01-23T22:05:26.100Z,34.286,-118.49,7.979,2.51,mc,0,41.7,,0.304,ci,ci3145082,2016-02-12T22:31:05.719Z,"2km NE of Granada Hills, California",earthquake,,0.351,,119,reviewed,ci,ci
+1994-01-23T22:04:16.230Z,34.381,-118.6,5.739,2.65,mc,0,107.4,,0.256,ci,ci3187568,2016-02-12T02:22:29.498Z,"9km SSW of Valencia, California",earthquake,,0.677,,22,reviewed,ci,ci
+1994-01-23T20:05:38.770Z,34.377,-118.632,11.49,2.63,mc,0,69.9,,0.2,ci,ci2173219,2016-02-11T21:15:37.852Z,"10km SSW of Valencia, California",earthquake,,1.336,,2,reviewed,ci,ci
+1994-01-23T16:11:14.300Z,34.316,-118.435,9.385,2.84,mc,0,105.8,0.02962,0.242,ci,ci3178731,2016-02-12T22:30:53.997Z,"4km N of Pacoima, California",earthquake,,1.168,,1,reviewed,ci,ci
+1994-01-23T15:59:04.260Z,34.258,-118.599,1.066,3.16,ml,0,37.2,,0.294,ci,ci3144561,2016-02-11T18:30:14.943Z,"0km ENE of Chatsworth, California",earthquake,,0.116,,37,reviewed,ci,ci
+1994-01-23T14:52:57.310Z,34.397,-118.694,10.359,3.22,ml,0,82.1,,0.322,ci,ci3144558,2016-02-12T14:51:21.899Z,"9km ESE of Piru, California",earthquake,,0.524,,37,reviewed,ci,ci
+1994-01-23T14:52:37.580Z,34.286,-118.521,8.11,3.19,ml,0,29.1,,0.291,ci,ci3144459,2016-02-12T07:12:32.203Z,"2km NW of Granada Hills, California",earthquake,,0.297,,14,reviewed,ci,ci
+1994-01-23T14:30:07.450Z,34.337,-118.626,9.777,2.7,mc,0,49.2,,0.192,ci,ci2142200,2016-02-13T06:03:20.615Z,"9km NNW of Chatsworth, California",earthquake,,0.347,,139,reviewed,ci,ci
+1994-01-23T14:05:31.900Z,34.322,-118.525,1.545,3.13,ml,0,23.7,,0.282,ci,ci3144428,2016-02-12T04:50:00.838Z,"6km NNW of Granada Hills, California",earthquake,,0.12,,22,reviewed,ci,ci
+1994-01-23T09:30:41.230Z,34.357,-118.513,1.581,2.78,ml,0,35.6,,0.269,ci,ci3144556,2016-02-12T20:01:02.449Z,"7km S of Santa Clarita, California",earthquake,,0.189,,17,reviewed,ci,ci
+1994-01-23T09:14:50.970Z,34.276,-118.601,7.887,2.62,mc,0,35.2,,0.267,ci,ci3144306,2016-02-12T22:30:48.706Z,"2km N of Chatsworth, California",earthquake,,0.301,,91,reviewed,ci,ci
+1994-01-23T08:55:08.660Z,34.3,-118.428,5.693,4.07,ml,0,25.7,,0.338,ci,ci3144303,2016-02-12T02:22:13.120Z,"2km NNE of Pacoima, California",earthquake,,0.636,,47,reviewed,ci,ci
+1994-01-23T08:43:05.840Z,34.307,-118.398,4.783,2.66,mc,0,35.8,,0.239,ci,ci3144550,2016-02-11T23:50:05.851Z,"4km NE of Pacoima, California",earthquake,,0.128,,42,reviewed,ci,ci
+1994-01-23T08:41:41.780Z,34.293,-118.46,7.91,3.74,ml,0,26.7,,0.306,ci,ci3144539,2016-02-13T08:37:52.771Z,"2km WNW of Pacoima, California",earthquake,,0.515,,45,reviewed,ci,ci
+1994-01-23T08:39:45.450Z,34.371,-118.532,0.68,2.78,ml,0,37,,0.256,ci,ci3144530,2016-02-13T03:35:58.651Z,"6km SSW of Santa Clarita, California",earthquake,,0.189,,14,reviewed,ci,ci
+1994-01-23T08:04:26.560Z,34.303,-118.456,7.944,2.62,ml,0,50.3,,0.238,ci,ci3144291,2016-02-12T09:38:45.548Z,"3km NW of Pacoima, California",earthquake,,0.362,,12,reviewed,ci,ci
+1994-01-23T06:57:41.500Z,34.388,-118.696,8.165,3.1,ml,0,95.6,,0.22,ci,ci3144273,2016-02-12T17:25:19.015Z,"10km ESE of Piru, California",earthquake,,0.468,,19,reviewed,ci,ci
+1994-01-23T04:58:10.790Z,34.291,-118.527,7.08,2.52,ml,0,38.6,,0.28,ci,ci3144232,2016-02-12T04:49:46.406Z,"3km NW of Granada Hills, California",earthquake,,0.339,,15,reviewed,ci,ci
+1994-01-23T04:00:55.310Z,34.303,-118.46,6.252,3.03,ml,0,50.7,,0.274,ci,ci3144221,2016-02-13T01:03:13.257Z,"3km NW of Pacoima, California",earthquake,,0.907,,17,reviewed,ci,ci
+1994-01-23T02:48:46.860Z,34.338,-118.51,4.341,3.03,ml,0,38.3,,0.291,ci,ci3144206,2016-02-12T14:51:02.718Z,"7km N of Granada Hills, California",earthquake,,0.083,,18,reviewed,ci,ci
+1994-01-23T00:30:45.870Z,34.31,-118.662,2.995,2.53,ml,0,106.8,,0.251,ci,ci3144154,2016-02-12T14:50:59.953Z,"8km NW of Chatsworth, California",earthquake,,0.153,,12,reviewed,ci,ci
+1994-01-22T23:36:23.980Z,34.257,-118.461,11.393,2.97,ml,0,50.1,,0.264,ci,ci3144137,2016-02-12T12:09:39.877Z,"3km SW of San Fernando, California",earthquake,,0.359,,18,reviewed,ci,ci
+1994-01-22T23:14:54.870Z,34.314,-118.412,4.955,3.24,ml,0,30.2,,0.298,ci,ci3144125,2016-02-12T14:50:58.525Z,"4km NE of Pacoima, California",earthquake,,0.13,,21,reviewed,ci,ci
+1994-01-22T22:54:19.960Z,34.336,-118.67,22.609,2.52,mc,0,156.8,0.08439,0.253,ci,ci3187386,2016-02-13T01:03:05.469Z,"10km NE of Simi Valley, California",earthquake,,5.698,,3,reviewed,ci,ci
+1994-01-22T22:54:10.660Z,34.393,-118.568,6.969,4.64,mc,0,79.5,,0.113,ci,ci3187383,2016-02-11T23:49:51.384Z,"6km WSW of Santa Clarita, California",earthquake,,1.007,,1,reviewed,ci,ci
+1994-01-22T15:41:11.850Z,34.381,-118.534,2.271,2.65,ml,0,68.6,,0.276,ci,ci3143946,2016-02-11T18:29:45.657Z,"5km SSW of Santa Clarita, California",earthquake,,0.166,,13,reviewed,ci,ci
+1994-01-22T15:17:01.920Z,34.332,-118.603,11.577,2.51,ml,0,66.2,,0.233,ci,ci3143932,2016-02-12T14:50:27.319Z,"8km N of Chatsworth, California",earthquake,,0.268,,11,reviewed,ci,ci
+1994-01-22T14:43:10.020Z,34.384,-118.579,8.617,2.56,ml,0,62.2,,0.243,ci,ci3143912,2016-02-11T18:29:44.269Z,"8km WSW of Santa Clarita, California",earthquake,,0.305,,13,reviewed,ci,ci
+1994-01-22T13:49:51.840Z,34.313,-118.518,1.249,2.85,ml,0,49.5,,0.289,ci,ci3143893,2016-02-12T22:30:25.186Z,"5km NNW of Granada Hills, California",earthquake,,0.226,,15,reviewed,ci,ci
+1994-01-22T13:15:33.400Z,34.317,-118.455,11.72,2.51,mc,0,116,0.03666,0.236,ci,ci2172599,2016-02-13T06:02:56.692Z,"4km NNW of Pacoima, California",earthquake,,1.268,,2,reviewed,ci,ci
+1994-01-22T11:33:17.300Z,34.249,-118.459,11.1,2.84,mc,0,91.3,,0.174,ci,ci2172543,2016-02-12T04:49:31.260Z,"3km NNW of Panorama City, California",earthquake,,2.986,,2,reviewed,ci,ci
+1994-01-22T11:17:01.920Z,34.33,-118.483,14.585,2.92,mc,0,157.6,0.03544,0.175,ci,ci3173326,2016-02-12T07:12:00.696Z,"7km NW of Pacoima, California",earthquake,,3.143,,2,reviewed,ci,ci
+1994-01-22T09:45:46.410Z,34.274,-118.459,9.105,2.76,ml,0,61.4,,0.246,ci,ci3143823,2016-02-13T01:02:51.485Z,"2km WSW of San Fernando, California",earthquake,,0.47,,14,reviewed,ci,ci
+1994-01-22T09:03:49.780Z,34.362,-118.555,3.491,3.09,ml,0,42.5,,0.298,ci,ci3143816,2016-02-12T07:11:56.648Z,"8km SW of Santa Clarita, California",earthquake,,0.075,,20,reviewed,ci,ci
+1994-01-22T05:42:31.690Z,34.381,-118.473,5.357,2.5,mh,0,61.2,,0.282,ci,ci3177686,2016-02-12T17:25:00.136Z,"5km SE of Santa Clarita, California",earthquake,,1.05,,0,reviewed,ci,ci
+1994-01-22T05:41:54.760Z,34.252,-118.511,14.258,2.98,ml,0,65.5,,0.274,ci,ci3143740,2016-02-12T17:24:58.887Z,"2km SSW of Granada Hills, California",earthquake,,0.156,,19,reviewed,ci,ci
+1994-01-22T03:55:37.390Z,34.318,-118.435,5.374,2.6,ml,0,44,,0.285,ci,ci3143699,2016-02-11T18:29:34.630Z,"4km N of Pacoima, California",earthquake,,0.546,,17,reviewed,ci,ci
+1994-01-22T03:34:10.320Z,34.35,-118.492,1.283,3.1,ml,0,50.9,,0.304,ci,ci3143686,2016-02-12T17:24:54.862Z,"8km S of Santa Clarita, California",earthquake,,0.2,,18,reviewed,ci,ci
+1994-01-22T03:27:34.010Z,34.339,-118.462,3.687,2.56,ml,0,38.2,,0.246,ci,ci3143729,2016-02-12T12:09:15.211Z,"7km NNW of Pacoima, California",earthquake,,0.077,,14,reviewed,ci,ci
+1994-01-22T02:46:31.460Z,34.265,-118.579,15.865,3.13,mc,0,124.3,,0.33,ci,ci3143676,2016-02-13T06:02:46.351Z,"2km ENE of Chatsworth, California",earthquake,,1.091,,2,reviewed,ci,ci
+1994-01-22T02:31:03.470Z,34.343,-118.719,2.808,2.64,ml,0,80.7,,0.29,ci,ci3143710,2016-02-12T02:21:39.706Z,"8km NNE of Simi Valley, California",earthquake,,0.221,,12,reviewed,ci,ci
+1994-01-22T02:18:59.010Z,34.219,-118.51,18.804,2.97,ml,0,53.2,,0.246,ci,ci3143669,2016-02-12T02:21:38.266Z,"3km SE of Northridge, California",earthquake,,0.219,,14,reviewed,ci,ci
+1994-01-22T01:49:37.980Z,34.303,-118.652,5.325,2.68,ml,0,89.8,,0.304,ci,ci3143658,2016-02-12T02:21:36.801Z,"7km NW of Chatsworth, California",earthquake,,1.493,,16,reviewed,ci,ci
+1994-01-22T00:16:36.210Z,34.359,-118.477,0.642,2.57,ml,0,87,,0.266,ci,ci3143636,2016-02-12T12:09:09.808Z,"7km SSE of Santa Clarita, California",earthquake,,0.193,,16,reviewed,ci,ci
+1994-01-21T22:22:51.860Z,34.395,-118.639,5.837,2.68,mc,0,67.9,,0.263,ci,ci3143593,2016-02-12T20:00:20.621Z,"9km SW of Valencia, California",earthquake,,0.577,,100,reviewed,ci,ci
+1994-01-21T21:26:27.800Z,34.286,-118.417,4.979,3.24,ml,0,47.2,,0.301,ci,ci3143567,2016-02-12T09:38:02.172Z,"2km E of Pacoima, California",earthquake,,0.116,,44,reviewed,ci,ci
+1994-01-21T21:02:54.560Z,34.332,-118.634,4.287,3.01,ml,0,59.6,,0.314,ci,ci3143561,2016-02-11T18:29:23.294Z,"9km NNW of Chatsworth, California",earthquake,,0.137,,18,reviewed,ci,ci
+1994-01-21T20:57:51.410Z,34.297,-118.445,6.847,2.6,ml,0,49.8,,0.286,ci,ci3143559,2016-02-12T04:49:19.229Z,"2km NNW of Pacoima, California",earthquake,,0.616,,16,reviewed,ci,ci
+1994-01-21T20:13:04.200Z,34.317,-118.463,8.998,2.55,mc,0,59.4,,0.214,ci,ci3172900,2016-02-13T01:02:23.085Z,"4km NNW of Pacoima, California",earthquake,,1.41,,41,reviewed,ci,ci
+1994-01-21T20:12:16.870Z,34.302,-118.446,6.035,2.67,mc,0,64.9,,0.275,ci,ci3143539,2016-02-12T02:21:34.069Z,"2km NNW of Pacoima, California",earthquake,,0.933,,131,reviewed,ci,ci
+1994-01-21T19:56:56.100Z,34.282,-118.475,11.225,2.76,ml,0,36.7,,0.183,ci,ci3143531,2016-02-12T04:49:17.890Z,"3km ENE of Granada Hills, California",earthquake,,0.32,,16,reviewed,ci,ci
+1994-01-21T19:54:40.000Z,34.306,-118.477,10.228,2.61,mc,0,50.2,,0.247,ci,ci3143528,2016-02-12T14:50:07.189Z,"4km NW of Pacoima, California",earthquake,,0.402,,105,reviewed,ci,ci
+1994-01-21T19:46:37.880Z,34.301,-118.46,8.567,2.73,ml,0,51.1,,0.264,ci,ci3143526,2016-02-12T02:21:32.569Z,"3km NW of Pacoima, California",earthquake,,0.397,,15,reviewed,ci,ci
+1994-01-21T19:37:42.140Z,34.289,-118.468,7.587,2.66,mc,0,51.6,,0.273,ci,ci3143495,2016-02-12T20:00:15.798Z,"3km WNW of San Fernando, California",earthquake,,0.635,,79,reviewed,ci,ci
+1994-01-21T19:27:37.940Z,34.297,-118.461,7.587,2.7,ml,0,68.5,,0.23,ci,ci3143493,2016-02-12T09:37:58.384Z,"3km NW of Pacoima, California",earthquake,,0.527,,11,reviewed,ci,ci
+1994-01-21T19:14:20.890Z,34.335,-118.638,13.977,3.32,ml,0,55.6,,0.252,ci,ci3143487,2016-02-12T20:00:12.643Z,"9km NNW of Chatsworth, California",earthquake,,0.136,,44,reviewed,ci,ci
+1994-01-21T19:11:36.620Z,34.286,-118.453,8.197,2.51,mc,0,74.1,,0.164,ci,ci3143486,2016-02-11T23:48:58.399Z,"1km WNW of San Fernando, California",earthquake,,0.741,,36,reviewed,ci,ci
+1994-01-21T19:00:42.600Z,34.256,-118.579,9.91,3.1,mh,0,,,,ci,ci37366637,2019-03-02T01:14:16.190Z,"2km E of Chatsworth, CA",earthquake,,,,0,reviewed,ci,ci
+1994-01-21T18:57:19.350Z,34.292,-118.474,8.637,3.54,ml,0,57.6,,0.265,ci,ci3143556,2016-02-12T09:37:57.009Z,"3km NE of Granada Hills, California",earthquake,,0.39,,44,reviewed,ci,ci
+1994-01-21T18:54:56.520Z,34.303,-118.462,8.549,3.33,ml,0,50.3,,0.264,ci,ci3143548,2016-02-12T07:11:42.620Z,"3km NW of Pacoima, California",earthquake,,0.921,,9,reviewed,ci,ci
+1994-01-21T18:53:44.570Z,34.298,-118.458,7.363,4.32,ml,0,36.4,,0.287,ci,ci3143547,2016-02-13T06:02:38.699Z,"2km NW of Pacoima, California",earthquake,,0.549,,38,reviewed,ci,ci
+1994-01-21T18:52:44.240Z,34.302,-118.452,7.303,4.31,ml,0,36.2,,0.354,ci,ci3143546,2016-02-12T14:50:01.045Z,"2km NNW of Pacoima, California",earthquake,,0.474,,15,reviewed,ci,ci
+1994-01-21T18:42:28.770Z,34.31,-118.474,7.529,4.25,ml,0,47.1,,0.343,ci,ci3143541,2016-02-13T08:37:11.593Z,"4km NW of Pacoima, California",earthquake,,0.761,,17,reviewed,ci,ci
+1994-01-21T18:42:24.400Z,34.317,-118.463,2.533,3,mh,0,41.7,,0.31,ci,ci3183923,2016-02-13T03:35:29.294Z,"4km NNW of Pacoima, California",earthquake,,0.211,,0,reviewed,ci,ci
+1994-01-21T18:39:47.080Z,34.297,-118.479,11.53,4,ml,0,76.4,,0.284,ci,ci3159009,2016-02-13T06:02:37.152Z,"4km NE of Granada Hills, California",earthquake,,1.61,,4,reviewed,ci,ci
+1994-01-21T18:39:15.260Z,34.301,-118.466,10.323,4.53,ml,0,37.2,,0.342,ci,ci3145627,2016-02-12T07:11:41.247Z,"3km NW of Pacoima, California",earthquake,,0.206,,33,reviewed,ci,ci
+1994-01-21T18:17:24.840Z,34.312,-118.449,8.636,2.64,mc,0,91.4,,0.151,ci,ci2167305,2016-02-11T23:48:56.735Z,"3km NNW of Pacoima, California",earthquake,,2.277,,1,reviewed,ci,ci
+1994-01-21T17:32:25.960Z,34.3,-118.444,8.107,2.5,ml,0,49.4,,0.257,ci,ci3143439,2016-02-12T22:30:01.408Z,"2km NNW of Pacoima, California",earthquake,,0.468,,14,reviewed,ci,ci
+1994-01-21T16:31:24.910Z,34.397,-118.663,11.164,2.5,mc,0,70.3,,0.276,ci,ci3143420,2016-02-11T23:48:49.158Z,"11km SW of Valencia, California",earthquake,,0.442,,101,reviewed,ci,ci
+1994-01-21T14:26:51.940Z,34.361,-118.607,11.867,2.65,ml,0,65.8,,0.238,ci,ci3143386,2016-02-12T09:37:48.679Z,"11km SSW of Valencia, California",earthquake,,0.243,,5,reviewed,ci,ci
+1994-01-21T13:22:14.970Z,34.274,-118.595,16.997,2.84,ml,0,65.6,,0.275,ci,ci3143362,2016-02-12T20:00:03.174Z,"2km NNE of Chatsworth, California",earthquake,,0.233,,16,reviewed,ci,ci
+1994-01-21T12:47:06.690Z,34.367,-118.663,12.037,2.66,mc,0,72,,0.176,ci,ci3143509,2016-02-12T02:21:22.874Z,"13km NNE of Simi Valley, California",earthquake,,0.378,,110,reviewed,ci,ci
+1994-01-21T12:43:53.770Z,34.369,-118.489,1.748,2.87,ml,0,57,,0.245,ci,ci3143502,2016-02-13T01:02:12.454Z,"6km SSE of Santa Clarita, California",earthquake,,0.189,,20,reviewed,ci,ci
+1994-01-21T11:31:17.040Z,34.366,-118.614,13.047,2.6,ml,0,66.4,,0.273,ci,ci3143325,2016-02-12T09:37:46.207Z,"11km SSW of Valencia, California",earthquake,,0.14,,14,reviewed,ci,ci
+1994-01-21T11:14:48.340Z,34.275,-118.534,10.819,2.62,ml,0,63,,0.281,ci,ci3143498,2016-02-12T20:00:01.523Z,"3km W of Granada Hills, California",earthquake,,0.295,,17,reviewed,ci,ci
+1994-01-21T10:45:42.180Z,34.379,-118.587,4.838,2.65,mc,0,102.1,,0.213,ci,ci3143497,2016-02-12T09:37:44.751Z,"8km WSW of Santa Clarita, California",earthquake,,0.215,,117,reviewed,ci,ci
+1994-01-21T10:43:59.740Z,34.377,-118.63,10.897,2.73,ml,0,67.8,,0.206,ci,ci3143496,2016-02-12T12:08:53.587Z,"10km SSW of Valencia, California",earthquake,,0.462,,14,reviewed,ci,ci
+1994-01-21T08:41:38.790Z,34.309,-118.436,7.919,2.72,mc,0,144.1,0.04619,0.143,ci,ci3174261,2016-02-11T18:29:05.756Z,"3km N of Pacoima, California",earthquake,,2.932,,2,reviewed,ci,ci
+1994-01-21T08:40:41.560Z,34.358,-118.716,9.547,2.88,ml,0,127.6,,0.28,ci,ci3143460,2016-02-11T18:29:04.260Z,"10km SE of Piru, California",earthquake,,2.143,,12,reviewed,ci,ci
+1994-01-21T08:40:17.310Z,34.36,-118.688,12.297,2.93,ml,0,75.5,,0.303,ci,ci3143446,2016-02-12T09:37:38.953Z,"11km NNE of Simi Valley, California",earthquake,,0.339,,14,reviewed,ci,ci
+1994-01-21T07:53:54.230Z,34.357,-118.522,2.521,2.78,ml,0,57.2,,0.239,ci,ci3143444,2016-02-12T14:49:49.651Z,"7km SSW of Santa Clarita, California",earthquake,,0.108,,16,reviewed,ci,ci
+1994-01-21T06:25:09.850Z,34.234,-118.593,5.403,2.91,mc,0,262,0.06809,0.258,ci,ci3175774,2016-02-13T08:36:50.749Z,"3km SSE of Chatsworth, California",earthquake,,,,2,reviewed,ci,ci
+1994-01-21T05:56:04.660Z,34.27,-118.653,13.975,3.36,ml,0,46,,0.255,ci,ci3143181,2016-02-12T22:29:45.132Z,"5km WNW of Chatsworth, California",earthquake,,0.158,,44,reviewed,ci,ci
+1994-01-21T05:49:56.660Z,34.287,-118.581,3.399,2.64,ml,0,63.9,,0.3,ci,ci3143180,2016-02-12T04:48:54.142Z,"4km NNE of Chatsworth, California",earthquake,,0.086,,15,reviewed,ci,ci
+1994-01-21T05:29:20.650Z,34.355,-118.56,12.341,2.99,ml,0,73.5,,0.217,ci,ci3143175,2016-02-11T23:48:38.152Z,"8km SW of Santa Clarita, California",earthquake,,0.179,,25,reviewed,ci,ci
+1994-01-21T04:55:38.360Z,34.338,-118.63,14.377,2.71,ml,0,69.3,,0.246,ci,ci3143167,2016-02-12T02:21:07.525Z,"9km NNW of Chatsworth, California",earthquake,,0.118,,16,reviewed,ci,ci
+1994-01-21T03:35:48.080Z,34.322,-118.512,2.214,3.01,ml,0,59.4,,0.269,ci,ci3143122,2016-02-12T04:48:45.182Z,"6km N of Granada Hills, California",earthquake,,0.12,,20,reviewed,ci,ci
+1994-01-21T03:13:03.170Z,34.374,-118.457,4.634,2.59,ml,0,37.4,,0.248,ci,ci3143109,2016-02-13T08:36:48.934Z,"7km SE of Santa Clarita, California",earthquake,,0.074,,18,reviewed,ci,ci
+1994-01-21T02:51:47.190Z,34.265,-118.46,10.451,2.55,ml,0,62.4,,0.261,ci,ci3143099,2016-02-12T22:29:35.140Z,"3km SW of San Fernando, California",earthquake,,0.408,,17,reviewed,ci,ci
+1994-01-21T02:30:01.260Z,34.22,-118.575,19.458,2.57,ml,0,77.4,,0.254,ci,ci3143252,2016-02-12T12:08:40.667Z,"4km NE of Canoga Park, California",earthquake,,0.382,,17,reviewed,ci,ci
+1994-01-21T02:06:02.480Z,34.377,-118.511,0.041,2.79,ml,0,56,,0.272,ci,ci2146397,2016-02-13T01:01:51.664Z,"4km S of Santa Clarita, California",earthquake,,0.237,,14,reviewed,ci,ci
+1994-01-21T02:04:44.080Z,34.379,-118.505,-0.489,2.83,ml,0,55.4,,0.267,ci,ci3143089,2016-02-12T12:08:39.254Z,"4km S of Santa Clarita, California",earthquake,,0.272,,14,reviewed,ci,ci
+1994-01-21T02:00:07.350Z,34.287,-118.421,1.689,2.56,mc,0,65.4,,0.31,ci,ci3187292,2016-02-12T12:08:38.005Z,"2km ENE of Pacoima, California",earthquake,,0.73,,4,reviewed,ci,ci
+1994-01-21T01:35:05.810Z,34.3,-118.417,2.446,2.82,ml,0,46.4,,0.331,ci,ci3143073,2016-02-12T12:08:36.856Z,"3km NE of Pacoima, California",earthquake,,0.205,,16,reviewed,ci,ci
+1994-01-21T01:21:47.210Z,34.298,-118.447,5.518,2.6,ml,0,51.2,,0.308,ci,ci3143065,2016-02-13T06:02:15.115Z,"2km NNW of Pacoima, California",earthquake,,2.807,,15,reviewed,ci,ci
+1994-01-21T00:38:36.570Z,34.309,-118.431,7.162,2.73,mc,0,48.8,,0.274,ci,ci3143062,2016-02-11T21:14:26.300Z,"3km NNE of Pacoima, California",earthquake,,0.911,,136,reviewed,ci,ci
+1994-01-21T00:09:06.060Z,34.297,-118.458,8.944,3.07,ml,0,36.4,,0.275,ci,ci3143240,2016-02-12T14:49:38.858Z,"2km NW of Pacoima, California",earthquake,,0.695,,16,reviewed,ci,ci
+1994-01-21T00:07:29.270Z,34.368,-118.534,-0.208,3.26,ml,0,82.2,,0.259,ci,ci3143239,2016-02-12T19:59:45.519Z,"6km SSW of Santa Clarita, California",earthquake,,0.288,,16,reviewed,ci,ci
+1994-01-20T22:04:44.520Z,34.256,-118.465,12.01,3.45,ml,0,50.3,,0.283,ci,ci3143020,2016-02-13T01:01:45.005Z,"4km SW of San Fernando, California",earthquake,,0.274,,48,reviewed,ci,ci
+1994-01-20T21:51:59.520Z,34.236,-118.609,20.878,2.71,ml,0,81.8,,0.253,ci,ci3143016,2016-02-12T14:49:36.047Z,"2km SSW of Chatsworth, California",earthquake,,0.753,,14,reviewed,ci,ci
+1994-01-20T21:38:45.450Z,34.284,-118.563,8.575,2.56,mc,0,61.6,,0.244,ci,ci3143014,2016-02-13T08:36:44.982Z,"5km NE of Chatsworth, California",earthquake,,0.439,,110,reviewed,ci,ci
+1994-01-20T21:24:24.110Z,34.378,-118.613,12.1,2.59,mc,0,65.9,,0.256,ci,ci3143002,2016-02-11T18:28:47.017Z,"9km SSW of Valencia, California",earthquake,,0.716,,104,reviewed,ci,ci
+1994-01-20T20:48:39.200Z,34.244,-118.596,18.841,2.97,ml,0,81.3,,0.271,ci,ci3142984,2016-02-12T22:29:25.572Z,"2km SSE of Chatsworth, California",earthquake,,0.502,,18,reviewed,ci,ci
+1994-01-20T20:45:29.210Z,34.288,-118.556,10.05,2.56,ml,0,60.8,,0.284,ci,ci3142981,2016-02-13T08:36:43.609Z,"5km WNW of Granada Hills, California",earthquake,,0.268,,13,reviewed,ci,ci
+1994-01-20T20:42:29.550Z,34.271,-118.587,14.32,2.98,mc,0,122.3,0.01674,0.186,ci,ci3191030,2016-02-12T04:48:39.594Z,"2km NE of Chatsworth, California",earthquake,,0.71,,79,reviewed,ci,ci
+1994-01-20T20:42:24.900Z,34.289,-118.56,9.34,2.88,ml,0,61.3,,0.303,ci,ci3142980,2016-02-12T07:11:18.809Z,"5km NE of Chatsworth, California",earthquake,,0.285,,19,reviewed,ci,ci
+1994-01-20T19:37:46.740Z,34.387,-118.639,7.457,2.8,ml,0,68.3,,0.347,ci,ci3142952,2016-02-11T18:28:39.489Z,"10km SW of Valencia, California",earthquake,,1.692,,14,reviewed,ci,ci
+1994-01-20T19:02:33.890Z,34.283,-118.476,10.706,2.59,ml,0,57.3,,0.223,ci,ci3142944,2016-02-12T17:24:17.925Z,"3km ENE of Granada Hills, California",earthquake,,0.652,,12,reviewed,ci,ci
+1994-01-20T18:56:01.220Z,34.315,-118.433,7.019,2.85,ml,0,41.4,,0.282,ci,ci3142941,2016-02-13T03:35:02.547Z,"4km N of Pacoima, California",earthquake,,1.317,,16,reviewed,ci,ci
+1994-01-20T18:48:45.030Z,34.377,-118.541,2.058,2.75,mc,0,147,0.07049,0.292,ci,ci3171235,2016-02-11T18:28:37.958Z,"5km SW of Santa Clarita, California",earthquake,,1.004,,4,reviewed,ci,ci
+1994-01-20T18:48:07.400Z,34.375,-118.51,-0.282,3.2,ml,0,58.4,,0.27,ci,ci3142940,2016-02-11T18:28:36.620Z,"5km S of Santa Clarita, California",earthquake,,0.257,,18,reviewed,ci,ci
+1994-01-20T18:43:15.820Z,34.337,-118.58,-0.512,2.6,ml,0,63.5,,0.325,ci,ci3142936,2016-02-13T01:01:41.661Z,"9km NNE of Chatsworth, California",earthquake,,0.375,,15,reviewed,ci,ci
+1994-01-20T18:10:40.900Z,34.303,-118.438,4.446,2.63,ml,0,62.9,,0.235,ci,ci3142924,2016-02-13T03:35:01.008Z,"2km N of Pacoima, California",earthquake,,0.345,,12,reviewed,ci,ci
+1994-01-20T17:36:40.660Z,34.219,-118.607,14.408,2.89,ml,0,107.5,,0.287,ci,ci3142911,2016-02-12T02:20:48.035Z,"2km N of Canoga Park, California",earthquake,,0.169,,16,reviewed,ci,ci
+1994-01-20T16:41:56.130Z,34.367,-118.46,0.138,2.83,ml,0,49.7,,0.237,ci,ci3142891,2016-02-13T01:01:38.942Z,"7km SE of Santa Clarita, California",earthquake,,0.216,,16,reviewed,ci,ci
+1994-01-20T16:37:41.680Z,34.254,-118.46,10.558,2.87,ml,0,49.8,,0.27,ci,ci3142890,2016-02-12T22:29:20.286Z,"4km SSW of San Fernando, California",earthquake,,0.507,,18,reviewed,ci,ci
+1994-01-20T16:15:27.670Z,34.356,-118.511,2.048,2.65,mc,0,50.7,,0.272,ci,ci3142881,2016-02-12T02:20:43.862Z,"7km S of Santa Clarita, California",earthquake,,0.216,,126,reviewed,ci,ci
+1994-01-20T16:14:38.370Z,34.33,-118.5,6.498,2.55,ml,0,73.3,,0.229,ci,ci3142880,2016-02-12T04:48:31.206Z,"6km N of Granada Hills, California",earthquake,,1.436,,14,reviewed,ci,ci
+1994-01-20T15:05:34.300Z,34.317,-118.429,4.376,2.85,ml,0,40.6,,0.255,ci,ci3142851,2016-02-12T12:08:34.097Z,"4km NNE of Pacoima, California",earthquake,,0.192,,18,reviewed,ci,ci
+1994-01-20T14:22:51.370Z,34.299,-118.447,7.496,2.66,ml,0,96.1,,0.242,ci,ci3142843,2016-02-11T23:48:18.699Z,"2km NNW of Pacoima, California",earthquake,,0.885,,12,reviewed,ci,ci
+1994-01-20T14:19:14.240Z,34.363,-118.534,2.462,3.44,ml,0,58.3,,0.282,ci,ci3142842,2016-02-12T12:08:32.342Z,"6km SSW of Santa Clarita, California",earthquake,,0.187,,23,reviewed,ci,ci
+1994-01-20T13:56:45.680Z,34.365,-118.708,9.563,3.23,ml,0,77.7,,0.242,ci,ci3142824,2016-02-12T04:48:24.433Z,"10km SE of Piru, California",earthquake,,0.852,,21,reviewed,ci,ci
+1994-01-20T13:30:07.630Z,34.326,-118.616,14.748,2.52,ml,0,64.5,,0.276,ci,ci3142810,2016-02-12T12:08:30.825Z,"8km N of Chatsworth, California",earthquake,,0.173,,13,reviewed,ci,ci
+1994-01-20T12:28:13.020Z,34.318,-118.444,4.367,2.64,mc,0,137.7,0.07892,0.14,ci,ci2165460,2016-02-11T23:48:17.216Z,"4km N of Pacoima, California",earthquake,,0.609,,2,reviewed,ci,ci
+1994-01-20T12:26:22.820Z,34.306,-118.439,6.973,3.19,ml,0,46.4,,0.223,ci,ci3142838,2016-02-11T23:48:15.285Z,"2km N of Pacoima, California",earthquake,,0.893,,22,reviewed,ci,ci
+1994-01-20T11:58:24.600Z,34.341,-118.707,0.553,2.56,mc,0,79.2,,0.296,ci,ci3142778,2016-02-12T07:11:06.830Z,"8km NNE of Simi Valley, California",earthquake,,0.391,,67,reviewed,ci,ci
+1994-01-20T11:37:55.030Z,34.311,-118.434,5.37,2.59,mc,0,87,0.02008,0.176,ci,ci2165142,2016-02-11T18:28:28.207Z,"3km N of Pacoima, California",earthquake,,6.193,,2,reviewed,ci,ci
+1994-01-20T11:37:18.030Z,34.315,-118.427,3.468,3.23,ml,0,79.8,,0.224,ci,ci3142833,2016-02-11T23:48:12.348Z,"4km NNE of Pacoima, California",earthquake,,0.154,,21,reviewed,ci,ci
+1994-01-20T11:36:47.380Z,34.391,-118.627,12.199,2.62,mc,0,91.9,,0.197,ci,ci3170201,2016-02-11T18:28:26.879Z,"9km SW of Valencia, California",earthquake,,0.81,,41,reviewed,ci,ci
+1994-01-20T11:36:16.350Z,34.308,-118.436,5.264,2.7,ml,0,60,,0.201,ci,ci3142831,2016-02-13T01:01:32.006Z,"3km N of Pacoima, California",earthquake,,3.307,,15,reviewed,ci,ci
+1994-01-20T11:27:36.100Z,34.383,-118.63,13.755,2.55,ml,0,67.5,,0.269,ci,ci3142763,2016-02-11T23:48:10.836Z,"10km SW of Valencia, California",earthquake,,0.604,,13,reviewed,ci,ci
+1994-01-20T11:06:20.080Z,34.376,-118.509,-0.002,3.13,ml,0,55.9,,0.347,ci,ci3142757,2016-02-11T18:28:25.559Z,"4km S of Santa Clarita, California",earthquake,,0.231,,22,reviewed,ci,ci
+1994-01-20T10:22:26.770Z,34.325,-118.54,-0.486,2.53,mc,0,62.4,,0.29,ci,ci3169291,2016-02-11T18:28:21.144Z,"7km NNW of Granada Hills, California",earthquake,,1.862,,14,reviewed,ci,ci
+1994-01-20T10:07:09.280Z,34.282,-118.522,10.805,2.81,ml,0,58.7,,0.253,ci,ci3142733,2016-02-12T04:48:17.220Z,"2km WNW of Granada Hills, California",earthquake,,0.29,,18,reviewed,ci,ci
+1994-01-20T10:03:04.270Z,34.365,-118.645,13.828,2.51,ml,0,70,,0.256,ci,ci3142828,2016-02-12T12:08:25.085Z,"12km SW of Valencia, California",earthquake,,0.404,,12,reviewed,ci,ci
+1994-01-20T09:57:32.750Z,34.358,-118.559,5.718,2.66,mc,0,86,,0.211,ci,ci3142827,2016-02-12T19:59:42.467Z,"8km SW of Santa Clarita, California",earthquake,,1.566,,130,reviewed,ci,ci
+1994-01-20T08:58:07.770Z,34.311,-118.501,0.887,3.41,ml,0,49.1,,0.259,ci,ci2140450,2016-02-12T02:20:28.920Z,"4km N of Granada Hills, California",earthquake,,0.22,,18,reviewed,ci,ci
+1994-01-20T08:37:49.940Z,34.477,-118.654,5.017,2.94,mc,0,126.5,,0.203,ci,ci3183813,2016-02-12T02:20:25.842Z,"3km WSW of Castaic, California",earthquake,,,,2,reviewed,ci,ci
+1994-01-20T07:24:11.260Z,34.397,-118.619,8.992,2.52,mc,0,102,,0.235,ci,ci3142825,2016-02-12T19:59:37.193Z,"8km SW of Valencia, California",earthquake,,1.548,,29,reviewed,ci,ci
+1994-01-20T07:22:40.480Z,34.328,-118.528,0.853,3.81,ml,0,26.8,,0.304,ci,ci3142823,2016-02-12T12:08:18.782Z,"7km NNW of Granada Hills, California",earthquake,,0.256,,18,reviewed,ci,ci
+1994-01-20T07:00:37.750Z,34.358,-118.72,10.462,3.22,ml,0,79.8,,0.265,ci,ci3142822,2016-02-13T01:01:24.442Z,"9km SE of Piru, California",earthquake,,0.807,,14,reviewed,ci,ci
+1994-01-20T06:58:27.140Z,34.36,-118.708,12.73,3.85,ml,0,46.1,,0.289,ci,ci3142821,2016-02-11T23:48:05.697Z,"10km SE of Piru, California",earthquake,,0.255,,21,reviewed,ci,ci
+1994-01-20T06:23:45.180Z,34.313,-118.402,4.608,2.65,ml,0,40.5,,0.248,ci,ci3142659,2016-02-12T02:20:24.062Z,"5km NE of Pacoima, California",earthquake,,0.175,,13,reviewed,ci,ci
+1994-01-20T06:03:54.960Z,34.999,-119.175,10.738,3.05,ml,0,89.8,,0.256,ci,ci3142646,2016-02-12T09:37:09.282Z,"17km N of Pine Mountain Club, California",earthquake,,0.458,,12,reviewed,ci,ci
+1994-01-20T05:58:24.590Z,34.383,-118.699,10.272,3.56,ml,0,75.3,,0.263,ci,ci3142819,2016-02-12T02:20:22.199Z,"9km ESE of Piru, California",earthquake,,0.761,,22,reviewed,ci,ci
+1994-01-20T05:41:07.670Z,33.908,-118.539,11.808,2.62,mc,0,112.1,,0.31,ci,ci3142637,2016-02-11T21:14:01.947Z,"11km W of El Segundo, California",earthquake,,1.344,,124,reviewed,ci,ci
+1994-01-20T04:54:15.050Z,34.352,-118.381,-0.415,2.57,mc,0,64.4,,0.208,ci,ci3142618,2016-02-11T21:13:59.181Z,"9km N of Lake View Terrace, California",earthquake,,0.279,,131,reviewed,ci,ci
+1994-01-20T04:52:36.240Z,34.34,-118.735,14.633,2.65,ml,0,103.3,,0.257,ci,ci3142617,2016-02-13T03:34:47.896Z,"8km N of Simi Valley, California",earthquake,,0.16,,13,reviewed,ci,ci
+1994-01-20T04:36:14.860Z,34.308,-118.512,1.092,2.85,ml,0,52.3,,0.289,ci,ci3142611,2016-02-11T21:13:56.108Z,"4km NNW of Granada Hills, California",earthquake,,0.293,,17,reviewed,ci,ci
+1994-01-20T04:32:22.130Z,34.376,-118.612,12.352,2.84,ml,0,65.9,,0.24,ci,ci3142608,2016-02-13T08:36:31.766Z,"10km SSW of Valencia, California",earthquake,,0.532,,16,reviewed,ci,ci
+1994-01-20T04:24:17.280Z,34.363,-118.728,11.488,3,ml,0,80.3,,0.291,ci,ci3142607,2016-02-13T03:34:46.516Z,"8km SE of Piru, California",earthquake,,0.814,,17,reviewed,ci,ci
+1994-01-20T03:55:51.180Z,34.359,-118.683,13.203,2.56,ml,0,74.9,,0.263,ci,ci3142582,2016-02-12T19:59:30.472Z,"11km NNE of Simi Valley, California",earthquake,,0.36,,7,reviewed,ci,ci
+1994-01-20T03:14:06.740Z,34.364,-118.507,-0.445,2.56,ml,0,52.4,,0.252,ci,ci3142569,2016-02-11T18:28:14.190Z,"6km S of Santa Clarita, California",earthquake,,0.292,,14,reviewed,ci,ci
+1994-01-20T03:06:43.070Z,34.289,-118.464,8.766,2.5,ml,0,74,,0.251,ci,ci3142568,2016-02-11T23:48:01.149Z,"2km WNW of San Fernando, California",earthquake,,0.623,,13,reviewed,ci,ci
+1994-01-20T03:01:10.120Z,34.354,-118.702,12.953,2.54,mc,0,84.6,,0.239,ci,ci3142567,2016-02-11T21:13:52.893Z,"10km NNE of Simi Valley, California",earthquake,,0.332,,102,reviewed,ci,ci
+1994-01-20T02:45:33.830Z,34.369,-118.71,7.387,2.6,mc,0,77.6,,0.27,ci,ci3142551,2016-02-12T04:48:09.350Z,"9km ESE of Piru, California",earthquake,,1.454,,109,reviewed,ci,ci
+1994-01-20T02:39:26.520Z,34.305,-118.48,8.384,2.5,ml,0,89.4,,0.22,ci,ci3142548,2016-02-12T04:48:07.963Z,"4km NNE of Granada Hills, California",earthquake,,0.441,,13,reviewed,ci,ci
+1994-01-20T02:35:36.500Z,34.261,-118.465,9.501,2.96,ml,0,50.6,,0.17,ci,ci3142546,2016-02-12T09:37:03.846Z,"3km SW of San Fernando, California",earthquake,,0.651,,19,reviewed,ci,ci
+1994-01-20T02:22:38.950Z,34.31,-118.63,5.816,2.84,ml,0,70.1,,0.273,ci,ci3142523,2016-02-12T17:23:57.287Z,"6km NNW of Chatsworth, California",earthquake,,1.945,,16,reviewed,ci,ci
+1994-01-20T02:19:53.960Z,34.301,-118.424,4.989,2.67,ml,0,46.9,,0.25,ci,ci3142517,2016-02-13T06:01:54.432Z,"2km NNE of Pacoima, California",earthquake,,0.344,,14,reviewed,ci,ci
+1994-01-20T01:41:28.870Z,34.357,-118.725,9.105,2.78,ml,0,89,,0.256,ci,ci3142490,2016-02-12T02:20:20.267Z,"9km SE of Piru, California",earthquake,,2.394,,15,reviewed,ci,ci
+1994-01-20T01:25:24.890Z,34.293,-118.59,1.896,2.53,mc,0,65.1,,0.304,ci,ci3142487,2016-02-13T03:34:43.801Z,"4km NNE of Chatsworth, California",earthquake,,0.173,,107,reviewed,ci,ci
+1994-01-20T01:08:26.880Z,34.357,-118.699,12.304,2.68,ml,0,77,,0.256,ci,ci3142483,2016-02-11T21:13:47.566Z,"10km NNE of Simi Valley, California",earthquake,,0.583,,13,reviewed,ci,ci
+1994-01-20T00:31:11.870Z,34.289,-118.453,8.784,2.59,ml,0,65,,0.272,ci,ci3142474,2016-02-12T02:20:08.964Z,"2km WNW of Pacoima, California",earthquake,,0.817,,15,reviewed,ci,ci
+1994-01-20T00:01:58.250Z,34.212,-118.607,2.034,2.59,mc,0,103.3,,0.345,ci,ci3167843,2016-02-13T01:01:17.732Z,"1km N of Canoga Park, California",earthquake,,0.514,,109,reviewed,ci,ci
+1994-01-19T23:59:53.580Z,34.364,-118.7,10.893,3.15,ml,0,76.7,,0.259,ci,ci3142460,2016-02-13T03:34:40.034Z,"10km ESE of Piru, California",earthquake,,0.49,,20,reviewed,ci,ci
+1994-01-19T23:19:44.440Z,34.292,-118.454,8.606,2.5,mc,0,71.6,,0.234,ci,ci3167832,2016-02-13T08:36:19.838Z,"2km NW of Pacoima, California",earthquake,,1.167,,116,reviewed,ci,ci
+1994-01-19T23:18:41.960Z,34.379,-118.597,11.082,2.59,ml,0,64.1,,0.23,ci,ci3142422,2016-02-11T23:47:57.048Z,"9km SSW of Valencia, California",earthquake,,0.735,,8,reviewed,ci,ci
+1994-01-19T23:06:48.910Z,34.373,-118.653,8.653,2.77,ml,0,70.5,,0.257,ci,ci3142421,2016-02-12T02:20:03.387Z,"12km SW of Valencia, California",earthquake,,1.369,,16,reviewed,ci,ci
+1994-01-19T23:04:27.300Z,34.36,-118.645,12.138,2.66,mc,0,78.2,,0.247,ci,ci3142420,2016-02-12T04:48:00.517Z,"12km NNW of Chatsworth, California",earthquake,,0.544,,88,reviewed,ci,ci
+1994-01-19T22:59:06.770Z,34.376,-118.687,8.925,3.18,ml,0,111.5,,0.263,ci,ci3142418,2016-02-12T22:28:54.767Z,"11km ESE of Piru, California",earthquake,,2.702,,12,reviewed,ci,ci
+1994-01-19T22:58:32.880Z,34.339,-118.584,12.305,2.99,ml,0,63.8,,0.234,ci,ci3167821,2016-02-12T19:59:26.288Z,"9km N of Chatsworth, California",earthquake,,0.445,,18,reviewed,ci,ci
+1994-01-19T22:51:42.000Z,34.353,-118.711,12.006,2.59,mc,0,78.9,,0.258,ci,ci3142417,2016-02-13T03:34:37.335Z,"10km NNE of Simi Valley, California",earthquake,,1.051,,107,reviewed,ci,ci
+1994-01-19T22:24:22.120Z,34.351,-118.695,13.248,2.65,mc,0,77,,0.295,ci,ci3142402,2016-02-12T02:20:01.876Z,"10km NNE of Simi Valley, California",earthquake,,0.531,,81,reviewed,ci,ci
+1994-01-19T22:17:08.460Z,34.357,-118.677,13.045,2.58,mc,0,89.3,,0.234,ci,ci3142388,2016-02-12T22:28:48.928Z,"11km NNE of Simi Valley, California",earthquake,,0.836,,28,reviewed,ci,ci
+1994-01-19T22:06:36.520Z,34.379,-118.611,10.762,2.56,ml,0,65.6,,0.235,ci,ci3142386,2016-02-12T14:49:08.756Z,"9km SSW of Valencia, California",earthquake,,1.051,,4,reviewed,ci,ci
+1994-01-19T21:46:24.640Z,34.36,-118.705,10.882,2.81,ml,0,77.7,0.0989,0.267,ci,ci3142380,2016-02-13T08:36:18.481Z,"10km SE of Piru, California",earthquake,,0.879,,10,reviewed,ci,ci
+1994-01-19T21:42:03.840Z,34.295,-118.486,8.159,3.41,ml,0,92.3,,0.229,ci,ci3142379,2016-02-12T22:28:46.415Z,"3km NNE of Granada Hills, California",earthquake,,0.588,,43,reviewed,ci,ci
+1994-01-19T21:37:40.480Z,34.348,-118.713,11.352,2.74,ml,0,87.5,,0.201,ci,ci3142376,2016-02-12T22:28:44.903Z,"9km NNE of Simi Valley, California",earthquake,,0.743,,6,reviewed,ci,ci
+1994-01-19T21:34:40.030Z,34.347,-118.713,5.42,3.44,ml,0,79.7,,0.278,ci,ci3142372,2016-02-12T07:10:47.763Z,"9km NNE of Simi Valley, California",earthquake,,,,45,reviewed,ci,ci
+1994-01-19T21:34:21.910Z,34.363,-118.643,12.933,3.31,mc,0,69.9,,0.262,ci,ci3167734,2016-02-12T12:08:09.363Z,"12km SSW of Valencia, California",earthquake,,0.476,,160,reviewed,ci,ci
+1994-01-19T21:28:34.100Z,34.371,-118.645,9.794,2.7,mc,0,44.4,0.07206,0.268,ci,ci3186873,2016-02-13T06:01:45.129Z,"12km SW of Valencia, California",earthquake,,1.46,,29,reviewed,ci,ci
+1994-01-19T21:27:51.320Z,34.364,-118.724,10.102,2.98,ml,0,79.8,,0.267,ci,ci3142370,2016-02-13T06:01:43.793Z,"9km SE of Piru, California",earthquake,,1.075,,8,reviewed,ci,ci
+1994-01-19T21:26:14.980Z,34.357,-118.708,12.246,2.66,ml,0,78.2,,0.302,ci,ci3142364,2016-02-12T17:23:47.482Z,"10km NNE of Simi Valley, California",earthquake,,0.828,,8,reviewed,ci,ci
+1994-01-19T21:22:02.160Z,34.346,-118.714,17.502,2.74,mc,0,79.9,0.09907,0.274,ci,ci3142363,2016-02-13T06:01:42.346Z,"9km NNE of Simi Valley, California",earthquake,,2.387,,24,reviewed,ci,ci
+1994-01-19T21:18:45.830Z,34.375,-118.637,12.535,2.6,mh,0,68.6,0.07285,0.285,ci,ci3167605,2016-02-12T22:28:42.163Z,"11km SW of Valencia, California",earthquake,,1.143,,0,reviewed,ci,ci
+1994-01-19T21:17:59.230Z,34.356,-118.706,11.762,3.05,ml,0,78,0.09756,0.252,ci,ci3142362,2016-02-12T19:59:23.436Z,"10km NNE of Simi Valley, California",earthquake,,1.1,,21,reviewed,ci,ci
+1994-01-19T21:11:44.900Z,34.378,-118.619,10.83,5.07,ml,0,43.5,,0.352,ci,ci3142597,2016-02-12T12:08:07.288Z,"10km SSW of Valencia, California",earthquake,,0.524,,18,reviewed,ci,ci
+1994-01-19T21:09:28.610Z,34.379,-118.712,13.797,5.06,ml,0,41.5,,0.539,ci,ci3142595,2016-02-13T08:36:11.800Z,"8km ESE of Piru, California",earthquake,,0.188,,51,reviewed,ci,ci
+1994-01-19T21:04:23.680Z,34.348,-118.644,14.609,2.76,ml,0,77.3,,0.42,ci,ci3186871,2016-02-13T06:01:39.772Z,"11km NNW of Chatsworth, California",earthquake,,2.645,,15,reviewed,ci,ci
+1994-01-19T21:04:14.910Z,34.372,-118.626,12.298,2.5,mh,0,67.6,,0.246,ci,ci3142358,2016-02-13T08:36:10.272Z,"10km SSW of Valencia, California",earthquake,,0.636,,0,reviewed,ci,ci
+1994-01-19T20:17:51.650Z,34.361,-118.705,12.486,3.28,ml,0,77.6,,0.284,ci,ci3142328,2016-02-11T23:47:51.866Z,"10km SE of Piru, California",earthquake,,0.488,,46,reviewed,ci,ci
+1994-01-19T19:50:08.960Z,34.281,-118.45,9.655,3.7,ml,0,54.8,,0.212,ci,ci3142322,2016-02-13T06:01:38.480Z,"1km W of San Fernando, California",earthquake,,0.674,,47,reviewed,ci,ci
+1994-01-19T19:32:00.580Z,34.365,-118.504,0.369,2.56,ml,0,51.7,,0.237,ci,ci3142315,2016-02-12T04:47:58.063Z,"6km S of Santa Clarita, California",earthquake,,0.254,,15,reviewed,ci,ci
+1994-01-19T18:39:07.310Z,34.333,-118.465,1.166,2.51,mc,0,50,,0.228,ci,ci3142287,2016-02-12T07:10:43.637Z,"6km NNW of Pacoima, California",earthquake,,0.319,,108,reviewed,ci,ci
+1994-01-19T17:46:52.530Z,34.342,-118.452,3.968,3.1,ml,0,45.2,,0.265,ci,ci3142271,2016-02-12T02:19:54.321Z,"7km N of Pacoima, California",earthquake,,0.176,,45,reviewed,ci,ci
+1994-01-19T17:28:55.670Z,34.357,-118.457,2.483,2.7,ml,0,40.7,,0.256,ci,ci3142337,2016-02-12T14:49:03.148Z,"8km SE of Santa Clarita, California",earthquake,,0.19,,20,reviewed,ci,ci
+1994-01-19T17:12:11.040Z,34.306,-118.492,10,3.4,ml,,,,1,us,usp00066ze,2014-11-07T00:54:48.642Z,"5 km WNW of San Fernando, California",earthquake,,,,,reviewed,us,gs$
+1994-01-19T17:02:12.580Z,34.219,-118.618,13.673,2.89,ml,0,67.8,,0.277,ci,ci3142331,2016-02-12T22:28:38.371Z,"2km NNW of Canoga Park, California",earthquake,,0.31,,20,reviewed,ci,ci
+1994-01-19T15:03:47.550Z,34.295,-118.46,8.138,3.63,ml,0,51.1,,0.3,ci,ci3142210,2016-02-12T22:28:33.918Z,"2km WNW of Pacoima, California",earthquake,,0.673,,48,reviewed,ci,ci
+1994-01-19T14:48:02.520Z,34.308,-118.445,-0.65,2.55,mc,0,61,,0.291,ci,ci3142231,2016-02-12T22:28:31.689Z,"3km NNW of Pacoima, California",earthquake,,0.809,,23,reviewed,ci,ci
+1994-01-19T14:46:35.200Z,34.292,-118.466,5.809,3.88,ml,0,51.5,,0.26,ci,ci3142230,2016-02-11T21:13:37.204Z,"3km WNW of San Fernando, California",earthquake,,2.512,,48,reviewed,ci,ci
+1994-01-19T14:09:14.830Z,34.215,-118.51,17.287,4.52,ml,0,34.3,,0.295,ci,ci3142198,2016-02-11T18:27:52.503Z,"3km NE of Reseda, California",earthquake,,0.353,,44,reviewed,ci,ci
+1994-01-19T13:17:19.530Z,34.344,-118.501,1.641,2.9,ml,0,62.1,,0.304,ci,ci3142179,2016-02-11T21:13:32.789Z,"8km N of Granada Hills, California",earthquake,,0.317,,47,reviewed,ci,ci
+1994-01-19T12:38:44.760Z,34.331,-118.424,4.581,3.49,ml,0,48.7,,0.282,ci,ci3142165,2016-02-13T06:01:20.113Z,"6km NNE of Pacoima, California",earthquake,,0.272,,50,reviewed,ci,ci
+1994-01-19T12:15:15.930Z,34.372,-118.605,10.655,2.75,ml,0,65.3,,0.231,ci,ci3142160,2016-02-12T07:10:36.667Z,"10km SSW of Valencia, California",earthquake,,1.277,,42,reviewed,ci,ci
+1994-01-19T12:10:51.030Z,34.328,-118.424,3.018,2.85,ml,0,89.9,,0.223,ci,ci3142194,2016-02-13T03:34:19.677Z,"5km NNE of Pacoima, California",earthquake,,0.32,,22,reviewed,ci,ci
+1994-01-19T12:09:10.040Z,34.348,-118.484,5.914,3.39,ml,0,73.2,,0.236,ci,ci3142192,2016-02-11T23:47:39.746Z,"8km SSE of Santa Clarita, California",earthquake,,1.983,,49,reviewed,ci,ci
+1994-01-19T11:41:58.020Z,34.153,-118.485,11.038,2.5,ml,0,60.2,,0.306,ci,ci3142140,2016-02-12T22:28:29.176Z,"2km ESE of Encino, California",earthquake,,0.872,,44,reviewed,ci,ci
+1994-01-19T11:06:03.830Z,34.285,-118.464,9.404,3.1,ml,0,56.2,,0.294,ci,ci3142134,2016-02-12T19:59:10.875Z,"2km W of San Fernando, California",earthquake,,0.836,,47,reviewed,ci,ci
+1994-01-19T10:56:09.520Z,34.363,-118.626,1.445,2.8,mh,0,81.1,,0.307,ci,ci3142133,2016-02-12T02:19:46.513Z,"11km SSW of Valencia, California",earthquake,,0.471,,0,reviewed,ci,ci
+1994-01-19T10:51:09.720Z,34.286,-118.552,10.094,3.05,ml,0,60.3,,0.282,ci,ci3142129,2016-02-12T02:19:45.145Z,"5km WNW of Granada Hills, California",earthquake,,0.781,,47,reviewed,ci,ci
+1994-01-19T10:47:15.010Z,34.233,-118.578,2.094,2.6,ml,0,66,,0.326,ci,ci3142128,2016-02-11T23:47:36.890Z,"4km SE of Chatsworth, California",earthquake,,0.308,,24,reviewed,ci,ci
+1994-01-19T10:44:33.640Z,34.323,-118.414,5.179,2.6,mc,0,96,,0.257,ci,ci3142191,2016-02-12T12:07:52.177Z,"5km NNE of Pacoima, California",earthquake,,2.572,,123,reviewed,ci,ci
+1994-01-19T10:42:24.960Z,34.306,-118.734,2.606,3.34,ml,0,85.9,,0.231,ci,ci3142190,2016-02-11T21:13:29.075Z,"4km N of Simi Valley, California",earthquake,,0.454,,48,reviewed,ci,ci
+1994-01-19T10:11:29.050Z,34.297,-118.488,2.28,2.72,ml,0,59.1,,0.285,ci,ci3142107,2016-02-12T19:59:09.417Z,"3km NNE of Granada Hills, California",earthquake,,0.253,,21,reviewed,ci,ci
+1994-01-19T09:36:43.930Z,34.298,-118.494,12.731,2.54,mc,0,92.6,,0.249,ci,ci3142095,2016-02-11T18:27:47.369Z,"3km NNE of Granada Hills, California",earthquake,,0.442,,114,reviewed,ci,ci
+1994-01-19T09:19:52.910Z,34.368,-118.659,12.925,2.59,mc,0,85.5,,0.234,ci,ci3142088,2016-02-12T19:59:06.776Z,"12km SW of Valencia, California",earthquake,,1.014,,60,reviewed,ci,ci
+1994-01-19T09:14:38.060Z,34.308,-118.449,8.824,2.59,mc,0,190.9,0.08968,0.126,ci,ci3156275,2016-02-11T21:13:25.480Z,"3km NNW of Pacoima, California",earthquake,,2.338,,2,reviewed,ci,ci
+1994-01-19T09:13:10.900Z,34.304,-118.737,12.635,4.05,ml,0,47.7,,0.277,ci,ci3142087,2016-02-13T03:34:13.933Z,"4km N of Simi Valley, California",earthquake,,0.31,,50,reviewed,ci,ci
+1994-01-19T08:24:11.710Z,34.364,-118.645,11.845,3.23,ml,0,70.1,,0.279,ci,ci3142063,2016-02-12T12:07:50.828Z,"12km SW of Valencia, California",earthquake,,0.426,,51,reviewed,ci,ci
+1994-01-19T07:58:34.410Z,34.239,-118.533,14.631,3.2,ml,0,56.8,,0.267,ci,ci3142053,2016-02-12T12:07:49.294Z,"0km N of Northridge, California",earthquake,,0.204,,52,reviewed,ci,ci
+1994-01-19T07:44:36.780Z,34.339,-118.686,2.945,2.55,mc,0,104.2,,0.271,ci,ci3142049,2016-02-11T18:27:45.973Z,"9km NNE of Simi Valley, California",earthquake,,0.933,,99,reviewed,ci,ci
+1994-01-19T07:29:34.680Z,34.248,-118.538,2.451,2.54,mc,0,57.7,,0.296,ci,ci3142043,2016-02-13T01:00:55.403Z,"2km NNW of Northridge, California",earthquake,,0.415,,71,reviewed,ci,ci
+1994-01-19T07:15:35.090Z,34.288,-118.469,10.73,2.6,mc,0,63.6,,0.319,ci,ci3142077,2016-02-13T03:34:11.016Z,"3km WNW of San Fernando, California",earthquake,,1.127,,52,reviewed,ci,ci
+1994-01-19T07:14:06.190Z,34.287,-118.466,11.319,3.95,ml,0,36.2,,0.3,ci,ci3142074,2016-02-12T22:28:25.394Z,"2km WNW of San Fernando, California",earthquake,,0.308,,51,reviewed,ci,ci
+1994-01-19T07:09:05.100Z,34.344,-118.625,-0.771,2.5,ml,0,68.5,,0.214,ci,ci2161503,2016-02-11T18:27:44.538Z,"10km NNW of Chatsworth, California",earthquake,,0.553,,33,reviewed,ci,ci
+1994-01-19T06:23:41.570Z,34.283,-118.455,9.846,3.24,ml,0,55.4,,0.305,ci,ci3142066,2016-02-12T22:28:22.448Z,"2km W of San Fernando, California",earthquake,,0.677,,49,reviewed,ci,ci
+1994-01-19T06:11:14.340Z,34.266,-118.565,15.441,2.52,ml,0,92.9,,0.256,ci,ci3142019,2016-02-11T21:13:21.545Z,"4km ENE of Chatsworth, California",earthquake,,0.16,,36,reviewed,ci,ci
+1994-01-19T05:25:39.950Z,34.301,-118.448,8.898,2.66,mc,0,100.7,,0.216,ci,ci3142009,2016-02-12T14:48:47.832Z,"2km NNW of Pacoima, California",earthquake,,1.001,,94,reviewed,ci,ci
+1994-01-19T05:21:02.650Z,34.385,-118.501,0.527,2.66,ml,0,119.6,,0.194,ci,ci3142008,2016-02-13T03:34:09.755Z,"4km S of Santa Clarita, California",earthquake,,0.213,,10,reviewed,ci,ci
+1994-01-19T05:14:58.570Z,34.293,-118.459,9.146,3.52,ml,0,56.2,,0.286,ci,ci3142007,2016-02-13T01:00:53.887Z,"2km WNW of Pacoima, California",earthquake,,0.646,,44,reviewed,ci,ci
+1994-01-19T05:13:15.260Z,34.35,-118.609,2.475,2.65,ml,0,66.4,,0.267,ci,ci3142004,2016-02-12T22:28:18.452Z,"10km N of Chatsworth, California",earthquake,,0.39,,17,reviewed,ci,ci
+1994-01-19T05:06:51.900Z,34.366,-118.711,9.515,2.91,ml,0,98.9,,0.222,ci,ci3141997,2016-02-13T01:00:51.588Z,"9km SE of Piru, California",earthquake,,0.739,,40,reviewed,ci,ci
+1994-01-19T04:57:30.170Z,34.358,-118.567,1.735,2.68,mc,0,61.6,,0.249,ci,ci3141994,2016-02-13T01:00:49.965Z,"9km SW of Santa Clarita, California",earthquake,,0.256,,70,reviewed,ci,ci
+1994-01-19T04:44:15.380Z,34.355,-118.73,5.38,3.17,mc,0,81.3,,0.432,ci,ci3183233,2016-02-12T22:28:15.568Z,"9km SE of Piru, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-19T04:43:14.570Z,34.366,-118.709,5.444,4.04,ml,0,46,,0.363,ci,ci3142082,2016-02-12T02:19:35.893Z,"10km SE of Piru, California",earthquake,,,,26,reviewed,ci,ci
+1994-01-19T04:40:48.000Z,34.361,-118.571,2.258,4.34,ml,0,42.9,,0.338,ci,ci3142081,2016-02-13T08:35:51.746Z,"9km SW of Santa Clarita, California",earthquake,,0.234,,54,reviewed,ci,ci
+1994-01-19T04:31:56.500Z,34.381,-118.529,2.455,2.87,ml,0,53.2,,0.239,ci,ci3141983,2016-02-12T19:59:04.096Z,"4km SSW of Santa Clarita, California",earthquake,,0.429,,19,reviewed,ci,ci
+1994-01-19T03:57:52.010Z,34.356,-118.589,5.305,3.25,ml,0,100.6,,0.269,ci,ci3141964,2016-02-12T17:23:36.078Z,"10km SW of Santa Clarita, California",earthquake,,,,51,reviewed,ci,ci
+1994-01-19T03:31:28.350Z,34.312,-118.58,15.825,2.8,ml,0,97,,0.243,ci,ci3141958,2016-02-13T01:00:48.481Z,"6km NNE of Chatsworth, California",earthquake,,0.796,,47,reviewed,ci,ci
+1994-01-19T03:23:53.980Z,34.319,-118.459,10.831,3.24,ml,0,88.9,,0.234,ci,ci3141953,2016-02-12T17:23:34.613Z,"4km NNW of Pacoima, California",earthquake,,0.48,,46,reviewed,ci,ci
+1994-01-19T02:55:20.290Z,34.343,-118.469,4.784,2.65,ml,0,122.7,,0.215,ci,ci3165938,2016-02-13T03:34:08.389Z,"7km NNW of Pacoima, California",earthquake,,0.507,,34,reviewed,ci,ci
+1994-01-19T02:54:31.990Z,34.348,-118.515,6.672,2.73,ml,0,97.6,,0.236,ci,ci3141941,2016-02-11T21:13:17.473Z,"8km S of Santa Clarita, California",earthquake,,2.969,,18,reviewed,ci,ci
+1994-01-19T02:37:49.240Z,34.388,-118.687,3.075,2.61,mc,0,95.1,,0.237,ci,ci3141937,2016-02-12T12:07:43.586Z,"10km ESE of Piru, California",earthquake,,0.341,,91,reviewed,ci,ci
+1994-01-19T02:29:53.290Z,34.378,-118.53,2.445,2.71,ml,0,68.2,,0.252,ci,ci3141936,2016-02-12T12:07:42.215Z,"5km SSW of Santa Clarita, California",earthquake,,0.367,,14,reviewed,ci,ci
+1994-01-19T02:25:53.700Z,34.297,-118.43,2.68,3,ml,0,88.6,,0.249,ci,ci3141933,2016-02-12T12:07:40.888Z,"2km NNE of Pacoima, California",earthquake,,0.269,,48,reviewed,ci,ci
+1994-01-19T01:37:26.630Z,34.323,-118.542,1.915,2.71,mc,0,65.7,,0.238,ci,ci3141910,2016-02-12T22:28:10.066Z,"7km NNW of Granada Hills, California",earthquake,,0.373,,76,reviewed,ci,ci
+1994-01-19T01:33:05.470Z,34.388,-118.549,2.345,2.54,mc,0,66,,0.224,ci,ci3141909,2016-02-13T06:01:03.165Z,"5km SW of Santa Clarita, California",earthquake,,0.489,,81,reviewed,ci,ci
+1994-01-19T01:26:54.110Z,34.307,-118.387,2.471,3.54,ml,0,45.5,,0.228,ci,ci3141906,2016-02-12T02:19:30.704Z,"4km NNW of Lake View Terrace, California",earthquake,,0.332,,51,reviewed,ci,ci
+1994-01-19T01:24:31.140Z,34.315,-118.568,0.198,2.85,ml,0,90.7,,0.244,ci,ci3141905,2016-02-12T17:23:31.880Z,"7km NNE of Chatsworth, California",earthquake,,0.345,,24,reviewed,ci,ci
+1994-01-19T01:17:54.770Z,34.282,-118.553,8.871,3.01,ml,0,60.4,,0.279,ci,ci3141903,2016-02-12T12:07:38.886Z,"5km WNW of Granada Hills, California",earthquake,,1.195,,49,reviewed,ci,ci
+1994-01-19T01:09:15.170Z,34.308,-118.417,5.621,2.54,ml,0,97.6,,0.228,ci,ci3141900,2016-02-12T14:48:40.143Z,"3km NE of Pacoima, California",earthquake,,2.493,,43,reviewed,ci,ci
+1994-01-19T00:03:17.690Z,34.272,-118.461,6.396,3.23,ml,0,50.5,,0.257,ci,ci3141872,2016-02-13T01:00:42.582Z,"2km WSW of San Fernando, California",earthquake,,3.045,,25,reviewed,ci,ci
+1994-01-18T22:56:15.740Z,34.328,-118.441,2.597,2.55,ml,0,87.2,,0.266,ci,ci3141835,2016-02-12T19:58:54.482Z,"5km N of Pacoima, California",earthquake,,0.273,,20,reviewed,ci,ci
+1994-01-18T22:45:14.530Z,34.383,-118.693,0.494,2.6,mc,0,74.6,,0.357,ci,ci3141833,2016-02-12T07:10:22.694Z,"10km ESE of Piru, California",earthquake,,0.773,,100,reviewed,ci,ci
+1994-01-18T22:40:48.410Z,34.292,-118.454,8.592,2.52,mc,0,78.5,,0.28,ci,ci3141832,2016-02-11T21:13:11.578Z,"2km NW of Pacoima, California",earthquake,,1.863,,115,reviewed,ci,ci
+1994-01-18T22:22:54.520Z,34.2,-118.627,9.653,2.5,mc,0,89.2,,0.319,ci,ci3141825,2016-02-13T06:00:59.141Z,"2km E of West Hills, California",earthquake,,3.494,,80,reviewed,ci,ci
+1994-01-18T21:36:43.560Z,34.374,-118.495,1.082,2.53,mc,0,130.8,,0.248,ci,ci3141807,2016-02-12T07:10:20.002Z,"5km SSE of Santa Clarita, California",earthquake,,0.325,,83,reviewed,ci,ci
+1994-01-18T21:20:54.130Z,34.337,-118.593,0.362,2.52,ml,0,108.7,,0.255,ci,ci3141798,2016-02-13T01:00:38.371Z,"9km N of Chatsworth, California",earthquake,,0.416,,16,reviewed,ci,ci
+1994-01-18T21:14:14.620Z,34.4,-118.631,13.974,3.05,ml,0,66.8,,0.266,ci,ci3141795,2016-02-13T03:33:57.601Z,"8km SW of Valencia, California",earthquake,,0.366,,22,reviewed,ci,ci
+1994-01-18T20:55:12.240Z,34.39,-118.636,2.583,2.81,ml,0,67.8,,0.27,ci,ci3141774,2016-02-12T14:48:36.240Z,"9km SW of Valencia, California",earthquake,,0.419,,34,reviewed,ci,ci
+1994-01-18T20:53:31.880Z,34.398,-118.636,-0.844,2.71,mc,0,94.9,,0.262,ci,ci3141772,2016-02-13T01:00:35.594Z,"9km SW of Valencia, California",earthquake,,0.53,,83,reviewed,ci,ci
+1994-01-18T20:37:06.600Z,34.323,-118.44,6.033,2.58,ml,0,64.7,,0.29,ci,ci3141770,2016-02-12T02:19:25.282Z,"4km N of Pacoima, California",earthquake,,1.439,,19,reviewed,ci,ci
+1994-01-18T20:35:17.990Z,34.331,-118.432,4.891,2.63,ml,0,62.2,,0.268,ci,ci3141769,2016-02-12T02:19:23.840Z,"5km N of Pacoima, California",earthquake,,6.417,,37,reviewed,ci,ci
+1994-01-18T20:24:35.170Z,34.242,-118.582,14.771,2.5,mh,0,155.5,,0.18,ci,ci2160540,2016-02-13T06:00:53.868Z,"3km SE of Chatsworth, California",earthquake,,0.683,,0,reviewed,ci,ci
+1994-01-18T20:24:09.650Z,34.284,-118.444,0.576,2.93,ml,0,64.6,,0.249,ci,ci3141756,2016-02-13T01:00:33.962Z,"0km WNW of San Fernando, California",earthquake,,0.605,,39,reviewed,ci,ci
+1994-01-18T20:16:45.950Z,34.314,-118.422,5.594,2.79,ml,0,87.1,,0.252,ci,ci3141752,2016-02-12T22:28:01.388Z,"4km NNE of Pacoima, California",earthquake,,1.623,,31,reviewed,ci,ci
+1994-01-18T20:07:15.400Z,34.255,-118.608,19.542,2.99,ml,0,108.5,,0.291,ci,ci3141745,2016-02-12T19:58:49.523Z,"0km WSW of Chatsworth, California",earthquake,,0.896,,34,reviewed,ci,ci
+1994-01-18T20:06:33.950Z,34.334,-118.453,5.432,2.52,mc,0,87.8,,0.257,ci,ci2160530,2016-02-11T23:47:21.168Z,"6km NNW of Pacoima, California",earthquake,,2.042,,117,reviewed,ci,ci
+1994-01-18T19:59:06.120Z,34.361,-118.603,11.249,3.21,ml,0,80.6,,0.266,ci,ci3141743,2016-02-12T17:23:22.183Z,"11km SSW of Valencia, California",earthquake,,0.425,,41,reviewed,ci,ci
+1994-01-18T19:56:32.890Z,34.315,-118.419,5.549,2.53,mc,0,100.1,,0.206,ci,ci3141741,2016-02-11T18:27:34.900Z,"4km NNE of Pacoima, California",earthquake,,2.287,,73,reviewed,ci,ci
+1994-01-18T19:28:02.830Z,34.373,-118.651,11.539,3.11,ml,0,70.3,,0.271,ci,ci3141736,2016-02-11T21:13:07.258Z,"12km SW of Valencia, California",earthquake,,0.603,,35,reviewed,ci,ci
+1994-01-18T19:24:07.330Z,34.323,-118.445,0.864,3.04,ml,0,93.5,,0.229,ci,ci2139486,2016-02-11T23:47:19.729Z,"4km N of Pacoima, California",earthquake,,0.311,,37,reviewed,ci,ci
+1994-01-18T19:19:45.000Z,34.184,-118.643,10,3.4,ml,,,,1.1,us,usp00066w7,2014-11-07T00:54:48.291Z,"1 km S of West Hills, California",earthquake,,,,,reviewed,us,gs$
+1994-01-18T19:09:18.530Z,34.288,-118.534,10,3.3,ml,,,,1.4,us,usp00066w6,2014-11-07T00:54:48.288Z,"6 km N of Northridge, California",earthquake,,,,,reviewed,us,gs$
+1994-01-18T18:46:58.800Z,33.958,-118.418,14.011,2.99,ml,0,46,,0.27,ci,ci3141695,2016-02-13T01:00:32.525Z,"4km SE of Marina del Rey, California",earthquake,,0.148,,37,reviewed,ci,ci
+1994-01-18T18:45:03.120Z,34.355,-118.444,5.517,2.75,ml,0,85.5,,0.276,ci,ci3141694,2016-02-11T18:27:30.518Z,"8km N of Pacoima, California",earthquake,,,,5,reviewed,ci,ci
+1994-01-18T18:35:54.240Z,34.326,-118.439,3.018,3.39,ml,0,87.3,,0.229,ci,ci3143129,2016-02-12T09:36:34.746Z,"5km N of Pacoima, California",earthquake,,0.431,,35,reviewed,ci,ci
+1994-01-18T18:35:13.220Z,34.23,-118.508,15.783,3.31,ml,0,71.2,,0.247,ci,ci3141691,2016-02-11T21:13:05.739Z,"2km ESE of Northridge, California",earthquake,,0.119,,22,reviewed,ci,ci
+1994-01-18T18:24:04.930Z,34.284,-118.578,15.765,2.71,ml,0,82.6,,0.271,ci,ci3141683,2016-02-12T12:07:28.356Z,"4km NE of Chatsworth, California",earthquake,,0.27,,24,reviewed,ci,ci
+1994-01-18T18:22:51.520Z,34.375,-118.531,-0.379,2.63,ml,0,80.1,,0.247,ci,ci3165022,2016-02-13T03:33:51.335Z,"5km SSW of Santa Clarita, California",earthquake,,0.32,,15,reviewed,ci,ci
+1994-01-18T18:03:55.670Z,34.334,-118.447,5.781,3.55,ml,0,66.9,,0.272,ci,ci3141679,2016-02-12T12:07:26.916Z,"6km N of Pacoima, California",earthquake,,1.003,,26,reviewed,ci,ci
+1994-01-18T17:37:57.910Z,34.305,-118.474,4.67,2.64,mc,0,90.8,,0.211,ci,ci2160079,2016-02-11T18:27:27.562Z,"4km NW of Pacoima, California",earthquake,,0.653,,71,reviewed,ci,ci
+1994-01-18T17:37:20.890Z,34.3,-118.48,2.744,2.77,ml,0,101.4,,0.219,ci,ci3141668,2016-02-13T06:00:49.977Z,"4km NNE of Granada Hills, California",earthquake,,0.5,,34,reviewed,ci,ci
+1994-01-18T17:34:39.630Z,34.293,-118.543,2.897,2.86,ml,0,59.4,,0.278,ci,ci3141667,2016-02-12T09:36:33.024Z,"4km WNW of Granada Hills, California",earthquake,,0.363,,34,reviewed,ci,ci
+1994-01-18T17:18:11.280Z,34.37,-118.509,2.243,2.56,mc,0,67,,0.235,ci,ci3141659,2016-02-13T06:00:48.517Z,"5km S of Santa Clarita, California",earthquake,,0.356,,56,reviewed,ci,ci
+1994-01-18T16:58:58.940Z,34.319,-118.465,8.323,2.77,ml,0,63,,0.222,ci,ci3141654,2016-02-12T17:23:16.582Z,"5km NNW of Pacoima, California",earthquake,,1.18,,31,reviewed,ci,ci
+1994-01-18T16:56:13.530Z,34.204,-118.61,11.435,3,ml,0,64.3,,0.318,ci,ci3141653,2016-02-12T04:47:34.271Z,"1km NW of Canoga Park, California",earthquake,,0.603,,18,reviewed,ci,ci
+1994-01-18T16:48:37.140Z,34.233,-118.5,17.211,2.65,mc,0,56.7,,0.253,ci,ci3141651,2016-02-11T21:13:02.883Z,"3km E of Northridge, California",earthquake,,1.42,,88,reviewed,ci,ci
+1994-01-18T16:48:31.740Z,34.319,-118.605,10.63,2.74,mc,0,81,,0.268,ci,ci3164906,2016-02-11T18:27:23.684Z,"7km N of Chatsworth, California",earthquake,,3.969,,87,reviewed,ci,ci
+1994-01-18T16:38:43.110Z,34.319,-118.425,7.69,3.19,mc,0,105.6,,0.152,ci,ci3141646,2016-02-12T19:58:46.392Z,"4km NNE of Pacoima, California",earthquake,,1.593,,164,reviewed,ci,ci
+1994-01-18T16:34:34.440Z,34.178,-117.404,10.523,2.96,mc,0,52.3,,0.123,ci,ci3141643,2016-02-12T19:58:45.024Z,"5km S of Devore, California",earthquake,,1.052,,150,reviewed,ci,ci
+1994-01-18T16:23:34.670Z,34.366,-118.573,0.737,3.87,ml,0,62.1,,0.31,ci,ci3141640,2016-02-12T07:10:14.528Z,"8km SW of Santa Clarita, California",earthquake,,0.333,,38,reviewed,ci,ci
+1994-01-18T16:08:00.960Z,34.231,-118.62,16.811,2.5,ml,0,106.6,,0.214,ci,ci3141638,2016-02-12T22:27:57.047Z,"3km SSW of Chatsworth, California",earthquake,,6.642,,3,reviewed,ci,ci
+1994-01-18T16:04:04.200Z,34.369,-118.573,3.373,2.91,ml,0,76,,0.223,ci,ci3141634,2016-02-13T03:33:48.762Z,"8km SW of Santa Clarita, California",earthquake,,0.667,,7,reviewed,ci,ci
+1994-01-18T15:56:51.430Z,34.293,-118.449,9.066,2.56,mc,0,170.6,,0.171,ci,ci3164901,2016-02-12T17:23:15.165Z,"2km NW of Pacoima, California",earthquake,,3.721,,8,reviewed,ci,ci
+1994-01-18T15:51:44.870Z,34.245,-118.471,12.406,3.95,ml,0,50.6,,0.302,ci,ci3141615,2016-02-13T08:35:39.778Z,"3km NW of Panorama City, California",earthquake,,0.324,,45,reviewed,ci,ci
+1994-01-18T15:51:40.330Z,34.336,-118.455,4.944,2.5,mh,0,68.2,,0.255,ci,ci3164852,2016-02-13T06:00:29.430Z,"6km NNW of Pacoima, California",earthquake,,0.518,,0,reviewed,ci,ci
+1994-01-18T15:42:57.080Z,34.309,-118.577,0.481,3.45,ml,0,93.1,,0.279,ci,ci3141605,2016-02-13T06:00:28.612Z,"6km NNE of Chatsworth, California",earthquake,,0.518,,46,reviewed,ci,ci
+1994-01-18T15:26:41.020Z,34.383,-118.552,-0.029,2.7,mc,0,89,,0.283,ci,ci2152866,2016-02-13T03:33:44.896Z,"6km SW of Santa Clarita, California",earthquake,,0.455,,34,reviewed,ci,ci
+1994-01-18T15:23:46.890Z,34.379,-118.561,7.441,4.84,ml,0,60.6,,0.276,ci,ci3141597,2016-02-12T14:48:29.819Z,"6km SW of Santa Clarita, California",earthquake,,1.182,,38,reviewed,ci,ci
+1994-01-18T15:21:36.820Z,34.303,-118.46,8.954,3.03,ml,0,163.6,,0.196,ci,ci3164756,2016-02-12T02:19:15.455Z,"3km NW of Pacoima, California",earthquake,,3.769,,16,reviewed,ci,ci
+1994-01-18T15:21:03.360Z,34.286,-118.493,3.052,3.45,ml,0,59.1,,0.286,ci,ci3164750,2016-02-12T02:19:14.133Z,"2km NNE of Granada Hills, California",earthquake,,0.552,,19,reviewed,ci,ci
+1994-01-18T15:19:54.290Z,34.208,-118.605,8.522,3.91,ml,0,65.2,,0.345,ci,ci3141594,2016-02-12T17:23:13.899Z,"1km N of Canoga Park, California",earthquake,,1.21,,39,reviewed,ci,ci
+1994-01-18T15:09:26.430Z,34.292,-118.558,10.622,3.24,ml,0,59.5,,0.277,ci,ci3141589,2016-02-13T03:33:43.557Z,"6km WNW of Granada Hills, California",earthquake,,0.922,,40,reviewed,ci,ci
+1994-01-18T15:01:52.270Z,34.369,-118.442,4.744,3.55,ml,0,66.4,,0.249,ci,ci3141587,2016-02-12T02:19:11.398Z,"8km SE of Santa Clarita, California",earthquake,,0.325,,44,reviewed,ci,ci
+1994-01-18T14:58:23.410Z,34.327,-118.621,4.57,2.55,mc,0,92.9,,0.169,ci,ci3141583,2016-02-12T17:23:12.421Z,"8km NNW of Chatsworth, California",earthquake,,22.165,,48,reviewed,ci,ci
+1994-01-18T14:52:40.730Z,34.296,-118.489,10.662,3.42,mc,0,123.9,,0.275,ci,ci3141629,2016-02-12T14:48:27.021Z,"3km NNE of Granada Hills, California",earthquake,,3.655,,160,reviewed,ci,ci
+1994-01-18T14:47:56.210Z,34.291,-118.47,9.422,3.45,ml,0,51.9,,0.318,ci,ci3141568,2016-02-13T06:00:27.129Z,"3km WNW of San Fernando, California",earthquake,,0.822,,39,reviewed,ci,ci
+1994-01-18T14:27:24.220Z,34.308,-118.462,7.115,3.2,ml,0,99.5,,0.285,ci,ci3141621,2016-02-12T17:23:11.152Z,"4km NW of Pacoima, California",earthquake,,1.735,,34,reviewed,ci,ci
+1994-01-18T14:20:19.900Z,34.291,-118.669,2.959,2.5,mc,0,83.2,,0.209,ci,ci3141559,2016-02-11T23:47:12.497Z,"7km ENE of Simi Valley, California",earthquake,,0.578,,89,reviewed,ci,ci
+1994-01-18T14:17:29.870Z,34.295,-118.491,11.465,3.52,ml,0,36.7,,0.363,ci,ci3141616,2016-02-13T01:00:23.469Z,"3km NNE of Granada Hills, California",earthquake,,0.363,,40,reviewed,ci,ci
+1994-01-18T14:12:59.940Z,34.318,-118.447,1.184,3.06,ml,0,66.6,,0.245,ci,ci3141554,2016-02-12T12:07:17.306Z,"4km NNW of Pacoima, California",earthquake,,0.438,,20,reviewed,ci,ci
+1994-01-18T14:05:08.300Z,34.264,-118.464,9.69,3.21,ml,0,50.6,,0.268,ci,ci3141612,2016-02-12T12:07:15.769Z,"3km SW of San Fernando, California",earthquake,,1.281,,24,reviewed,ci,ci
+1994-01-18T13:50:51.060Z,34.311,-118.451,2.114,2.9,ml,0,67,,0.276,ci,ci3141545,2016-02-13T03:33:38.410Z,"3km NNW of Pacoima, California",earthquake,,0.377,,41,reviewed,ci,ci
+1994-01-18T13:34:42.790Z,34.344,-118.62,0.87,3.21,mc,0,109.7,0.07421,0.249,ci,ci3164741,2016-02-12T02:19:06.617Z,"10km N of Chatsworth, California",earthquake,,1.307,,14,reviewed,ci,ci
+1994-01-18T13:34:20.400Z,34.312,-118.565,1.822,3.28,ml,0,62,,0.355,ci,ci3141592,2016-02-12T14:48:25.314Z,"7km NNE of Chatsworth, California",earthquake,,0.782,,38,reviewed,ci,ci
+1994-01-18T13:33:33.340Z,34.305,-118.585,1.71,3.04,ml,0,64.3,,0.333,ci,ci3141590,2016-02-12T04:47:30.239Z,"6km NNE of Chatsworth, California",earthquake,,1.258,,21,reviewed,ci,ci
+1994-01-18T13:31:40.140Z,34.278,-118.561,5.66,2.7,mc,0,90.7,,0.281,ci,ci3141538,2016-02-11T18:27:20.666Z,"5km ENE of Chatsworth, California",earthquake,,277.538,,30,reviewed,ci,ci
+1994-01-18T13:27:24.490Z,34.293,-118.608,-0.33,2.6,mc,0,107.3,0.0456,0.298,ci,ci3164723,2016-02-12T07:10:10.589Z,"4km N of Chatsworth, California",earthquake,,1.517,,13,reviewed,ci,ci
+1994-01-18T13:27:00.740Z,34.362,-118.441,4.449,2.61,mc,0,108.4,,0.252,ci,ci3141586,2016-02-12T12:07:13.049Z,"8km SE of Santa Clarita, California",earthquake,,0.975,,26,reviewed,ci,ci
+1994-01-18T13:24:44.130Z,34.319,-118.558,1.542,4.32,ml,0,94.9,,0.256,ci,ci3141584,2016-02-13T06:00:23.127Z,"7km NW of Granada Hills, California",earthquake,,0.379,,42,reviewed,ci,ci
+1994-01-18T13:23:15.110Z,34.333,-118.438,6.78,3,ml,0,65.5,,0.252,ci,ci3141582,2016-02-12T22:27:55.739Z,"6km N of Pacoima, California",earthquake,,1.288,,20,reviewed,ci,ci
+1994-01-18T13:15:36.880Z,34.218,-118.627,5.673,2.5,mc,0,69.3,,0.29,ci,ci3141535,2016-02-12T02:19:05.355Z,"3km NE of West Hills, California",earthquake,,26.645,,78,reviewed,ci,ci
+1994-01-18T13:09:12.070Z,34.312,-118.621,14.559,2.56,mc,0,68.8,,0.262,ci,ci3141518,2016-02-12T02:19:02.651Z,"6km NNW of Chatsworth, California",earthquake,,0.251,,91,reviewed,ci,ci
+1994-01-18T13:06:01.860Z,34.302,-118.453,7.244,2.69,ml,0,100.5,,0.202,ci,ci3141514,2016-02-13T06:00:21.491Z,"2km NNW of Pacoima, California",earthquake,,2.565,,18,reviewed,ci,ci
+1994-01-18T12:57:05.880Z,34.379,-118.667,4.814,2.54,mc,0,79.7,,0.277,ci,ci3141511,2016-02-12T07:10:07.990Z,"12km SW of Valencia, California",earthquake,,43.455,,36,reviewed,ci,ci
+1994-01-18T12:42:55.020Z,34.31,-118.584,1.44,3.24,ml,0,136.5,,0.275,ci,ci3141581,2016-02-13T03:33:36.995Z,"6km NNE of Chatsworth, California",earthquake,,0.852,,34,reviewed,ci,ci
+1994-01-18T12:42:03.300Z,34.308,-118.58,1.707,3.37,ml,0,63.7,,0.339,ci,ci3141579,2016-02-11T23:47:09.724Z,"6km NNE of Chatsworth, California",earthquake,,0.666,,26,reviewed,ci,ci
+1994-01-18T12:41:19.290Z,34.3,-118.636,3.066,2.71,mc,0,71.1,,0.332,ci,ci3141577,2016-02-12T04:47:28.796Z,"6km NNW of Chatsworth, California",earthquake,,0.598,,116,reviewed,ci,ci
+1994-01-18T12:38:18.540Z,34.367,-118.671,9.74,2.57,mc,0,73,,0.294,ci,ci3141499,2016-02-11T23:47:08.278Z,"12km NNE of Simi Valley, California",earthquake,,2.1,,101,reviewed,ci,ci
+1994-01-18T12:35:50.780Z,34.331,-118.521,3.097,2.68,ml,0,93.8,,0.2,ci,ci3141498,2016-02-12T07:10:06.613Z,"7km NNW of Granada Hills, California",earthquake,,0.843,,12,reviewed,ci,ci
+1994-01-18T12:16:31.290Z,34.273,-118.527,13.997,2.85,ml,0,70.7,,0.277,ci,ci3141574,2016-02-12T17:23:02.927Z,"2km W of Granada Hills, California",earthquake,,0.505,,23,reviewed,ci,ci
+1994-01-18T12:15:37.590Z,34.346,-118.47,5.016,2.7,ml,0,52.6,,0.298,ci,ci3141572,2016-02-12T22:27:52.691Z,"8km NNW of Pacoima, California",earthquake,,3.436,,18,reviewed,ci,ci
+1994-01-18T12:11:59.490Z,34.235,-118.554,3.572,2.7,ml,0,59.3,,0.318,ci,ci3141484,2016-02-12T07:10:05.186Z,"2km W of Northridge, California",earthquake,,0.366,,37,reviewed,ci,ci
+1994-01-18T12:07:13.890Z,34.335,-118.523,1.295,2.92,ml,0,103.5,,0.227,ci,ci3141480,2016-02-12T07:10:03.707Z,"7km NNW of Granada Hills, California",earthquake,,0.341,,20,reviewed,ci,ci
+1994-01-18T11:59:34.100Z,34.296,-118.588,3.211,2.7,mc,0,70.4,,0.242,ci,ci3141477,2016-02-12T02:18:58.364Z,"5km NNE of Chatsworth, California",earthquake,,0.735,,90,reviewed,ci,ci
+1994-01-18T11:47:21.080Z,34.304,-118.643,4.402,2.56,mc,0,72,,0.257,ci,ci3141473,2016-02-12T14:48:22.284Z,"6km NW of Chatsworth, California",earthquake,,20.947,,33,reviewed,ci,ci
+1994-01-18T11:40:09.960Z,34.208,-118.611,8.357,2.66,mc,0,66.2,,0.314,ci,ci3141469,2016-02-12T14:48:20.957Z,"1km NNW of Canoga Park, California",earthquake,,4.197,,48,reviewed,ci,ci
+1994-01-18T11:35:09.900Z,34.218,-118.607,11.912,4.19,ml,0,65.9,,0.371,ci,ci3141570,2016-02-12T02:18:54.306Z,"2km N of Canoga Park, California",earthquake,,0.568,,41,reviewed,ci,ci
+1994-01-18T11:34:09.720Z,34.268,-118.453,7.774,2.67,mc,0,33.9,,0.277,ci,ci3141569,2016-02-13T03:33:34.378Z,"2km SW of San Fernando, California",earthquake,,1.9,,126,reviewed,ci,ci
+1994-01-18T11:13:00.660Z,34.303,-118.639,8.662,3.22,ml,0,54.8,,0.298,ci,ci3141460,2016-02-12T17:23:01.440Z,"6km NNW of Chatsworth, California",earthquake,,2.544,,45,reviewed,ci,ci
+1994-01-18T10:53:26.570Z,34.36,-118.62,9.384,2.99,ml,0,67.4,,0.271,ci,ci3141455,2016-02-12T12:07:08.838Z,"11km SSW of Valencia, California",earthquake,,1.891,,40,reviewed,ci,ci
+1994-01-18T10:49:33.390Z,34.318,-118.438,5.188,3.11,ml,0,49.6,,0.251,ci,ci3141453,2016-02-12T14:48:18.403Z,"4km N of Pacoima, California",earthquake,,2.703,,37,reviewed,ci,ci
+1994-01-18T10:39:54.390Z,34.365,-118.708,2.36,2.52,mc,0,77.7,,0.3,ci,ci3141443,2016-02-12T07:10:02.023Z,"10km SE of Piru, California",earthquake,,0.415,,68,reviewed,ci,ci
+1994-01-18T10:19:14.410Z,34.285,-118.472,2.708,2.72,mc,0,130.1,,0.314,ci,ci3164403,2016-02-12T17:22:58.657Z,"3km W of San Fernando, California",earthquake,,1.224,,9,reviewed,ci,ci
+1994-01-18T10:18:51.360Z,34.386,-118.694,4.937,2.86,ml,0,74.5,,0.285,ci,ci3141438,2016-02-11T21:13:00.113Z,"10km ESE of Piru, California",earthquake,,10.039,,38,reviewed,ci,ci
+1994-01-18T10:09:29.390Z,34.369,-118.713,5.313,3.1,ml,0,78,,0.313,ci,ci3141429,2016-02-11T23:47:00.839Z,"9km SE of Piru, California",earthquake,,,,43,reviewed,ci,ci
+1994-01-18T10:09:22.340Z,34.28,-118.462,8.654,2.7,mh,0,50.9,,0.341,ci,ci3164395,2016-02-12T09:36:30.901Z,"2km W of San Fernando, California",earthquake,,2.375,,0,reviewed,ci,ci
+1994-01-18T10:07:37.420Z,34.356,-118.685,1.776,2.58,mc,0,61.4,,0.257,ci,ci3141427,2016-02-13T08:35:32.257Z,"11km NNE of Simi Valley, California",earthquake,,0.443,,74,reviewed,ci,ci
+1994-01-18T10:05:39.350Z,34.356,-118.614,2.009,2.67,ml,0,66.8,,0.282,ci,ci3141418,2016-02-12T19:58:37.300Z,"11km N of Chatsworth, California",earthquake,,0.499,,19,reviewed,ci,ci
+1994-01-18T09:47:29.950Z,34.362,-118.636,12.419,2.72,mc,0,64.7,,0.239,ci,ci3141414,2016-02-13T01:00:14.320Z,"12km SSW of Valencia, California",earthquake,,0.669,,81,reviewed,ci,ci
+1994-01-18T09:44:32.810Z,34.344,-118.553,0.687,3.33,ml,0,92.5,,0.272,ci,ci3141410,2016-02-12T07:10:00.691Z,"9km SSW of Santa Clarita, California",earthquake,,0.345,,40,reviewed,ci,ci
+1994-01-18T09:41:48.640Z,34.224,-118.505,18.076,3.71,ml,0,71.3,,0.232,ci,ci3141408,2016-02-11T21:12:58.598Z,"3km ESE of Northridge, California",earthquake,,0.432,,36,reviewed,ci,ci
+1994-01-18T09:40:50.360Z,34.327,-118.427,2.808,2.79,ml,0,86.4,,0.24,ci,ci3164352,2016-02-11T21:12:57.006Z,"5km NNE of Pacoima, California",earthquake,,0.354,,19,reviewed,ci,ci
+1994-01-18T09:36:09.480Z,34.364,-118.563,-0.551,2.69,ml,0,105.2,,0.211,ci,ci3164338,2016-02-12T12:07:07.379Z,"8km SW of Santa Clarita, California",earthquake,,0.357,,36,reviewed,ci,ci
+1994-01-18T09:35:30.720Z,34.254,-118.552,3.286,2.64,ml,0,100.1,,0.242,ci,ci3141402,2016-02-12T12:07:05.982Z,"3km NW of Northridge, California",earthquake,,0.468,,32,reviewed,ci,ci
+1994-01-18T09:31:42.100Z,34.293,-118.405,2.534,2.59,ml,0,46.5,,0.248,ci,ci3141395,2016-02-12T22:27:49.916Z,"3km ENE of Pacoima, California",earthquake,,0.344,,16,reviewed,ci,ci
+1994-01-18T09:29:57.700Z,34.29,-118.496,10.425,2.64,mc,0,54.4,,0.322,ci,ci3141393,2016-02-12T12:07:04.480Z,"2km NNE of Granada Hills, California",earthquake,,0.772,,133,reviewed,ci,ci
+1994-01-18T09:26:44.570Z,34.345,-118.625,1.273,2.63,mc,0,110.5,,0.262,ci,ci3163770,2016-02-11T21:12:55.526Z,"10km NNW of Chatsworth, California",earthquake,,0.488,,90,reviewed,ci,ci
+1994-01-18T09:25:49.130Z,34.354,-118.613,-0.546,2.66,ml,0,96.1,,0.294,ci,ci3141391,2016-02-11T21:12:54.182Z,"11km N of Chatsworth, California",earthquake,,0.385,,31,reviewed,ci,ci
+1994-01-18T09:17:42.870Z,34.295,-118.398,2.514,2.53,mc,0,86.8,,0.209,ci,ci3141390,2016-02-12T14:48:15.658Z,"4km ENE of Pacoima, California",earthquake,,0.349,,80,reviewed,ci,ci
+1994-01-18T09:14:17.350Z,34.341,-118.618,-0.117,2.63,mc,0,123.2,,0.288,ci,ci3163959,2016-02-13T06:00:17.425Z,"10km N of Chatsworth, California",earthquake,,1.041,,85,reviewed,ci,ci
+1994-01-18T09:12:57.280Z,34.289,-118.414,2.494,2.95,ml,0,47.1,,0.271,ci,ci3141387,2016-02-12T22:27:48.486Z,"2km ENE of Pacoima, California",earthquake,,0.301,,38,reviewed,ci,ci
+1994-01-18T09:00:48.340Z,34.368,-118.633,10.269,2.51,ml,0,68.6,,0.312,ci,ci3141384,2016-02-13T06:00:16.071Z,"11km SSW of Valencia, California",earthquake,,1.495,,14,reviewed,ci,ci
+1994-01-18T08:57:18.440Z,34.381,-118.706,8.174,2.73,ml,0,76.3,,0.305,ci,ci3141382,2016-02-12T14:48:14.267Z,"9km ESE of Piru, California",earthquake,,2.125,,32,reviewed,ci,ci
+1994-01-18T08:45:10.060Z,34.282,-118.475,8.924,2.66,ml,0,64.2,,0.265,ci,ci3141380,2016-02-11T23:46:59.391Z,"3km ENE of Granada Hills, California",earthquake,,1.577,,18,reviewed,ci,ci
+1994-01-18T08:19:03.940Z,34.371,-118.492,0.626,3.13,ml,0,96.1,,0.223,ci,ci3141376,2016-02-13T01:00:11.357Z,"5km SSE of Santa Clarita, California",earthquake,,0.275,,43,reviewed,ci,ci
+1994-01-18T08:15:41.830Z,34.239,-118.604,20.317,2.74,ml,0,82.8,,0.316,ci,ci3141371,2016-02-12T02:18:46.238Z,"2km S of Chatsworth, California",earthquake,,2.356,,18,reviewed,ci,ci
+1994-01-18T08:12:50.010Z,34.33,-118.621,13.1,2.94,ml,0,53.5,,0.284,ci,ci3141368,2016-02-13T01:00:09.750Z,"8km NNW of Chatsworth, California",earthquake,,0.332,,18,reviewed,ci,ci
+1994-01-18T08:11:49.910Z,34.324,-118.613,14.884,2.72,mc,0,82,,0.234,ci,ci3141755,2016-02-12T22:27:47.077Z,"8km N of Chatsworth, California",earthquake,,0.445,,3,reviewed,ci,ci
+1994-01-18T08:11:10.080Z,34.332,-118.468,8.737,2.84,ml,0,84.1,,0.225,ci,ci3163370,2016-02-12T09:36:29.149Z,"6km NNW of Pacoima, California",earthquake,,2.306,,20,reviewed,ci,ci
+1994-01-18T08:09:59.260Z,34.349,-118.605,0.049,2.83,ml,0,102.2,,0.233,ci,ci3141366,2016-02-11T23:46:57.661Z,"10km N of Chatsworth, California",earthquake,,0.367,,20,reviewed,ci,ci
+1994-01-18T08:07:08.190Z,34.339,-118.623,2.71,2.71,mc,0,132.2,,0.21,ci,ci3141365,2016-02-12T04:47:17.409Z,"9km N of Chatsworth, California",earthquake,,2.184,,19,reviewed,ci,ci
+1994-01-18T08:03:38.260Z,34.373,-118.635,10.379,2.7,ml,0,81.5,,0.236,ci,ci3141363,2016-02-12T14:48:11.579Z,"11km SSW of Valencia, California",earthquake,,1.2,,15,reviewed,ci,ci
+1994-01-18T08:00:14.540Z,34.336,-118.62,4.394,2.71,ml,0,90.8,,0.252,ci,ci3141358,2016-02-12T02:18:44.878Z,"9km N of Chatsworth, California",earthquake,,21.912,,14,reviewed,ci,ci
+1994-01-18T07:53:25.230Z,34.354,-118.598,2.104,3.4,ml,0,43.6,,0.266,ci,ci3141357,2016-02-13T06:00:13.287Z,"11km N of Chatsworth, California",earthquake,,0.955,,43,reviewed,ci,ci
+1994-01-18T07:49:07.880Z,34.335,-118.6,13.107,3.34,ml,0,65.7,,0.282,ci,ci3141355,2016-02-13T03:33:27.920Z,"9km N of Chatsworth, California",earthquake,,0.321,,46,reviewed,ci,ci
+1994-01-18T07:43:14.890Z,34.336,-118.476,6.457,2.56,mc,0,85.4,,0.227,ci,ci3141354,2016-02-12T04:47:13.147Z,"7km NNW of Pacoima, California",earthquake,,4.187,,23,reviewed,ci,ci
+1994-01-18T07:42:36.620Z,34.315,-118.588,8.987,2.52,mc,0,115,,0.219,ci,ci3141351,2016-02-13T06:00:11.535Z,"7km NNE of Chatsworth, California",earthquake,,8.683,,16,reviewed,ci,ci
+1994-01-18T07:39:04.350Z,34.363,-118.678,4.837,2.57,mc,0,261.2,,0.167,ci,ci3141346,2016-02-11T23:46:55.054Z,"12km NNE of Simi Valley, California",earthquake,,,,19,reviewed,ci,ci
+1994-01-18T07:35:23.950Z,34.271,-118.479,13.124,2.93,ml,0,93.7,,0.25,ci,ci3141344,2016-02-12T17:22:57.363Z,"2km E of Granada Hills, California",earthquake,,0.29,,42,reviewed,ci,ci
+1994-01-18T07:31:44.600Z,34.33,-118.62,12.234,2.61,ml,0,92.1,,0.234,ci,ci3141343,2016-02-12T14:48:10.234Z,"8km N of Chatsworth, California",earthquake,,0.897,,13,reviewed,ci,ci
+1994-01-18T07:24:47.010Z,34.352,-118.624,-0.51,2.5,mh,0,68.1,0.08193,0.281,ci,ci2152835,2016-02-12T14:48:08.875Z,"11km N of Chatsworth, California",earthquake,,1.124,,0,reviewed,ci,ci
+1994-01-18T07:23:56.020Z,34.333,-118.623,14.635,4.04,ml,0,44.4,,0.273,ci,ci3141341,2016-02-12T12:07:00.533Z,"9km NNW of Chatsworth, California",earthquake,,0.188,,47,reviewed,ci,ci
+1994-01-18T07:12:24.260Z,34.312,-118.443,0.546,2.56,mc,0,88.5,,0.274,ci,ci3163039,2016-02-13T03:33:25.036Z,"3km N of Pacoima, California",earthquake,,0.561,,53,reviewed,ci,ci
+1994-01-18T07:12:13.390Z,34.37,-118.501,0.139,2.59,mc,0,108.4,,0.208,ci,ci3163038,2016-02-13T03:33:23.707Z,"5km S of Santa Clarita, California",earthquake,,0.708,,25,reviewed,ci,ci
+1994-01-18T07:11:02.870Z,34.321,-118.448,2.307,3.4,ml,0,88.1,,0.277,ci,ci3141337,2016-02-12T14:48:06.321Z,"4km NNW of Pacoima, California",earthquake,,0.464,,43,reviewed,ci,ci
+1994-01-18T07:08:58.200Z,34.331,-118.612,9.512,2.65,mc,0,52.5,,0.254,ci,ci3141336,2016-02-12T09:36:27.663Z,"8km N of Chatsworth, California",earthquake,,1.688,,79,reviewed,ci,ci
+1994-01-18T07:06:44.150Z,34.228,-118.573,14.885,2.64,ml,0,61.5,,0.266,ci,ci3141331,2016-02-12T22:27:44.998Z,"4km WSW of Northridge, California",earthquake,,0.353,,10,reviewed,ci,ci
+1994-01-18T07:06:37.460Z,34.335,-118.461,1.482,2.56,mc,0,103.2,,0.229,ci,ci3163032,2016-02-13T06:00:10.206Z,"6km NNW of Pacoima, California",earthquake,,0.399,,74,reviewed,ci,ci
+1994-01-18T07:00:15.740Z,34.369,-118.464,4.58,2.73,ml,0,124.7,,0.286,ci,ci3141327,2016-02-12T14:48:04.733Z,"7km SE of Santa Clarita, California",earthquake,,0.381,,38,reviewed,ci,ci
+1994-01-18T07:00:07.190Z,34.323,-118.562,1.149,2.65,mc,0,129.5,,0.279,ci,ci3163031,2016-02-13T06:00:08.844Z,"8km NW of Granada Hills, California",earthquake,,0.834,,115,reviewed,ci,ci
+1994-01-18T06:58:41.710Z,34.289,-118.662,11.461,2.71,ml,0,46,,0.29,ci,ci3141325,2016-02-11T23:46:53.737Z,"6km WNW of Chatsworth, California",earthquake,,1.994,,24,reviewed,ci,ci
+1994-01-18T06:50:32.080Z,34.242,-118.558,2.965,2.9,ml,0,60,,0.299,ci,ci3141318,2016-02-13T01:00:07.285Z,"2km WNW of Northridge, California",earthquake,,0.344,,37,reviewed,ci,ci
+1994-01-18T06:46:39.700Z,34.333,-118.713,-0.814,2.63,mc,0,98.5,,0.27,ci,ci3162966,2016-02-12T22:27:42.368Z,"7km NNE of Simi Valley, California",earthquake,,1.164,,71,reviewed,ci,ci
+1994-01-18T06:45:32.780Z,34.288,-118.469,9.658,3.3,ml,0,51.8,,0.298,ci,ci3141316,2016-02-12T04:47:08.018Z,"3km WNW of San Fernando, California",earthquake,,0.892,,40,reviewed,ci,ci
+1994-01-18T06:42:44.230Z,34.264,-118.57,15.084,3.42,ml,0,44.5,,0.304,ci,ci3141315,2016-02-11T21:12:50.185Z,"3km ENE of Chatsworth, California",earthquake,,0.169,,47,reviewed,ci,ci
+1994-01-18T06:40:33.330Z,34.285,-118.488,10.632,2.6,mc,0,53.5,,0.236,ci,ci3141312,2016-02-13T03:33:22.453Z,"2km NE of Granada Hills, California",earthquake,,0.952,,70,reviewed,ci,ci
+1994-01-18T06:29:02.200Z,34.298,-118.447,7.618,3.74,ml,0,50,,0.295,ci,ci3141294,2016-02-12T12:06:58.453Z,"2km NNW of Pacoima, California",earthquake,,1.103,,46,reviewed,ci,ci
+1994-01-18T06:25:19.710Z,34.296,-118.418,2.242,2.57,mc,0,47.6,,0.251,ci,ci3141290,2016-02-13T03:33:21.064Z,"2km NE of Pacoima, California",earthquake,,0.462,,75,reviewed,ci,ci
+1994-01-18T06:14:30.800Z,34.399,-118.627,15.089,2.75,mc,0,91.1,,0.218,ci,ci3141281,2016-02-13T01:00:05.835Z,"8km SW of Valencia, California",earthquake,,0.215,,47,reviewed,ci,ci
+1994-01-18T05:55:12.400Z,34.26,-118.497,10.495,2.53,ml,0,73.3,,0.263,ci,ci3163203,2016-02-13T03:33:19.709Z,"1km SSE of Granada Hills, California",earthquake,,0.741,,17,reviewed,ci,ci
+1994-01-18T05:49:43.440Z,34.3,-118.447,6.288,3.91,ml,0,89.5,,0.19,ci,ci2158412,2016-02-11T21:12:48.563Z,"2km NNW of Pacoima, California",earthquake,,2.7,,32,reviewed,ci,ci
+1994-01-18T05:48:24.390Z,34.297,-118.45,6.048,2.95,ml,0,66.4,,0.237,ci,ci3141270,2016-02-12T22:27:38.306Z,"2km NW of Pacoima, California",earthquake,,2.449,,20,reviewed,ci,ci
+1994-01-18T05:45:06.970Z,34.341,-118.463,1.218,2.75,ml,0,86.1,,0.225,ci,ci3141266,2016-02-13T01:00:04.408Z,"7km NNW of Pacoima, California",earthquake,,0.257,,24,reviewed,ci,ci
+1994-01-18T05:31:32.920Z,34.343,-118.466,0.674,3.02,ml,0,129.3,,0.267,ci,ci3141261,2016-02-11T21:12:46.812Z,"7km NNW of Pacoima, California",earthquake,,0.264,,46,reviewed,ci,ci
+1994-01-18T05:31:04.630Z,34.342,-118.473,0.137,2.61,ml,0,105.8,,0.21,ci,ci3162661,2016-02-12T19:58:26.175Z,"7km NNW of Pacoima, California",earthquake,,1.076,,10,reviewed,ci,ci
+1994-01-18T05:30:40.200Z,34.377,-118.644,1.843,2.73,ml,0,69.4,,0.321,ci,ci3162659,2016-02-13T03:33:17.706Z,"11km SW of Valencia, California",earthquake,,0.69,,18,reviewed,ci,ci
+1994-01-18T05:19:02.550Z,34.352,-118.669,8.62,3.8,ml,0,98.2,,0.272,ci,ci3141258,2016-02-11T21:12:45.362Z,"11km NE of Simi Valley, California",earthquake,,0.936,,33,reviewed,ci,ci
+1994-01-18T05:15:01.470Z,34.378,-118.676,4.08,2.76,mc,0,72.9,,0.233,ci,ci3141246,2016-02-11T21:12:43.724Z,"12km ESE of Piru, California",earthquake,,0.957,,38,reviewed,ci,ci
+1994-01-18T05:09:15.550Z,34.289,-118.461,2.438,2.79,ml,0,68,,0.247,ci,ci3141237,2016-02-12T12:06:52.890Z,"2km WNW of San Fernando, California",earthquake,,0.359,,42,reviewed,ci,ci
+1994-01-18T05:04:56.380Z,34.214,-118.561,18.22,2.61,mc,0,112.1,,0.242,ci,ci3141224,2016-02-12T02:18:42.137Z,"3km WNW of Reseda, California",earthquake,,2.074,,23,reviewed,ci,ci
+1994-01-18T05:01:04.630Z,34.379,-118.636,11.819,3,ml,0,68.4,,0.293,ci,ci3141218,2016-02-12T04:47:04.103Z,"10km SW of Valencia, California",earthquake,,0.512,,46,reviewed,ci,ci
+1994-01-18T04:54:46.300Z,34.127,-118.723,10,2.9,ml,,,,0.3,us,usp00066sw,2014-11-07T00:54:47.975Z,"2 km SE of Agoura, California",earthquake,,,,,reviewed,us,gs$
+1994-01-18T04:52:30.700Z,34.251,-118.696,10,2.8,ml,,,,0.5,us,usp00066sv,2014-11-07T00:54:47.973Z,"2 km SSE of Santa Susana, California",earthquake,,,,,reviewed,us,gs$
+1994-01-18T04:43:27.600Z,34.301,-118.474,9.328,3.59,ml,0,37.8,,0.312,ci,ci3141208,2016-02-12T07:09:55.355Z,"4km WNW of Pacoima, California",earthquake,,0.52,,43,reviewed,ci,ci
+1994-01-18T04:31:45.740Z,34.38,-118.438,5.417,3.61,mc,0,121.4,,0.335,ci,ci3162645,2016-02-13T08:35:29.285Z,"8km ESE of Santa Clarita, California",earthquake,,,,10,reviewed,ci,ci
+1994-01-18T04:31:19.720Z,34.364,-118.45,4.334,3.75,ml,0,50.9,,0.271,ci,ci3141207,2016-02-13T01:00:00.327Z,"8km SE of Santa Clarita, California",earthquake,,0.229,,52,reviewed,ci,ci
+1994-01-18T04:30:42.810Z,34.372,-118.719,5.579,2.65,ml,0,78.5,,0.367,ci,ci3162642,2016-02-12T04:47:02.496Z,"8km SE of Piru, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-18T04:30:32.670Z,34.311,-118.628,1.019,2.5,mh,0,148.9,,0.34,ci,ci3162640,2016-02-12T14:47:58.354Z,"6km NNW of Chatsworth, California",earthquake,,0.768,,0,reviewed,ci,ci
+1994-01-18T04:26:07.680Z,34.3,-118.66,2.02,2.93,mc,0,117.6,,0.289,ci,ci3141204,2016-02-11T18:27:12.661Z,"7km NW of Chatsworth, California",earthquake,,2.687,,145,reviewed,ci,ci
+1994-01-18T04:24:22.130Z,34.38,-118.582,4.2,2.64,mc,0,62.6,,0.253,ci,ci3141199,2016-02-11T18:27:11.351Z,"8km WSW of Santa Clarita, California",earthquake,,13.641,,59,reviewed,ci,ci
+1994-01-18T04:21:18.820Z,34.3,-118.465,5.633,2.5,ml,0,55.8,,0.245,ci,ci3141191,2016-02-13T08:35:27.912Z,"3km NW of Pacoima, California",earthquake,,5.622,,20,reviewed,ci,ci
+1994-01-18T04:20:39.800Z,34.286,-118.523,10.803,2.64,ml,0,100.7,,0.236,ci,ci3186017,2016-02-13T08:35:26.436Z,"2km NW of Granada Hills, California",earthquake,,0.759,,34,reviewed,ci,ci
+1994-01-18T04:03:17.590Z,34.311,-118.639,0.778,2.74,mc,0,61.3,,0.269,ci,ci2150632,2016-02-11T21:12:41.867Z,"7km NNW of Chatsworth, California",earthquake,,1.078,,9,reviewed,ci,ci
+1994-01-18T04:01:26.720Z,34.358,-118.623,0.146,4.26,ml,0,44.7,,0.323,ci,ci3141180,2016-02-11T21:12:40.582Z,"11km N of Chatsworth, California",earthquake,,0.584,,50,reviewed,ci,ci
+1994-01-18T03:59:49.940Z,34.333,-118.617,0.557,2.72,mc,0,67.9,,0.42,ci,ci3186030,2016-02-13T06:00:03.553Z,"9km N of Chatsworth, California",earthquake,,0.884,,95,reviewed,ci,ci
+1994-01-18T03:59:08.020Z,34.275,-118.472,2.873,2.84,ml,0,63.8,,0.303,ci,ci3141174,2016-02-12T09:36:19.183Z,"3km E of Granada Hills, California",earthquake,,0.38,,4,reviewed,ci,ci
+1994-01-18T03:56:37.520Z,34.29,-118.471,2.653,3.03,ml,0,63.8,,0.276,ci,ci3141172,2016-02-12T09:36:17.816Z,"3km WNW of San Fernando, California",earthquake,,0.266,,45,reviewed,ci,ci
+1994-01-18T03:51:27.530Z,34.327,-118.434,-0.169,2.73,mc,0,112,,0.317,ci,ci3141169,2016-02-13T03:33:12.058Z,"5km N of Pacoima, California",earthquake,,0.395,,130,reviewed,ci,ci
+1994-01-18T03:50:19.800Z,34.373,-118.578,-0.555,2.81,ml,0,102.3,0.0793,0.269,ci,ci3141167,2016-02-12T17:22:52.876Z,"8km SW of Santa Clarita, California",earthquake,,0.74,,21,reviewed,ci,ci
+1994-01-18T03:42:35.010Z,34.372,-118.606,-0.502,2.89,ml,0,100.9,,0.226,ci,ci3141164,2016-02-11T21:12:39.026Z,"10km SSW of Valencia, California",earthquake,,1.17,,19,reviewed,ci,ci
+1994-01-18T03:34:11.630Z,34.369,-118.646,10.654,3.5,ml,0,57.3,,0.309,ci,ci3141161,2016-02-13T00:59:57.644Z,"12km SW of Valencia, California",earthquake,,0.949,,43,reviewed,ci,ci
+1994-01-18T03:31:01.470Z,34.288,-118.461,10.559,3.38,ml,0,36,,0.32,ci,ci3141158,2016-02-12T07:09:49.982Z,"2km WNW of San Fernando, California",earthquake,,0.708,,42,reviewed,ci,ci
+1994-01-18T03:27:13.690Z,34.378,-118.64,5.303,2.83,ml,0,68.9,,0.264,ci,ci3141156,2016-02-13T05:59:59.523Z,"11km SW of Valencia, California",earthquake,,,,41,reviewed,ci,ci
+1994-01-18T03:21:24.250Z,34.247,-118.513,11.966,2.63,ml,0,59.1,,0.254,ci,ci3141154,2016-02-11T23:46:48.147Z,"2km NE of Northridge, California",earthquake,,1.152,,17,reviewed,ci,ci
+1994-01-18T03:11:52.360Z,34.243,-118.573,2.669,2.8,ml,0,77.4,,0.351,ci,ci3141152,2016-02-12T09:36:16.391Z,"3km ESE of Chatsworth, California",earthquake,,0.739,,35,reviewed,ci,ci
+1994-01-18T03:08:07.740Z,34.223,-118.536,17.147,2.6,ml,0,56.5,,0.261,ci,ci3141149,2016-02-13T05:59:58.121Z,"1km S of Northridge, California",earthquake,,2.224,,21,reviewed,ci,ci
+1994-01-18T02:58:31.560Z,34.373,-118.6,5.286,2.52,mc,0,155.1,0.3344,0.122,ci,ci3141144,2016-02-13T03:33:10.702Z,"9km SSW of Valencia, California",earthquake,,,,3,reviewed,ci,ci
+1994-01-18T02:53:51.860Z,34.301,-118.506,10.545,3.14,ml,0,67.8,,0.283,ci,ci3141139,2016-02-12T04:46:57.398Z,"3km N of Granada Hills, California",earthquake,,0.811,,34,reviewed,ci,ci
+1994-01-18T02:49:53.810Z,34.221,-118.521,17.316,2.6,ml,0,54.6,,0.284,ci,ci3141138,2016-02-12T12:06:47.651Z,"2km SE of Northridge, California",earthquake,,0.548,,36,reviewed,ci,ci
+1994-01-18T02:38:36.160Z,34.391,-118.632,2.586,2.74,ml,0,67.4,,0.303,ci,ci3162517,2016-02-12T07:09:47.746Z,"9km SW of Valencia, California",earthquake,,0.583,,28,reviewed,ci,ci
+1994-01-18T02:37:48.520Z,34.321,-118.5,-0.404,2.74,mc,0,76.3,,0.243,ci,ci3141137,2016-02-12T07:09:46.271Z,"6km N of Granada Hills, California",earthquake,,0.426,,103,reviewed,ci,ci
+1994-01-18T02:28:39.840Z,34.31,-118.447,1.799,2.84,ml,0,99.7,,0.272,ci,ci3141135,2016-02-13T03:33:09.491Z,"3km NNW of Pacoima, California",earthquake,,0.34,,40,reviewed,ci,ci
+1994-01-18T02:26:17.670Z,34.327,-118.725,5.408,2.92,ml,0,70.6,,0.296,ci,ci3141134,2016-02-12T19:58:21.714Z,"6km NNE of Simi Valley, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-18T02:26:11.930Z,34.214,-118.607,1.74,2.5,ml,0,192.5,0.1662,0.318,ci,ci2157754,2016-02-12T04:46:55.190Z,"2km N of Canoga Park, California",earthquake,,2.034,,2,reviewed,ci,ci
+1994-01-18T02:20:58.250Z,34.352,-118.453,2.159,2.73,mc,0,133,,0.212,ci,ci3141132,2016-02-13T03:33:08.116Z,"8km N of Pacoima, California",earthquake,,0.253,,70,reviewed,ci,ci
+1994-01-18T02:19:26.640Z,34.303,-118.381,2.553,2.74,ml,0,55.6,,0.227,ci,ci3162025,2016-02-12T19:58:20.299Z,"4km NNW of Lake View Terrace, California",earthquake,,0.342,,18,reviewed,ci,ci
+1994-01-18T02:18:27.880Z,34.299,-118.392,2.309,2.97,ml,0,85.9,,0.218,ci,ci3141130,2016-02-13T03:33:06.808Z,"4km NW of Lake View Terrace, California",earthquake,,0.29,,36,reviewed,ci,ci
+1994-01-18T02:15:42.940Z,34.378,-118.505,-0.139,3.03,ml,0,94.4,,0.254,ci,ci3141128,2016-02-13T05:59:56.697Z,"4km S of Santa Clarita, California",earthquake,,0.318,,44,reviewed,ci,ci
+1994-01-18T02:06:04.080Z,34.281,-118.469,8.835,3.04,ml,0,51.6,,0.236,ci,ci3141401,2016-02-12T02:18:39.218Z,"3km W of San Fernando, California",earthquake,,0.949,,43,reviewed,ci,ci
+1994-01-18T02:03:14.920Z,34.37,-118.701,17.348,2.72,ml,0,76.5,,0.373,ci,ci3186874,2016-02-11T21:12:33.694Z,"10km ESE of Piru, California",earthquake,,2.315,,10,reviewed,ci,ci
+1994-01-18T02:02:26.970Z,34.364,-118.691,12.583,3.07,ml,0,75.6,,0.266,ci,ci3141404,2016-02-12T07:09:44.469Z,"11km ESE of Piru, California",earthquake,,0.699,,37,reviewed,ci,ci
+1994-01-18T02:00:46.680Z,34.388,-118.644,2.626,3.27,mc,0,68.9,,0.29,ci,ci3141400,2016-02-13T08:35:24.911Z,"10km SW of Valencia, California",earthquake,,0.612,,158,reviewed,ci,ci
+1994-01-18T01:54:31.620Z,34.33,-118.624,0.891,2.73,ml,0,83.4,,0.328,ci,ci3141123,2016-02-12T04:46:50.918Z,"8km NNW of Chatsworth, California",earthquake,,1.064,,26,reviewed,ci,ci
+1994-01-18T01:52:36.400Z,34.295,-118.412,3.278,2.61,ml,0,102.6,,0.211,ci,ci3141120,2016-02-11T18:27:08.756Z,"3km ENE of Pacoima, California",earthquake,,0.319,,27,reviewed,ci,ci
+1994-01-18T01:48:41.490Z,34.273,-118.546,12.823,2.92,ml,0,53.5,,0.3,ci,ci3141299,2016-02-13T08:35:23.493Z,"4km W of Granada Hills, California",earthquake,,0.779,,14,reviewed,ci,ci
+1994-01-18T01:47:54.680Z,34.321,-118.702,5.216,2.66,mc,0,79.8,,0.34,ci,ci3186670,2016-02-13T05:59:55.114Z,"6km NNE of Simi Valley, California",earthquake,,,,58,reviewed,ci,ci
+1994-01-18T01:47:10.600Z,34.355,-118.657,1.964,3.05,ml,0,72,,0.214,ci,ci3141295,2016-02-13T05:59:53.709Z,"12km NNW of Chatsworth, California",earthquake,,0.409,,36,reviewed,ci,ci
+1994-01-18T01:45:55.360Z,34.395,-118.69,3.069,3.23,mc,0,115.3,,0.209,ci,ci3141293,2016-02-13T00:59:51.778Z,"10km ESE of Piru, California",earthquake,,0.61,,146,reviewed,ci,ci
+1994-01-18T01:43:13.200Z,34.245,-118.615,20.466,3.01,ml,0,128.3,,0.284,ci,ci3141116,2016-02-11T18:27:07.384Z,"2km SW of Chatsworth, California",earthquake,,1.897,,24,reviewed,ci,ci
+1994-01-18T01:38:33.170Z,34.24,-118.678,5.298,2.5,mh,0,293.5,,0.186,ci,ci3141115,2016-02-13T00:59:50.377Z,"6km NNW of West Hills, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-18T01:19:44.000Z,34.376,-118.682,2.707,2.6,ml,0,73.7,,0.291,ci,ci3161023,2016-02-11T23:46:42.864Z,"11km ESE of Piru, California",earthquake,,0.849,,6,reviewed,ci,ci
+1994-01-18T01:17:51.430Z,34.381,-118.705,11.454,3.57,ml,0,45.6,,0.299,ci,ci3141112,2016-02-12T12:06:46.224Z,"9km ESE of Piru, California",earthquake,,0.579,,23,reviewed,ci,ci
+1994-01-18T01:00:23.930Z,34.247,-118.613,18.939,3.39,ml,0,106.5,,0.308,ci,ci3141111,2016-02-13T00:59:47.868Z,"1km SW of Chatsworth, California",earthquake,,2.854,,21,reviewed,ci,ci
+1994-01-18T01:00:01.340Z,34.387,-118.545,10,2.9,ml,,,,0.7,us,usp00066rx,2014-11-07T00:54:47.882Z,"0 km SSW of Santa Clarita, California",earthquake,,,,,reviewed,us,gs$
+1994-01-18T00:47:58.770Z,34.383,-118.711,0.693,3.12,ml,0,76.6,,0.357,ci,ci3141292,2016-02-11T23:46:40.511Z,"8km ESE of Piru, California",earthquake,,1.894,,8,reviewed,ci,ci
+1994-01-18T00:47:43.880Z,34.383,-118.702,5.476,2.9,mh,0,75.6,,0.313,ci,ci3186854,2016-02-12T17:22:47.635Z,"9km ESE of Piru, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-18T00:46:40.730Z,34.382,-118.699,0.556,3.03,ml,0,75.3,,0.445,ci,ci3186805,2016-02-12T09:36:12.836Z,"10km ESE of Piru, California",earthquake,,3.234,,4,reviewed,ci,ci
+1994-01-18T00:45:34.500Z,34.377,-118.724,5.391,3.41,mc,0,106.8,,0.326,ci,ci3141288,2016-02-12T09:36:11.544Z,"8km ESE of Piru, California",earthquake,,,,12,reviewed,ci,ci
+1994-01-18T00:44:51.580Z,34.399,-118.695,-1.06,3.2,mc,0,128.9,0.2185,0.306,ci,ci2152224,2016-02-13T08:35:20.754Z,"9km ESE of Piru, California",earthquake,,2.28,,4,reviewed,ci,ci
+1994-01-18T00:44:17.660Z,34.397,-118.695,13.723,3.56,mc,0,56.5,,0.331,ci,ci2152199,2016-02-12T09:36:10.345Z,"9km ESE of Piru, California",earthquake,,1.096,,5,reviewed,ci,ci
+1994-01-18T00:43:08.890Z,34.377,-118.698,10.709,5.24,ml,0,45.5,,0.311,ci,ci3141286,2020-04-16T18:54:30.059Z,"10km ESE of Piru, California",earthquake,,0.534,,8,reviewed,ci,ci
+1994-01-18T00:40:04.090Z,34.394,-118.543,-0.844,4.21,ml,0,96.8,,0.332,ci,ci2150850,2016-02-13T03:33:03.979Z,"4km SW of Santa Clarita, California",earthquake,,0.837,,24,reviewed,ci,ci
+1994-01-18T00:39:35.030Z,34.379,-118.564,6.509,4.4,ml,0,49.1,,0.282,ci,ci3141108,2016-02-12T12:06:44.263Z,"7km SW of Santa Clarita, California",earthquake,,1.743,,21,reviewed,ci,ci
+1994-01-18T00:36:20.720Z,34.268,-118.482,12.413,3.94,ml,0,44.6,,0.282,ci,ci3141107,2016-02-12T07:09:43.030Z,"2km ESE of Granada Hills, California",earthquake,,0.349,,26,reviewed,ci,ci
+1994-01-18T00:32:31.480Z,34.384,-118.503,-0.013,2.56,mc,0,195.7,,0.193,ci,ci2138887,2016-02-12T17:22:44.478Z,"4km S of Santa Clarita, California",earthquake,,0.674,,26,reviewed,ci,ci
+1994-01-18T00:30:40.660Z,34.292,-118.426,1.256,2.69,mc,0,143,,0.229,ci,ci2138885,2016-02-13T05:59:50.826Z,"2km NE of Pacoima, California",earthquake,,1.363,,17,reviewed,ci,ci
+1994-01-18T00:25:05.230Z,34.341,-118.489,0.965,3.05,mc,0,117.4,,0.245,ci,ci3141280,2016-02-13T03:33:02.699Z,"8km N of Granada Hills, California",earthquake,,0.374,,128,reviewed,ci,ci
+1994-01-18T00:23:38.250Z,34.246,-118.573,2.287,3.29,ml,0,66.3,,0.357,ci,ci3141279,2016-02-12T19:58:13.443Z,"3km ESE of Chatsworth, California",earthquake,,0.261,,42,reviewed,ci,ci
+1994-01-18T00:22:47.210Z,34.322,-118.725,5.533,2.6,mh,0,102.1,,0.303,ci,ci3186661,2016-02-12T04:46:48.253Z,"6km NNE of Simi Valley, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-18T00:22:20.020Z,34.352,-118.624,-0.468,3.03,ml,0,98.4,,0.271,ci,ci3141278,2016-02-12T02:18:32.787Z,"11km N of Chatsworth, California",earthquake,,0.381,,21,reviewed,ci,ci
+1994-01-18T00:16:57.820Z,34.264,-118.571,15.887,2.78,ml,0,141.4,,0.243,ci,ci3141083,2016-02-13T00:59:46.466Z,"3km ENE of Chatsworth, California",earthquake,,1.414,,30,reviewed,ci,ci
+1994-01-18T00:12:00.410Z,34.344,-118.631,0.813,2.65,ml,0,83.4,0.1963,0.338,ci,ci3141081,2016-02-12T19:58:12.034Z,"10km NNW of Chatsworth, California",earthquake,,0.756,,3,reviewed,ci,ci
+1994-01-18T00:06:38.830Z,34.383,-118.692,11.153,2.87,ml,0,62.2,,0.335,ci,ci3141080,2016-02-12T22:27:34.422Z,"10km ESE of Piru, California",earthquake,,1.719,,30,reviewed,ci,ci
+1994-01-18T00:05:43.390Z,34.323,-118.575,4.162,2.87,mc,0,76.4,,0.308,ci,ci3141079,2016-02-12T14:47:55.921Z,"8km NNE of Chatsworth, California",earthquake,,0.979,,29,reviewed,ci,ci
+1994-01-18T00:02:41.580Z,34.374,-118.624,7.513,2.52,ml,0,109.7,0.186,0.369,ci,ci3161877,2016-02-12T07:09:41.461Z,"10km SSW of Valencia, California",earthquake,,17.012,,14,reviewed,ci,ci
+1994-01-18T00:01:27.820Z,34.339,-118.683,-0.698,3.54,ml,0,61.1,,0.315,ci,ci3141072,2016-02-11T18:27:03.331Z,"9km NE of Simi Valley, California",earthquake,,0.528,,34,reviewed,ci,ci
+1994-01-17T23:56:15.480Z,34.212,-118.552,19.391,2.68,ml,0,58,,0.32,ci,ci3141071,2016-02-12T09:36:07.912Z,"2km WNW of Reseda, California",earthquake,,1.199,,15,reviewed,ci,ci
+1994-01-17T23:50:07.570Z,34.365,-118.61,1.727,3,mh,0,108.5,0.1754,0.295,ci,ci2150833,2016-02-12T04:46:45.750Z,"11km SSW of Valencia, California",earthquake,,1.796,,0,reviewed,ci,ci
+1994-01-17T23:49:25.370Z,34.343,-118.666,7.709,3.99,ml,0,45.3,,0.328,ci,ci3141062,2016-02-12T07:09:40.184Z,"10km NE of Simi Valley, California",earthquake,,1.467,,49,reviewed,ci,ci
+1994-01-17T23:44:21.580Z,34.341,-118.623,0.871,2.5,mh,0,68.4,,0.339,ci,ci3141058,2016-02-12T14:47:54.663Z,"10km N of Chatsworth, California",earthquake,,1.013,,0,reviewed,ci,ci
+1994-01-17T23:43:06.960Z,34.314,-118.596,2.612,3.47,ml,0,81.2,0.1784,0.334,ci,ci3141053,2016-02-13T03:33:01.314Z,"6km N of Chatsworth, California",earthquake,,1.412,,21,reviewed,ci,ci
+1994-01-17T23:40:52.900Z,34.266,-118.601,2.327,2.94,ml,0,66.4,0.2063,0.347,ci,ci3141048,2016-02-12T02:18:30.663Z,"1km NNE of Chatsworth, California",earthquake,,0.604,,6,reviewed,ci,ci
+1994-01-17T23:38:09.710Z,34.375,-118.524,0.467,3.47,ml,0,94.2,,0.233,ci,ci3141353,2016-02-12T17:22:43.208Z,"5km SSW of Santa Clarita, California",earthquake,,0.457,,12,reviewed,ci,ci
+1994-01-17T23:37:24.220Z,34.322,-118.687,13.261,3.33,mc,0,122.7,0.2466,0.229,ci,ci3183139,2016-02-11T18:27:01.355Z,"7km NE of Simi Valley, California",earthquake,,4.851,,5,reviewed,ci,ci
+1994-01-17T23:36:55.840Z,34.346,-118.663,2.727,3.74,ml,0,126.7,,0.368,ci,ci3141350,2016-02-11T18:26:59.700Z,"11km NE of Simi Valley, California",earthquake,,1.534,,8,reviewed,ci,ci
+1994-01-17T23:33:30.690Z,34.326,-118.698,9.083,5.58,ml,0,23.9,,0.317,ci,ci3141273,2022-04-28T17:52:51.734Z,"7km NNE of Simi Valley, California",earthquake,,0.84,,28,reviewed,ci,ci
+1994-01-17T23:15:52.640Z,34.382,-118.588,13.413,2.81,ml,0,74.7,,0.279,ci,ci3141038,2016-02-12T02:18:28.670Z,"8km S of Valencia, California",earthquake,,0.989,,39,reviewed,ci,ci
+1994-01-17T23:13:56.030Z,34.266,-118.548,12.064,2.62,ml,0,124.5,,0.265,ci,ci3141034,2016-02-13T05:59:49.567Z,"4km NNW of Northridge, California",earthquake,,2.571,,15,reviewed,ci,ci
+1994-01-17T23:09:22.340Z,34.329,-118.443,7.993,3.12,ml,0,50.2,,0.233,ci,ci3141033,2016-02-12T02:18:26.829Z,"5km N of Pacoima, California",earthquake,,0.81,,45,reviewed,ci,ci
+1994-01-17T22:58:42.150Z,34.332,-118.454,6.846,2.52,mc,0,121.4,,0.193,ci,ci2176837,2016-02-12T22:27:32.861Z,"6km NNW of Pacoima, California",earthquake,,2.175,,48,reviewed,ci,ci
+1994-01-17T22:57:14.020Z,34.347,-118.611,8.763,3.47,ml,0,44,,0.259,ci,ci3141031,2016-02-12T17:22:40.422Z,"10km N of Chatsworth, California",earthquake,,0.997,,49,reviewed,ci,ci
+1994-01-17T22:50:35.420Z,34.31,-118.473,4.491,3.45,ml,0,52.5,,0.296,ci,ci3141023,2016-02-12T22:27:31.389Z,"4km NW of Pacoima, California",earthquake,,0.679,,41,reviewed,ci,ci
+1994-01-17T22:45:28.560Z,34.44,-118.528,-0.684,2.95,ml,0,56.1,,0.273,ci,ci3141020,2016-02-13T08:35:17.645Z,"3km NW of Santa Clarita, California",earthquake,,0.477,,39,reviewed,ci,ci
+1994-01-17T22:44:13.820Z,34.333,-118.437,7.691,2.95,ml,0,86.6,,0.178,ci,ci3141017,2016-02-12T12:06:36.896Z,"6km N of Pacoima, California",earthquake,,1.921,,35,reviewed,ci,ci
+1994-01-17T22:33:06.010Z,34.363,-118.621,0.529,3.09,ml,0,67.4,0.1847,0.324,ci,ci3141248,2016-02-11T18:26:58.310Z,"11km SSW of Valencia, California",earthquake,,1.632,,9,reviewed,ci,ci
+1994-01-17T22:33:01.770Z,34.331,-118.601,5.532,2.7,mh,0,106.5,0.176,0.131,ci,ci3186804,2016-02-12T22:27:28.487Z,"8km N of Chatsworth, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T22:31:53.730Z,34.339,-118.442,5.733,4.12,ml,0,50.2,,0.329,ci,ci3141242,2016-02-12T19:58:08.289Z,"6km N of Pacoima, California",earthquake,,,,45,reviewed,ci,ci
+1994-01-17T22:31:36.580Z,34.312,-118.461,5.861,3.73,mc,0,51.4,,0.258,ci,ci3186668,2016-02-11T18:26:55.060Z,"4km NNW of Pacoima, California",earthquake,,2.047,,126,reviewed,ci,ci
+1994-01-17T22:24:33.000Z,34.339,-118.541,0.351,3.52,ml,0,92.2,,0.264,ci,ci3141012,2016-02-12T02:18:25.234Z,"8km NNW of Granada Hills, California",earthquake,,0.3,,47,reviewed,ci,ci
+1994-01-17T22:21:44.850Z,34.339,-118.463,-0.369,3.57,ml,0,51.9,,0.282,ci,ci3141238,2021-03-09T23:59:58.380Z,"7km NNW of Pacoima, California",earthquake,,0.649,,46,reviewed,ci,ci
+1994-01-17T22:21:03.650Z,34.363,-118.615,6.081,2.73,mc,0,66.6,,0.279,ci,ci3186035,2016-02-11T18:26:53.509Z,"11km SSW of Valencia, California",earthquake,,22.135,,33,reviewed,ci,ci
+1994-01-17T22:19:23.950Z,34.365,-118.62,11.161,3.93,ml,0,67.2,,0.3,ci,ci3141233,2016-02-12T22:27:27.193Z,"11km SSW of Valencia, California",earthquake,,0.577,,44,reviewed,ci,ci
+1994-01-17T22:14:08.230Z,34.272,-118.463,10,2.9,ml,,,,0.7,us,usp00066r0,2014-11-07T00:54:47.774Z,"2 km WSW of San Fernando, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T22:11:05.950Z,34.259,-118.603,-0.281,3.52,ml,0,66.6,,0.285,ci,ci3141007,2016-02-13T05:59:48.254Z,"0km N of Chatsworth, California",earthquake,,0.795,,47,reviewed,ci,ci
+1994-01-17T22:10:56.500Z,34.358,-118.487,-0.509,2.5,mh,0,87.6,,0.245,ci,ci3161798,2016-02-11T21:12:29.753Z,"7km SSE of Santa Clarita, California",earthquake,,0.58,,0,reviewed,ci,ci
+1994-01-17T22:09:16.360Z,34.286,-118.552,10.119,3.15,ml,0,60.3,,0.278,ci,ci3141231,2016-02-12T14:47:52.237Z,"5km WNW of Granada Hills, California",earthquake,,1.304,,40,reviewed,ci,ci
+1994-01-17T22:08:39.280Z,34.307,-118.456,2.245,2.57,mc,0,84.5,,0.277,ci,ci3186655,2016-02-13T05:59:46.691Z,"3km NNW of Pacoima, California",earthquake,,0.935,,6,reviewed,ci,ci
+1994-01-17T22:07:42.470Z,34.345,-118.478,0.151,3.51,ml,0,53.3,,0.293,ci,ci3141230,2016-02-11T23:46:35.948Z,"8km NNW of Pacoima, California",earthquake,,0.378,,44,reviewed,ci,ci
+1994-01-17T22:07:19.310Z,34.321,-118.55,8.821,2.94,ml,0,60.3,0.08896,0.23,ci,ci3186024,2016-02-11T23:46:34.422Z,"7km NW of Granada Hills, California",earthquake,,3.816,,10,reviewed,ci,ci
+1994-01-17T22:06:47.910Z,34.299,-118.467,8.539,2.85,ml,0,51.7,,0.266,ci,ci3141228,2016-02-12T17:22:36.474Z,"3km WNW of Pacoima, California",earthquake,,1.694,,16,reviewed,ci,ci
+1994-01-17T21:59:42.050Z,34.308,-118.414,2.049,2.83,ml,0,57.9,,0.292,ci,ci3141001,2016-02-13T00:59:43.917Z,"4km NE of Pacoima, California",earthquake,,0.291,,38,reviewed,ci,ci
+1994-01-17T21:56:32.360Z,34.348,-118.474,0.421,2.86,ml,0,87.7,,0.269,ci,ci3140999,2016-02-12T04:46:41.909Z,"8km NNW of Pacoima, California",earthquake,,0.287,,36,reviewed,ci,ci
+1994-01-17T21:52:05.480Z,34.336,-118.629,0.683,2.72,ml,0,69.3,,0.245,ci,ci3140998,2016-02-13T03:32:56.346Z,"9km NNW of Chatsworth, California",earthquake,,0.585,,31,reviewed,ci,ci
+1994-01-17T21:49:18.150Z,34.323,-118.449,8.189,2.85,ml,0,88,,0.255,ci,ci3140997,2016-02-12T17:22:34.991Z,"4km NNW of Pacoima, California",earthquake,,2.043,,39,reviewed,ci,ci
+1994-01-17T21:46:45.640Z,34.344,-118.602,0.289,2.84,ml,0,65.7,,0.308,ci,ci3140995,2016-02-13T08:35:11.047Z,"10km N of Chatsworth, California",earthquake,,0.417,,25,reviewed,ci,ci
+1994-01-17T21:34:52.970Z,34.298,-118.479,8.939,3.13,ml,0,91.7,,0.24,ci,ci3140990,2016-02-12T04:46:39.214Z,"4km NE of Granada Hills, California",earthquake,,0.748,,45,reviewed,ci,ci
+1994-01-17T21:34:02.340Z,34.267,-118.607,3.579,2.85,ml,0,102.9,,0.282,ci,ci3161426,2016-02-12T07:09:36.075Z,"1km NNW of Chatsworth, California",earthquake,,2.245,,14,reviewed,ci,ci
+1994-01-17T21:28:42.350Z,34.335,-118.637,2.249,2.84,ml,0,70.3,,0.292,ci,ci3161472,2016-02-12T19:58:06.804Z,"9km NNW of Chatsworth, California",earthquake,,0.814,,17,reviewed,ci,ci
+1994-01-17T21:27:37.870Z,34.282,-118.57,1.459,2.65,ml,0,143.3,,0.341,ci,ci3161470,2016-02-13T00:59:42.373Z,"4km NE of Chatsworth, California",earthquake,,1.268,,9,reviewed,ci,ci
+1994-01-17T21:27:03.230Z,34.285,-118.45,8.969,2.79,ml,0,61.5,,0.231,ci,ci3140985,2016-02-12T19:58:05.421Z,"1km WNW of San Fernando, California",earthquake,,1.748,,24,reviewed,ci,ci
+1994-01-17T21:20:28.800Z,34.28,-118.475,9.672,2.66,mc,0,119.7,,0.256,ci,ci3140984,2016-02-13T08:35:09.559Z,"3km ENE of Granada Hills, California",earthquake,,3.339,,28,reviewed,ci,ci
+1994-01-17T21:16:36.150Z,34.285,-118.57,11.689,2.61,ml,0,130.4,0.0912,0.177,ci,ci3140983,2016-02-12T12:06:34.308Z,"4km NE of Chatsworth, California",earthquake,,2.38,,6,reviewed,ci,ci
+1994-01-17T21:09:22.740Z,34.241,-118.502,11.799,2.63,ml,0,113.7,,0.267,ci,ci3140973,2016-02-12T02:18:20.936Z,"3km ENE of Northridge, California",earthquake,,2.353,,19,reviewed,ci,ci
+1994-01-17T21:08:00.370Z,34.364,-118.627,0.918,2.5,mh,0,140,,0.262,ci,ci3161320,2016-02-12T19:58:02.805Z,"11km SSW of Valencia, California",earthquake,,2.688,,0,reviewed,ci,ci
+1994-01-17T21:07:37.260Z,34.279,-118.51,11.322,2.69,ml,0,90.8,,0.226,ci,ci3140972,2016-02-12T12:06:31.768Z,"1km NW of Granada Hills, California",earthquake,,3.008,,21,reviewed,ci,ci
+1994-01-17T21:07:00.590Z,34.357,-118.446,5.923,2.7,mh,0,67,,0.223,ci,ci3161319,2016-02-12T04:46:36.375Z,"8km N of Pacoima, California",earthquake,,1.69,,0,reviewed,ci,ci
+1994-01-17T21:03:22.180Z,34.283,-118.522,17.064,2.71,ml,0,86.5,,0.427,ci,ci3161311,2016-02-12T22:27:24.302Z,"2km NW of Granada Hills, California",earthquake,,2.949,,12,reviewed,ci,ci
+1994-01-17T21:03:12.050Z,34.329,-118.642,9.312,2.67,mc,0,86.3,,0.323,ci,ci3161314,2016-02-13T05:59:44.047Z,"9km NNW of Chatsworth, California",earthquake,,12.525,,64,reviewed,ci,ci
+1994-01-17T21:02:23.340Z,34.283,-118.452,8.129,3.07,ml,0,61.7,,0.251,ci,ci3140971,2016-02-12T04:46:35.010Z,"1km W of San Fernando, California",earthquake,,5.371,,24,reviewed,ci,ci
+1994-01-17T20:57:42.310Z,34.513,-118.546,1.395,2.81,ml,0,129.1,,0.231,ci,ci3140968,2016-02-12T04:46:33.268Z,"7km NNE of Valencia, California",earthquake,,0.594,,4,reviewed,ci,ci
+1994-01-17T20:50:23.420Z,34.346,-118.492,5.811,3.68,ml,0,61.2,,0.3,ci,ci3141226,2016-02-13T08:35:08.179Z,"8km S of Santa Clarita, California",earthquake,,,,23,reviewed,ci,ci
+1994-01-17T20:46:02.400Z,34.302,-118.565,5.811,4.85,ml,0,43.5,,0.333,ci,ci3141219,2016-02-11T23:46:30.598Z,"6km NE of Chatsworth, California",earthquake,,,,37,reviewed,ci,ci
+1994-01-17T20:44:46.980Z,34.329,-118.435,1.021,3.08,ml,0,97.1,,0.212,ci,ci3140964,2016-02-12T12:06:29.260Z,"5km N of Pacoima, California",earthquake,,0.431,,12,reviewed,ci,ci
+1994-01-17T20:39:38.690Z,34.291,-118.482,2.681,3.72,ml,0,53,,0.327,ci,ci3141216,2016-02-13T00:59:39.351Z,"3km NE of Granada Hills, California",earthquake,,0.791,,47,reviewed,ci,ci
+1994-01-17T20:39:12.830Z,34.293,-118.594,5.817,3.15,ml,0,104.8,,0.28,ci,ci3162658,2016-02-12T07:09:33.412Z,"4km NNE of Chatsworth, California",earthquake,,,,12,reviewed,ci,ci
+1994-01-17T20:38:24.340Z,34.31,-118.458,2.281,3.6,ml,0,100.7,,0.201,ci,ci3141214,2016-02-11T23:46:28.587Z,"4km NNW of Pacoima, California",earthquake,,0.477,,21,reviewed,ci,ci
+1994-01-17T20:31:59.160Z,34.323,-118.44,1.291,3.01,mc,0,162.2,,0.189,ci,ci3140945,2016-02-13T05:59:42.740Z,"4km N of Pacoima, California",earthquake,,4.021,,6,reviewed,ci,ci
+1994-01-17T20:24:38.240Z,34.342,-118.428,5.811,3.06,ml,0,99.3,,0.233,ci,ci3140943,2016-02-12T07:09:32.115Z,"7km N of Pacoima, California",earthquake,,,,29,reviewed,ci,ci
+1994-01-17T20:23:43.480Z,34.311,-118.465,-0.179,2.94,ml,0,141.3,,0.195,ci,ci3140942,2016-02-13T05:59:41.466Z,"4km NW of Pacoima, California",earthquake,,0.531,,6,reviewed,ci,ci
+1994-01-17T20:19:03.390Z,34.281,-118.599,5.636,2.63,mc,0,66.2,,0.328,ci,ci2156698,2016-02-11T18:26:52.110Z,"3km N of Chatsworth, California",earthquake,,,,4,reviewed,ci,ci
+1994-01-17T20:17:50.020Z,34.294,-118.428,1.871,3.56,ml,0,67.3,,0.269,ci,ci2156602,2016-02-12T07:09:30.748Z,"2km NE of Pacoima, California",earthquake,,1.395,,48,reviewed,ci,ci
+1994-01-17T20:17:38.760Z,34.332,-118.515,5.579,3.2,mh,0,56.6,,0.284,ci,ci3140939,2016-02-12T12:06:27.818Z,"7km N of Granada Hills, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T20:13:09.360Z,34.317,-118.453,-0.069,2.92,ml,0,99.6,,0.215,ci,ci3158845,2016-02-13T03:32:52.488Z,"4km NNW of Pacoima, California",earthquake,,0.762,,15,reviewed,ci,ci
+1994-01-17T20:11:49.350Z,34.318,-118.499,2.001,3.74,ml,0,59.8,,0.309,ci,ci3140938,2016-02-13T08:35:06.583Z,"5km N of Granada Hills, California",earthquake,,1.619,,49,reviewed,ci,ci
+1994-01-17T20:08:08.980Z,34.261,-118.458,22.681,3.2,ml,0,76.8,,0.295,ci,ci3161138,2016-02-12T14:47:50.789Z,"3km SW of San Fernando, California",earthquake,,3.012,,20,reviewed,ci,ci
+1994-01-17T20:08:00.930Z,34.31,-118.455,2.241,2.9,mh,0,96.2,,0.199,ci,ci3140935,2016-02-12T12:06:26.459Z,"3km NNW of Pacoima, California",earthquake,,1.074,,0,reviewed,ci,ci
+1994-01-17T20:05:27.790Z,34.328,-118.518,5.811,3.79,ml,0,57,,0.282,ci,ci3140929,2016-02-13T00:59:37.867Z,"6km NNW of Granada Hills, California",earthquake,,,,51,reviewed,ci,ci
+1994-01-17T20:02:05.890Z,34.409,-118.559,5.426,3.92,ml,0,87,,0.265,ci,ci3140926,2016-02-11T18:26:50.852Z,"5km W of Santa Clarita, California",earthquake,,,,50,reviewed,ci,ci
+1994-01-17T19:58:48.800Z,34.37,-118.633,5.468,3.61,ml,0,68.4,,0.284,ci,ci3140915,2016-02-12T22:27:21.263Z,"11km SSW of Valencia, California",earthquake,,,,42,reviewed,ci,ci
+1994-01-17T19:57:10.240Z,34.325,-118.432,1.177,3.14,ml,0,106.9,,0.22,ci,ci3161123,2016-02-11T23:46:26.486Z,"5km N of Pacoima, California",earthquake,,1.068,,15,reviewed,ci,ci
+1994-01-17T19:56:41.470Z,34.329,-118.538,5.859,3.45,ml,0,51.3,,0.282,ci,ci3140912,2016-02-12T12:06:25.125Z,"7km NNW of Granada Hills, California",earthquake,,,,40,reviewed,ci,ci
+1994-01-17T19:54:38.160Z,34.305,-118.454,0.109,2.92,ml,0,173.2,,0.117,ci,ci3140910,2016-02-12T04:46:30.659Z,"3km NNW of Pacoima, California",earthquake,,1.059,,8,reviewed,ci,ci
+1994-01-17T19:50:48.010Z,34.373,-118.629,6.046,2.97,ml,0,67.8,,0.278,ci,ci3140904,2016-02-11T18:26:49.303Z,"10km SSW of Valencia, California",earthquake,,7.129,,24,reviewed,ci,ci
+1994-01-17T19:47:43.730Z,34.337,-118.591,5.474,3.12,ml,0,64.7,,0.346,ci,ci3185796,2016-02-12T17:22:33.480Z,"9km N of Chatsworth, California",earthquake,,,,17,reviewed,ci,ci
+1994-01-17T19:46:21.880Z,34.375,-118.638,5.468,3.46,ml,0,68.8,,0.302,ci,ci3141210,2016-02-12T22:27:19.750Z,"11km SW of Valencia, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-17T19:43:53.380Z,34.368,-118.637,13.341,4.05,ml,0,69,,0.279,ci,ci3141205,2016-02-12T14:47:49.528Z,"11km SSW of Valencia, California",earthquake,,0.328,,51,reviewed,ci,ci
+1994-01-17T19:35:34.300Z,34.311,-118.456,2.14,3.97,ml,0,89.3,,0.29,ci,ci3140898,2016-02-12T07:09:29.284Z,"4km NNW of Pacoima, California",earthquake,,0.676,,50,reviewed,ci,ci
+1994-01-17T19:28:07.400Z,34.314,-118.639,5.621,2.59,ml,0,84.9,,0.274,ci,ci3161094,2016-02-12T22:27:18.299Z,"7km NNW of Chatsworth, California",earthquake,,,,32,reviewed,ci,ci
+1994-01-17T19:25:59.670Z,34.302,-118.505,1.979,2.76,ml,0,92.5,,0.327,ci,ci3140893,2016-02-13T08:35:03.656Z,"3km N of Granada Hills, California",earthquake,,0.626,,44,reviewed,ci,ci
+1994-01-17T19:23:53.720Z,34.286,-118.58,5.859,3.58,ml,0,63.7,,0.378,ci,ci3141202,2016-02-12T17:22:31.754Z,"4km NNE of Chatsworth, California",earthquake,,,,30,reviewed,ci,ci
+1994-01-17T19:22:10.130Z,34.3,-118.473,10,3.4,ml,,,,0.8,us,usp00066pm,2014-11-07T00:54:47.670Z,"3 km WNW of San Fernando, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T19:21:11.070Z,34.349,-118.446,5.205,3.16,ml,0,86,,0.258,ci,ci3141198,2016-02-11T21:12:28.376Z,"7km N of Pacoima, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-17T19:14:20.280Z,34.333,-118.634,5.621,2.74,mc,0,59.5,,0.326,ci,ci3140888,2016-02-12T22:27:16.967Z,"9km NNW of Chatsworth, California",earthquake,,,,81,reviewed,ci,ci
+1994-01-17T19:12:28.480Z,34.264,-118.486,13.429,2.7,ml,0,52.7,,0.277,ci,ci3140886,2016-02-11T18:26:47.923Z,"2km ESE of Granada Hills, California",earthquake,,0.636,,21,reviewed,ci,ci
+1994-01-17T19:09:05.990Z,34.277,-118.454,2.746,2.59,mc,0,61.9,,0.267,ci,ci3161020,2016-02-12T04:46:27.958Z,"2km WSW of San Fernando, California",earthquake,,1.011,,87,reviewed,ci,ci
+1994-01-17T19:07:28.800Z,34.336,-118.615,5.859,3.34,ml,0,67.5,,0.307,ci,ci3140885,2016-02-13T08:35:02.176Z,"9km N of Chatsworth, California",earthquake,,,,48,reviewed,ci,ci
+1994-01-17T19:04:43.310Z,34.295,-118.584,5.859,2.89,ml,0,78.6,,0.394,ci,ci3183007,2016-02-13T08:35:00.592Z,"5km NNE of Chatsworth, California",earthquake,,,,37,reviewed,ci,ci
+1994-01-17T19:03:55.220Z,34.304,-118.505,2.679,2.59,ml,0,55.5,,0.338,ci,ci3140881,2016-02-13T08:34:59.226Z,"4km N of Granada Hills, California",earthquake,,1.107,,11,reviewed,ci,ci
+1994-01-17T18:51:08.230Z,34.337,-118.426,-0.4,3.51,ml,0,85.7,,0.248,ci,ci3140876,2016-02-13T05:59:40.026Z,"6km N of Pacoima, California",earthquake,,0.949,,45,reviewed,ci,ci
+1994-01-17T18:39:58.560Z,34.33,-118.464,5.789,3.08,ml,0,103.9,,0.258,ci,ci3140869,2016-02-12T12:06:23.676Z,"6km NNW of Pacoima, California",earthquake,,,,44,reviewed,ci,ci
+1994-01-17T18:32:08.470Z,34.285,-118.505,2.809,3.78,ml,0,55.1,,0.269,ci,ci3140868,2016-02-12T07:09:27.709Z,"2km NNW of Granada Hills, California",earthquake,,0.74,,47,reviewed,ci,ci
+1994-01-17T18:31:40.570Z,34.306,-118.486,10,2.8,ml,,,,1.4,us,usp00066pd,2014-11-07T00:54:47.642Z,"5 km WNW of San Fernando, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T18:22:55.080Z,34.369,-118.636,11.295,3.18,ml,0,68.8,,0.27,ci,ci3140863,2016-02-12T12:06:22.339Z,"11km SSW of Valencia, California",earthquake,,0.713,,50,reviewed,ci,ci
+1994-01-17T18:20:23.690Z,34.279,-118.466,11.279,3.5,ml,0,35.7,,0.282,ci,ci3140861,2016-02-12T19:58:01.602Z,"2km W of San Fernando, California",earthquake,,0.624,,43,reviewed,ci,ci
+1994-01-17T18:01:48.190Z,34.363,-118.601,10,2.9,ml,,,,1.3,us,usp00066p9,2014-11-07T00:54:47.634Z,"3 km SW of Stevenson Ranch, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T17:56:08.210Z,34.228,-118.572,19.099,4.63,ml,0,42,,0.327,ci,ci3140853,2016-02-13T05:59:38.548Z,"4km WSW of Northridge, California",earthquake,,0.589,,43,reviewed,ci,ci
+1994-01-17T17:47:27.130Z,34.377,-118.586,-0.311,2.65,mc,0,143.2,,0.223,ci,ci3140845,2016-02-12T19:58:00.041Z,"8km WSW of Santa Clarita, California",earthquake,,0.7,,21,reviewed,ci,ci
+1994-01-17T17:44:33.120Z,34.329,-118.421,-0.194,2.5,mh,0,62.7,,0.195,ci,ci3160956,2016-02-12T22:27:14.372Z,"5km NNE of Pacoima, California",earthquake,,0.747,,0,reviewed,ci,ci
+1994-01-17T17:44:07.810Z,34.288,-118.543,2.579,2.82,ml,0,82.5,,0.284,ci,ci3160955,2016-02-11T23:46:23.173Z,"4km WNW of Granada Hills, California",earthquake,,0.927,,33,reviewed,ci,ci
+1994-01-17T17:43:34.600Z,34.295,-118.524,2.509,2.79,ml,0,100.3,,0.248,ci,ci3160954,2016-02-13T08:34:56.546Z,"3km NW of Granada Hills, California",earthquake,,1.161,,16,reviewed,ci,ci
+1994-01-17T17:42:08.230Z,34.427,-118.548,0.207,2.82,ml,0,111.9,,0.259,ci,ci3140841,2016-02-12T07:09:25.014Z,"4km SE of Valencia, California",earthquake,,1.132,,25,reviewed,ci,ci
+1994-01-17T17:38:55.770Z,34.266,-118.469,2.939,2.77,ml,0,138.2,,0.286,ci,ci3140840,2016-02-12T17:22:25.139Z,"3km ESE of Granada Hills, California",earthquake,,0.64,,29,reviewed,ci,ci
+1994-01-17T17:35:29.130Z,34.387,-118.625,-0.826,2.9,mc,0,117,,0.241,ci,ci3140839,2016-02-12T14:47:45.737Z,"9km SSW of Valencia, California",earthquake,,2.417,,23,reviewed,ci,ci
+1994-01-17T17:30:00.100Z,34.344,-118.449,5.663,2.97,ml,0,111,,0.306,ci,ci3140829,2016-02-12T09:36:06.648Z,"7km N of Pacoima, California",earthquake,,,,14,reviewed,ci,ci
+1994-01-17T17:27:53.100Z,34.274,-118.465,2.39,2.8,ml,0,148.1,,0.201,ci,ci3140826,2016-02-12T02:18:19.607Z,"2km WSW of San Fernando, California",earthquake,,0.953,,37,reviewed,ci,ci
+1994-01-17T17:25:26.680Z,34.271,-118.476,3.199,2.83,ml,0,56.7,,0.289,ci,ci3140825,2016-02-12T17:22:23.775Z,"2km E of Granada Hills, California",earthquake,,0.592,,38,reviewed,ci,ci
+1994-01-17T17:24:17.640Z,34.374,-118.626,5.468,2.88,ml,0,113.3,,0.293,ci,ci3140824,2016-02-13T00:59:32.736Z,"10km SSW of Valencia, California",earthquake,,,,14,reviewed,ci,ci
+1994-01-17T17:21:54.530Z,34.318,-118.418,0.26,3.43,ml,0,96.9,,0.225,ci,ci3140822,2016-02-11T21:12:23.978Z,"4km NNE of Pacoima, California",earthquake,,0.431,,48,reviewed,ci,ci
+1994-01-17T17:18:08.890Z,34.365,-118.632,5.669,2.88,ml,0,76.6,0.2972,0.315,ci,ci3140821,2016-02-13T00:59:31.293Z,"11km SSW of Valencia, California",earthquake,,,,18,reviewed,ci,ci
+1994-01-17T17:15:10.720Z,34.321,-118.564,10,2.9,ml,,,,0.1,us,usp00066ny,2014-11-07T00:54:47.613Z,"7 km S of Stevenson Ranch, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T17:10:19.570Z,34.327,-118.548,5.205,2.71,mc,0,242.2,0.2715,0.199,ci,ci3160866,2016-02-12T09:36:02.960Z,"8km NW of Granada Hills, California",earthquake,,,,30,reviewed,ci,ci
+1994-01-17T17:09:57.070Z,34.318,-118.436,-0.183,2.7,ml,0,175.6,,0.258,ci,ci3160864,2016-02-12T02:18:18.157Z,"4km N of Pacoima, California",earthquake,,1.539,,5,reviewed,ci,ci
+1994-01-17T17:09:25.880Z,34.33,-118.438,-0.19,3.05,ml,0,97.2,,0.29,ci,ci3140819,2016-02-13T03:32:51.195Z,"5km N of Pacoima, California",earthquake,,1.093,,44,reviewed,ci,ci
+1994-01-17T17:04:13.400Z,34.335,-118.433,-0.2,2.95,ml,0,100.8,,0.199,ci,ci3140815,2016-02-12T12:06:20.108Z,"6km N of Pacoima, California",earthquake,,0.542,,20,reviewed,ci,ci
+1994-01-17T16:57:44.480Z,34.3,-118.6,10,2.8,ml,,,,0.2,us,usp00066nv,2014-11-07T00:54:47.608Z,"4 km N of Chatsworth, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T16:50:11.840Z,34.365,-118.62,5.277,2.59,mc,0,109.4,0.3406,0.287,ci,ci3182988,2016-02-11T21:12:21.797Z,"11km SSW of Valencia, California",earthquake,,,,12,reviewed,ci,ci
+1994-01-17T16:49:15.640Z,34.324,-118.433,-0.04,3.25,ml,0,87,,0.244,ci,ci3140809,2016-02-12T09:36:01.445Z,"5km N of Pacoima, California",earthquake,,0.297,,46,reviewed,ci,ci
+1994-01-17T16:45:45.010Z,34.275,-118.471,3.109,3.09,ml,0,63.7,,0.3,ci,ci3140807,2016-02-12T22:27:12.660Z,"3km E of Granada Hills, California",earthquake,,0.555,,38,reviewed,ci,ci
+1994-01-17T16:44:15.780Z,34.324,-118.454,5.807,3.19,ml,0,99,,0.255,ci,ci3140805,2016-02-12T12:06:18.132Z,"5km NNW of Pacoima, California",earthquake,,,,9,reviewed,ci,ci
+1994-01-17T16:43:00.230Z,34.327,-118.46,2.706,2.85,ml,0,161.1,,0.254,ci,ci3140804,2016-02-13T08:34:52.195Z,"5km NNW of Pacoima, California",earthquake,,0.9,,8,reviewed,ci,ci
+1994-01-17T16:42:00.920Z,34.3,-118.522,1.296,2.9,ml,0,121.7,,0.414,ci,ci3140799,2016-02-12T17:22:22.365Z,"4km NNW of Granada Hills, California",earthquake,,1.214,,33,reviewed,ci,ci
+1994-01-17T16:31:34.990Z,34.429,-118.584,5.044,2.91,ml,0,69.2,0.2798,0.255,ci,ci3140792,2016-02-12T02:18:16.891Z,"3km SSW of Valencia, California",earthquake,,,,19,reviewed,ci,ci
+1994-01-17T16:27:07.480Z,34.36,-118.629,5.669,3.3,ml,0,57.4,,0.291,ci,ci2156095,2016-02-12T14:47:44.595Z,"12km NNW of Chatsworth, California",earthquake,,,,23,reviewed,ci,ci
+1994-01-17T16:26:03.390Z,34.288,-118.483,2.296,3.23,ml,0,53.1,,0.273,ci,ci3140790,2016-02-13T05:59:36.949Z,"2km NE of Granada Hills, California",earthquake,,0.462,,46,reviewed,ci,ci
+1994-01-17T16:22:47.180Z,34.329,-118.433,0.75,3.38,ml,0,86.7,,0.234,ci,ci3140787,2016-02-12T12:06:16.617Z,"5km N of Pacoima, California",earthquake,,0.5,,52,reviewed,ci,ci
+1994-01-17T16:22:40.030Z,34.402,-118.639,9.796,2.5,mh,0,109.7,,0.27,ci,ci3160807,2016-02-12T04:46:23.948Z,"8km SW of Valencia, California",earthquake,,1.409,,0,reviewed,ci,ci
+1994-01-17T16:21:05.430Z,34.398,-118.6,12.255,2.79,ml,0,123.1,,0.199,ci,ci3140781,2016-02-12T09:35:58.339Z,"7km SSW of Valencia, California",earthquake,,8.012,,4,reviewed,ci,ci
+1994-01-17T16:20:21.690Z,34.307,-118.478,0.979,2.55,ml,0,125.3,,0.223,ci,ci3160801,2016-02-12T02:18:15.505Z,"4km NNE of Granada Hills, California",earthquake,,1.336,,11,reviewed,ci,ci
+1994-01-17T16:19:24.480Z,34.345,-118.451,5.8,3.63,ml,0,86.6,,0.272,ci,ci3140777,2016-02-13T08:34:50.806Z,"7km N of Pacoima, California",earthquake,,,,51,reviewed,ci,ci
+1994-01-17T16:16:38.910Z,34.355,-118.505,5.406,2.94,mc,0,110.5,0.2705,0.451,ci,ci3182985,2016-02-11T21:12:19.263Z,"7km S of Santa Clarita, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T16:16:01.710Z,34.286,-118.482,2.849,3.81,ml,0,39.8,,0.332,ci,ci3140775,2016-02-11T18:26:45.193Z,"2km NE of Granada Hills, California",earthquake,,0.476,,43,reviewed,ci,ci
+1994-01-17T16:08:32.160Z,34.298,-118.531,10,3.1,ml,,,,0.4,us,usp00066ne,2014-11-07T00:54:47.577Z,"7 km N of Northridge, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T15:59:01.380Z,34.381,-118.521,5.406,2.63,mc,0,64.6,,0.407,ci,ci2177341,2016-02-12T17:22:20.992Z,"4km SSW of Santa Clarita, California",earthquake,,,,25,reviewed,ci,ci
+1994-01-17T15:57:26.540Z,34.298,-118.489,9.919,3.73,ml,0,38.9,,0.322,ci,ci2177255,2016-02-12T14:47:42.252Z,"3km NNE of Granada Hills, California",earthquake,,0.99,,26,reviewed,ci,ci
+1994-01-17T15:54:10.760Z,34.376,-118.627,12.451,4.85,ml,0,35.6,,0.351,ci,ci3140766,2016-02-13T08:34:48.620Z,"10km SSW of Valencia, California",earthquake,,0.426,,41,reviewed,ci,ci
+1994-01-17T15:50:45.340Z,34.344,-118.597,5.622,3.24,ml,0,120.1,,0.252,ci,ci3140762,2016-02-12T17:22:19.635Z,"10km N of Chatsworth, California",earthquake,,,,4,reviewed,ci,ci
+1994-01-17T15:49:53.330Z,34.359,-118.475,5.526,3.13,ml,0,105.1,,0.266,ci,ci3140760,2016-02-12T19:57:57.592Z,"7km SSE of Santa Clarita, California",earthquake,,,,4,reviewed,ci,ci
+1994-01-17T15:45:58.080Z,34.422,-118.62,5.122,3.85,ml,0,64.7,,0.322,ci,ci2138827,2016-02-12T02:18:13.644Z,"6km SW of Valencia, California",earthquake,,,,21,reviewed,ci,ci
+1994-01-17T15:45:11.750Z,34.369,-118.619,5.663,3.84,ml,0,75,,0.302,ci,ci2138815,2016-02-13T03:32:47.271Z,"10km SSW of Valencia, California",earthquake,,,,8,reviewed,ci,ci
+1994-01-17T15:44:38.740Z,34.287,-118.468,2.479,3.21,ml,0,63.4,,0.283,ci,ci3140753,2016-02-12T02:18:12.314Z,"3km WNW of San Fernando, California",earthquake,,1.138,,14,reviewed,ci,ci
+1994-01-17T15:43:04.730Z,34.183,-118.507,18.156,3.04,ml,0,65.3,,0.297,ci,ci2138793,2016-02-11T21:12:17.950Z,"3km NNW of Encino, California",earthquake,,1.574,,17,reviewed,ci,ci
+1994-01-17T15:42:12.420Z,34.313,-118.42,1.93,3.89,ml,0,62.8,,0.245,ci,ci3140749,2016-02-12T07:09:21.562Z,"4km NNE of Pacoima, California",earthquake,,0.488,,28,reviewed,ci,ci
+1994-01-17T15:29:22.030Z,34.245,-118.543,12.709,2.93,ml,0,134.8,,0.246,ci,ci3140748,2016-02-13T03:32:45.978Z,"1km NW of Northridge, California",earthquake,,3.134,,5,reviewed,ci,ci
+1994-01-17T15:24:05.180Z,34.37,-118.615,-0.439,3.47,ml,0,66.5,,0.314,ci,ci3140745,2016-02-13T05:59:34.175Z,"10km SSW of Valencia, California",earthquake,,0.429,,32,reviewed,ci,ci
+1994-01-17T15:20:50.860Z,34.37,-118.614,5.663,3.38,ml,0,66.3,,0.322,ci,ci3140742,2016-02-12T07:09:19.992Z,"10km SSW of Valencia, California",earthquake,,,,55,reviewed,ci,ci
+1994-01-17T15:16:04.690Z,34.314,-118.387,-0.19,3.2,ml,0,84.6,,0.237,ci,ci2138764,2016-02-13T03:32:44.568Z,"5km NNW of Lake View Terrace, California",earthquake,,0.377,,21,reviewed,ci,ci
+1994-01-17T15:15:20.880Z,34.292,-118.561,5.859,3.26,ml,0,82.9,,0.337,ci,ci2180516,2016-02-12T19:57:55.699Z,"6km NE of Chatsworth, California",earthquake,,,,18,reviewed,ci,ci
+1994-01-17T15:14:27.100Z,34.351,-118.46,5.796,3.87,ml,0,69.2,,0.255,ci,ci3140736,2016-02-12T14:47:40.942Z,"8km NNW of Pacoima, California",earthquake,,,,51,reviewed,ci,ci
+1994-01-17T15:12:05.780Z,34.318,-118.45,0.72,2.89,mc,0,99.2,,0.227,ci,ci2138739,2016-02-12T04:46:22.001Z,"4km NNW of Pacoima, California",earthquake,,0.477,,43,reviewed,ci,ci
+1994-01-17T15:10:11.620Z,34.312,-118.463,1.409,3.94,ml,0,64.9,,0.227,ci,ci2138723,2016-02-11T18:26:43.630Z,"4km NW of Pacoima, California",earthquake,,0.665,,24,reviewed,ci,ci
+1994-01-17T15:09:41.240Z,34.291,-118.437,2.009,3.08,ml,0,94.7,,0.257,ci,ci2138715,2016-02-12T14:47:39.645Z,"1km N of Pacoima, California",earthquake,,0.805,,10,reviewed,ci,ci
+1994-01-17T15:07:35.460Z,34.307,-118.467,1.509,4.14,ml,0,41.2,,0.315,ci,ci2138698,2016-02-12T09:35:57.119Z,"4km NW of Pacoima, California",earthquake,,0.575,,17,reviewed,ci,ci
+1994-01-17T15:07:03.170Z,34.304,-118.474,2.439,4.2,ml,0,38,,0.335,ci,ci3140728,2016-02-13T05:59:32.554Z,"4km NW of Pacoima, California",earthquake,,0.509,,33,reviewed,ci,ci
+1994-01-17T15:03:49.030Z,34.3,-118.548,5.859,3.16,ml,0,96,,0.333,ci,ci3140902,2016-02-13T05:59:30.835Z,"5km NW of Granada Hills, California",earthquake,,,,28,reviewed,ci,ci
+1994-01-17T15:03:39.890Z,34.333,-118.431,-0.19,2.9,mh,0,92.4,,0.285,ci,ci3140727,2016-02-12T17:22:18.385Z,"6km N of Pacoima, California",earthquake,,0.482,,0,reviewed,ci,ci
+1994-01-17T15:00:28.130Z,34.347,-118.503,5.621,2.98,ml,0,135.6,,0.241,ci,ci3140724,2016-02-11T23:46:21.660Z,"8km S of Santa Clarita, California",earthquake,,,,32,reviewed,ci,ci
+1994-01-17T14:58:11.180Z,34.347,-118.524,10,3.1,ml,,,,1.2,us,usp00066mp,2014-11-07T00:54:47.511Z,"5 km SSE of Santa Clarita, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T14:50:38.290Z,34.309,-118.474,2.329,3.82,ml,0,99.5,,0.254,ci,ci3140719,2016-02-13T03:32:43.083Z,"4km NW of Pacoima, California",earthquake,,2.191,,21,reviewed,ci,ci
+1994-01-17T14:50:24.770Z,34.286,-118.498,1.21,3.1,mh,0,99,,0.27,ci,ci3158783,2016-02-12T14:47:38.238Z,"2km NNE of Granada Hills, California",earthquake,,1.12,,0,reviewed,ci,ci
+1994-01-17T14:48:28.290Z,34.294,-118.543,2.265,2.61,mc,0,80.5,,0.263,ci,ci2138682,2016-02-12T17:22:17.068Z,"4km WNW of Granada Hills, California",earthquake,,1.623,,21,reviewed,ci,ci
+1994-01-17T14:45:54.860Z,34.293,-118.646,5.868,3.1,ml,0,72.7,,0.325,ci,ci3140716,2016-02-13T00:59:28.710Z,"6km NW of Chatsworth, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-17T14:37:29.040Z,34.259,-118.51,15.756,2.95,ml,0,128.1,,0.302,ci,ci3140713,2016-02-12T17:22:15.353Z,"2km SSW of Granada Hills, California",earthquake,,0.609,,4,reviewed,ci,ci
+1994-01-17T14:33:42.100Z,34.308,-118.478,1.919,3.34,ml,0,96.6,,0.256,ci,ci3140709,2016-02-12T02:18:10.866Z,"5km NW of Pacoima, California",earthquake,,0.911,,21,reviewed,ci,ci
+1994-01-17T14:32:40.300Z,34.303,-118.485,10,3,ml,,,,0.6,us,usp00066mf,2014-11-07T00:54:47.473Z,"4 km WNW of San Fernando, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T14:31:03.050Z,34.348,-118.573,5.681,2.96,ml,0,118.1,,0.298,ci,ci3140707,2016-02-11T18:26:42.106Z,"10km SW of Santa Clarita, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T14:29:39.890Z,34.33,-118.414,0.387,2.79,ml,0,95.4,,0.202,ci,ci3140928,2016-02-11T23:46:20.112Z,"6km NNE of Pacoima, California",earthquake,,0.818,,11,reviewed,ci,ci
+1994-01-17T14:28:03.780Z,34.193,-118.529,16.729,3.92,ml,0,53.8,,0.309,ci,ci3140892,2016-02-12T19:57:54.253Z,"1km SSE of Reseda, California",earthquake,,1.395,,19,reviewed,ci,ci
+1994-01-17T14:26:52.190Z,34.38,-118.467,5.219,3.83,ml,0,80.9,,0.334,ci,ci3140704,2016-02-12T22:26:55.890Z,"5km SE of Santa Clarita, California",earthquake,,,,15,reviewed,ci,ci
+1994-01-17T14:24:21.090Z,34.341,-118.49,5.498,2.64,mc,0,134,,0.425,ci,ci3140702,2016-02-12T09:35:54.653Z,"8km N of Granada Hills, California",earthquake,,,,16,reviewed,ci,ci
+1994-01-17T14:23:28.310Z,34.327,-118.432,0.432,2.5,ml,0,123.9,,0.169,ci,ci3140883,2016-02-13T03:32:41.561Z,"5km N of Pacoima, California",earthquake,,0.894,,10,reviewed,ci,ci
+1994-01-17T14:22:50.020Z,34.32,-118.424,0.012,2.95,ml,0,90.4,,0.201,ci,ci3141082,2016-02-12T07:09:18.593Z,"4km NNE of Pacoima, California",earthquake,,0.544,,19,reviewed,ci,ci
+1994-01-17T14:22:24.070Z,34.313,-118.465,1.592,2.59,mc,0,123.6,,0.202,ci,ci3140882,2016-02-12T19:57:52.807Z,"4km NW of Pacoima, California",earthquake,,1.702,,56,reviewed,ci,ci
+1994-01-17T14:21:21.790Z,34.325,-118.469,5.46,2.67,mc,0,139.3,,0.253,ci,ci3141041,2016-02-12T07:09:17.169Z,"5km NNW of Pacoima, California",earthquake,,,,39,reviewed,ci,ci
+1994-01-17T14:20:55.100Z,34.327,-118.479,5.417,2.7,ml,0,152.6,0.2353,0.378,ci,ci3141050,2016-02-12T12:06:13.299Z,"6km NW of Pacoima, California",earthquake,,,,12,reviewed,ci,ci
+1994-01-17T14:17:33.310Z,34.303,-118.517,5.868,2.59,mc,0,143.5,,0.271,ci,ci3140877,2016-02-11T23:46:18.656Z,"4km NNW of Granada Hills, California",earthquake,,,,40,reviewed,ci,ci
+1994-01-17T14:16:49.180Z,34.326,-118.438,5.475,2.78,ml,0,127.7,0.2493,0.224,ci,ci3140874,2016-02-12T07:09:15.865Z,"5km N of Pacoima, California",earthquake,,,,19,reviewed,ci,ci
+1994-01-17T14:14:30.630Z,34.331,-118.445,5.864,4.45,ml,0,103.2,,0.267,ci,ci3140870,2016-02-12T22:26:53.765Z,"5km N of Pacoima, California",earthquake,,,,45,reviewed,ci,ci
+1994-01-17T14:08:07.940Z,34.326,-118.414,5.625,3.77,ml,0,52.9,,0.274,ci,ci3140862,2021-03-10T00:00:07.090Z,"5km NNE of Pacoima, California",earthquake,,,,53,reviewed,ci,ci
+1994-01-17T14:07:53.450Z,34.288,-118.555,4.987,2.5,mh,0,150.5,,0.287,ci,ci3158635,2021-02-18T19:18:09.019Z,"5km WNW of Granada Hills, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T14:06:56.160Z,34.314,-118.532,6.382,3.53,ml,0,108.2,,0.287,ci,ci3140697,2016-02-11T18:26:40.809Z,"6km NNW of Granada Hills, California",earthquake,,3.011,,27,reviewed,ci,ci
+1994-01-17T14:05:18.910Z,34.355,-118.469,5.156,2.71,mc,0,128.9,0.3065,0.269,ci,ci3158618,2016-02-13T00:59:27.349Z,"8km SSE of Santa Clarita, California",earthquake,,,,17,reviewed,ci,ci
+1994-01-17T14:04:25.720Z,34.26,-118.499,10.653,3.3,mc,0,143.8,0.1578,0.31,ci,ci3158617,2016-02-12T12:06:10.756Z,"1km S of Granada Hills, California",earthquake,,3.524,,3,reviewed,ci,ci
+1994-01-17T14:03:59.770Z,34.364,-118.631,5.727,3.66,ml,0,92.6,,0.333,ci,ci3140695,2016-02-12T02:18:09.322Z,"12km SSW of Valencia, California",earthquake,,,,49,reviewed,ci,ci
+1994-01-17T14:00:42.860Z,34.253,-118.622,5.049,3.26,ml,0,263.5,0.202,0.291,ci,ci3140694,2016-02-11T23:46:17.336Z,"2km WSW of Chatsworth, California",earthquake,,,,4,reviewed,ci,ci
+1994-01-17T13:58:26.650Z,34.356,-118.474,5.285,3.05,ml,0,129.5,,0.301,ci,ci2151895,2016-02-11T18:26:39.304Z,"7km SSE of Santa Clarita, California",earthquake,,,,13,reviewed,ci,ci
+1994-01-17T13:58:12.020Z,34.367,-118.643,-0.842,2.5,mh,0,83.2,,0.353,ci,ci3140827,2016-02-12T12:06:09.451Z,"12km SW of Valencia, California",earthquake,,1.988,,0,reviewed,ci,ci
+1994-01-17T13:56:02.480Z,34.293,-118.621,5.926,4.44,ml,0,44.9,,0.47,ci,ci3140691,2016-02-12T09:35:52.191Z,"4km NNW of Chatsworth, California",earthquake,,,,50,reviewed,ci,ci
+1994-01-17T13:46:49.310Z,34.318,-118.405,5.582,3.63,ml,0,87.3,,0.28,ci,ci3140771,2016-02-12T14:47:36.454Z,"5km NE of Pacoima, California",earthquake,,,,9,reviewed,ci,ci
+1994-01-17T13:45:13.460Z,34.393,-118.618,5.486,3.94,ml,0,109,0.3166,0.369,ci,ci3140765,2016-02-13T00:59:25.450Z,"8km SSW of Valencia, California",earthquake,,,,31,reviewed,ci,ci
+1994-01-17T13:44:33.960Z,34.345,-118.546,5.473,3.84,ml,0,59.6,,0.362,ci,ci3140689,2016-02-12T07:09:14.492Z,"9km SSW of Santa Clarita, California",earthquake,,,,21,reviewed,ci,ci
+1994-01-17T13:42:22.870Z,34.323,-118.691,10,3.5,ml,,,,1.1,us,usp00066ky,2014-11-07T00:54:47.430Z,"5 km NNE of Santa Susana, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T13:37:48.160Z,34.351,-118.606,5.683,3.86,ml,0,95.3,,0.292,ci,ci3140756,2016-02-12T07:09:13.087Z,"10km N of Chatsworth, California",earthquake,,,,5,reviewed,ci,ci
+1994-01-17T13:37:39.880Z,34.357,-118.545,9.355,2.9,mh,0,146.3,0.2612,0.245,ci,ci3140686,2016-02-12T22:26:50.679Z,"8km SSW of Santa Clarita, California",earthquake,,8.966,,0,reviewed,ci,ci
+1994-01-17T13:33:00.140Z,34.38,-118.632,5.086,3.35,ml,0,192.7,0.3421,0.287,ci,ci3140746,2016-02-13T00:59:24.119Z,"10km SW of Valencia, California",earthquake,,,,3,reviewed,ci,ci
+1994-01-17T13:32:20.720Z,34.313,-118.438,5.668,3.75,ml,0,151,,0.233,ci,ci3140685,2016-02-11T23:46:16.130Z,"3km N of Pacoima, California",earthquake,,,,35,reviewed,ci,ci
+1994-01-17T13:30:25.030Z,34.344,-118.428,5.285,2.9,mh,0,146.9,0.2987,0.261,ci,ci2148744,2016-02-12T19:57:51.551Z,"7km N of Pacoima, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T13:30:08.490Z,34.362,-118.514,5.285,3,mh,0,107.1,0.3187,0.361,ci,ci2148720,2016-02-12T04:46:19.297Z,"6km S of Santa Clarita, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T13:29:15.880Z,34.351,-118.454,5.475,3.92,ml,0,40.5,0.2772,0.44,ci,ci2148666,2016-02-12T14:47:34.491Z,"8km N of Pacoima, California",earthquake,,,,20,reviewed,ci,ci
+1994-01-17T13:28:13.570Z,34.267,-118.579,5.926,3.99,ml,0,63.4,0.1909,0.32,ci,ci2148104,2016-02-12T02:18:07.256Z,"2km ENE of Chatsworth, California",earthquake,,,,25,reviewed,ci,ci
+1994-01-17T13:28:10.160Z,34.354,-118.701,5.502,3,mh,0,77.5,0.3208,0.31,ci,ci2148111,2016-02-12T19:57:50.308Z,"10km NNE of Simi Valley, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T13:26:45.010Z,34.318,-118.456,5.864,4.68,ml,0,51.2,,0.336,ci,ci3140684,2016-02-11T23:46:14.721Z,"4km NNW of Pacoima, California",earthquake,,,,41,reviewed,ci,ci
+1994-01-17T13:26:36.920Z,34.284,-118.451,5.455,3,mh,0,61.6,0.1774,0.361,ci,ci2148088,2016-02-11T18:26:37.969Z,"1km WNW of San Fernando, California",earthquake,,,,0,reviewed,ci,ci
+1994-01-17T13:26:09.040Z,34.299,-118.458,5.139,2.73,ml,0,154.6,0.4124,0.353,ci,ci3158612,2016-02-13T08:34:44.031Z,"2km NW of Pacoima, California",earthquake,,,,3,reviewed,ci,ci
+1994-01-17T13:25:10.830Z,34.333,-118.51,5.711,3.61,ml,0,56.2,,0.298,ci,ci3140726,2016-02-12T04:46:17.931Z,"7km N of Granada Hills, California",earthquake,,,,18,reviewed,ci,ci
+1994-01-17T13:25:04.290Z,34.35,-118.47,-0.418,2.6,mh,0,143,0.2812,0.273,ci,ci3140683,2016-02-12T09:35:50.655Z,"8km NNW of Pacoima, California",earthquake,,93.695,,0,reviewed,ci,ci
+1994-01-17T13:23:43.180Z,34.332,-118.425,5.617,3.2,ml,0,99.7,,0.245,ci,ci3140789,2016-02-11T21:12:13.728Z,"6km NNE of Pacoima, California",earthquake,,,,17,reviewed,ci,ci
+1994-01-17T13:22:49.640Z,34.364,-118.618,5.727,3.94,ml,0,67,0.2908,0.352,ci,ci3140681,2016-02-11T21:12:12.377Z,"11km SSW of Valencia, California",earthquake,,,,31,reviewed,ci,ci
+1994-01-17T13:17:42.650Z,34.389,-118.546,5.906,3.66,ml,0,235,,0.419,ci,ci3140679,2016-02-12T07:09:11.747Z,"5km SW of Santa Clarita, California",earthquake,,,,10,reviewed,ci,ci
+1994-01-17T13:15:42.280Z,34.26,-118.494,10,3.7,ml,,,,1,us,usp00066kn,2014-11-07T00:54:47.408Z,"2 km NNW of North Hills, California",earthquake,,,,,reviewed,us,gs$
+1994-01-17T13:08:35.280Z,34.295,-118.457,5.88,3.62,ml,0,55.8,0.1883,0.256,ci,ci3140780,2016-02-12T04:46:16.562Z,"2km NW of Pacoima, California",earthquake,,,,16,reviewed,ci,ci
+1994-01-17T13:06:28.340Z,34.251,-118.55,5.926,4.62,ml,0,59.3,,0.382,ci,ci3140678,2016-02-11T21:12:10.904Z,"2km NW of Northridge, California",earthquake,,,,46,reviewed,ci,ci
+1994-01-17T13:02:22.930Z,34.272,-118.4563333,5.198,3.3,mh,6,141,0.3642,0.2,ci,ci2177253,2016-02-12T07:09:10.428Z,"2km SW of San Fernando, California",earthquake,1.78,31.61,,0,reviewed,ci,ci
+1994-01-17T13:01:32.000Z,34.378,-118.554,4.93,3.02,mc,0,143.7,0.3147,0.385,ci,ci3140715,2016-02-12T07:09:09.259Z,"6km SW of Santa Clarita, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T13:01:01.200Z,34.355,-118.622,5.526,3.64,ml,0,93.2,,0.283,ci,ci3140677,2016-02-12T22:26:48.291Z,"11km N of Chatsworth, California",earthquake,,,,8,reviewed,ci,ci
+1994-01-17T12:59:29.500Z,34.326,-118.484,5.459,3.78,ml,0,137.4,0.2643,0.219,ci,ci3140722,2016-02-13T05:59:28.111Z,"6km NNE of Granada Hills, California",earthquake,,,,19,reviewed,ci,ci
+1994-01-17T12:57:56.740Z,34.355,-118.425,5.791,3.74,ml,0,78,,0.408,ci,ci3140675,2016-02-13T08:34:42.053Z,"8km N of Pacoima, California",earthquake,,,,22,reviewed,ci,ci
+1994-01-17T12:55:46.830Z,34.277,-118.578,5.926,4.07,ml,0,44.5,0.1989,0.392,ci,ci3140674,2016-02-12T14:47:32.537Z,"3km NE of Chatsworth, California",earthquake,,,,22,reviewed,ci,ci
+1994-01-17T12:54:33.740Z,34.307,-118.459,5.864,3.99,ml,0,130.8,,0.283,ci,ci2150608,2016-02-13T05:59:26.646Z,"3km NW of Pacoima, California",earthquake,,,,48,reviewed,ci,ci
+1994-01-17T12:54:07.730Z,34.349,-118.637,5.269,3.65,ml,0,155.4,,0.216,ci,ci2150625,2016-02-12T07:09:07.997Z,"11km NNW of Chatsworth, California",earthquake,,,,14,reviewed,ci,ci
+1994-01-17T12:51:05.330Z,34.314,-118.483,5.88,3.79,ml,0,55.6,,0.315,ci,ci3141055,2016-02-12T19:57:48.889Z,"5km NNE of Granada Hills, California",earthquake,,,,18,reviewed,ci,ci
+1994-01-17T12:50:12.400Z,34.325,-118.46,5.285,3.22,ml,0,129.5,0.3029,0.266,ci,ci3158433,2016-02-12T04:46:15.118Z,"5km NNW of Pacoima, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T12:49:38.330Z,34.309,-118.447,5.88,3.76,ml,0,95,,0.282,ci,ci3140672,2016-02-11T21:12:09.344Z,"3km NNW of Pacoima, California",earthquake,,,,49,reviewed,ci,ci
+1994-01-17T12:47:20.310Z,34.326,-118.453,5.14,2.82,mc,0,128.1,,0.287,ci,ci3157625,2016-02-12T22:26:46.960Z,"5km NNW of Pacoima, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-17T12:46:28.460Z,34.279,-118.472,5.545,3.24,ml,0,107,0.173,0.239,ci,ci3157617,2018-07-09T17:31:23.298Z,"3km ENE of Granada Hills, California",earthquake,,,,5,reviewed,ci,ci
+1994-01-17T12:46:02.050Z,34.325,-118.451,5.475,3.61,ml,0,127.9,0.2628,0.289,ci,ci3144768,2016-02-13T03:32:38.961Z,"5km NNW of Pacoima, California",earthquake,,,,24,reviewed,ci,ci
+1994-01-17T12:45:57.200Z,34.296,-118.443,5.475,3.59,mc,0,95.1,0.2333,0.221,ci,ci3157609,2016-02-11T18:26:36.605Z,"2km NNW of Pacoima, California",earthquake,,,,80,reviewed,ci,ci
+1994-01-17T12:44:16.500Z,34.282,-118.473,5.344,3.61,ml,0,104,0.2607,0.347,ci,ci3159141,2016-02-12T09:35:49.005Z,"3km ENE of Granada Hills, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T12:43:35.720Z,34.353,-118.628,5.33,3.65,ml,0,68.5,0.3631,0.646,ci,ci3144757,2016-02-12T17:22:14.046Z,"11km NNW of Chatsworth, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T12:42:16.800Z,34.362,-118.46,5.333,3.76,ml,0,92.7,0.3098,0.394,ci,ci3144736,2016-02-11T23:46:10.317Z,"7km SE of Santa Clarita, California",earthquake,,,,9,reviewed,ci,ci
+1994-01-17T12:41:21.280Z,34.371,-118.441,5.285,3.34,mc,0,89.4,0.2823,0.334,ci,ci3144715,2016-02-12T22:26:41.838Z,"8km SE of Santa Clarita, California",earthquake,,,,8,reviewed,ci,ci
+1994-01-17T12:40:36.120Z,34.34,-118.614,5.395,5.2,ml,0,179.8,0.2682,0.373,ci,ci3144694,2016-02-11T18:26:34.251Z,"9km N of Chatsworth, California",earthquake,,,,21,reviewed,ci,ci
+1994-01-17T12:40:09.520Z,34.32,-118.507,5.495,4.82,ml,0,135.4,0.2177,0.292,ci,ci3144673,2016-02-11T21:12:07.853Z,"5km N of Granada Hills, California",earthquake,,,,18,reviewed,ci,ci
+1994-01-17T12:39:39.800Z,34.265,-118.54,5.88,4.89,ml,0,89.5,,0.362,ci,ci3144652,2016-02-12T14:47:30.877Z,"3km N of Northridge, California",earthquake,,,,23,reviewed,ci,ci
+1994-01-17T12:37:00.670Z,34.345,-118.449,5.169,3.84,ml,0,50.8,0.312,0.283,ci,ci3144631,2016-02-12T04:46:13.809Z,"7km N of Pacoima, California",earthquake,,,,20,reviewed,ci,ci
+1994-01-17T12:36:22.630Z,34.34,-118.494,5.344,3.75,ml,0,170.3,0.32,0.352,ci,ci3144620,2016-02-15T18:32:59.274Z,"8km N of Granada Hills, California",earthquake,,,,12,reviewed,ci,ci
+1994-01-17T12:34:18.420Z,34.308,-118.475,5.487,4.44,ml,0,244,0.2867,0.243,ci,ci3144599,2016-02-13T08:34:40.610Z,"4km NW of Pacoima, California",earthquake,,,,15,reviewed,ci,ci
+1994-01-17T12:33:50.830Z,34.377,-118.467,5.285,3.56,mc,0,147,0.2862,0.323,ci,ci2153163,2016-02-12T07:09:06.703Z,"6km SE of Santa Clarita, California",earthquake,,,,5,reviewed,ci,ci
+1994-01-17T12:32:54.530Z,34.351,-118.5,9.317,3.27,mc,0,160.8,0.3315,0.295,ci,ci3144587,2016-02-11T21:12:06.550Z,"7km S of Santa Clarita, California",earthquake,,,,6,reviewed,ci,ci
+1994-01-17T12:31:58.120Z,34.275,-118.493,5.317,5.89,ml,0,142.2,0.2557,0.494,ci,ci3149646,2020-07-09T21:21:19.090Z,"1km ENE of Granada Hills, California",earthquake,,,,4,reviewed,ci,ci
+1994-01-17T12:30:55.850Z,34.24,-118.541,20.322,3.55,md,0,93,,0.341,ci,ci3145042,2021-02-18T19:18:10.350Z,"1km NW of Northridge, California",earthquake,,2.151,,48,reviewed,ci,ci
+1994-01-17T12:30:55.390Z,34.213,-118.537,18.202,6.7,mw,0,29.7,,0.31,ci,ci3144585,2026-05-26T15:58:43.799Z,"Northridge, California, earthquake",earthquake,,0.403,,0,reviewed,ci,ci

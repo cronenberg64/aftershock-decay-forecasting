@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1995-02-18T12:37:32.360Z,34.444,134.757,10,4.7,mb,,,,1.2,us,usp0006t55,2014-11-07T00:57:20.761Z,"16 km NW of Sumoto, Japan",earthquake,,,,14,reviewed,us,us
+1995-01-17T21:50:17.520Z,34.639,135.072,10,4.7,mb,,,,0.4,us,usp0006rh4,2014-11-07T00:57:09.301Z,"6 km ESE of Akashi, Japan",earthquake,,,,8,reviewed,us,us
+1995-01-17T17:35:23.440Z,34.407,134.849,10,4.5,mb,,,,0.8,us,usp0006rgs,2014-11-07T00:57:09.273Z,"7 km NNW of Sumoto, Japan",earthquake,,,,11,reviewed,us,us
+1995-01-17T15:51:28.500Z,34.538,135.18,10,4.6,mb,,,,1.1,us,usp0006rgm,2014-11-07T00:57:09.221Z,"13 km NNW of Tajiri, Japan",earthquake,,,,5,reviewed,us,us
+1995-01-17T13:18:36.410Z,34.52,134.801,10,4.6,mb,,,,1,us,usp0006rg9,2014-11-07T00:57:09.102Z,"21 km NNW of Sumoto, Japan",earthquake,,,,14,reviewed,us,us
+1995-01-17T04:05:21.620Z,34.488,135.179,10,4.7,mb,,,,1,us,usp0006rfm,2014-11-07T00:57:09.019Z,"9 km NW of Tajiri, Japan",earthquake,,,,10,reviewed,us,us
+1995-01-17T00:01:24.490Z,34.484,134.782,10,4.6,mb,,,,1.4,us,usp0006rf8,2014-11-07T00:57:08.998Z,"18 km NNW of Sumoto, Japan",earthquake,,,,7,reviewed,us,us
+1995-01-16T23:58:17.100Z,34.399,135.127,10,4.7,mb,,,,0.8,us,usp0006rf7,2014-11-07T00:57:08.996Z,"11 km WSW of Tajiri, Japan",earthquake,,,,7,reviewed,us,us
+1995-01-16T23:30:35.910Z,34.485,135.202,10,4.7,ms,,,,1.7,us,usp0006rf6,2014-11-07T00:57:08.993Z,"7 km NNW of Tajiri, Japan",earthquake,,,,1,reviewed,us,us
+1995-01-16T21:42:49.710Z,34.761,135.665,10,4.6,mb,,,,0.7,us,usp0006rf1,2014-11-07T00:57:08.980Z,"3 km E of Neyagawa, Japan",earthquake,,,,11,reviewed,us,us
+1995-01-16T21:28:58.830Z,34.547,134.829,10,5,mb,,,,1,us,usp0006rey,2014-11-07T00:57:08.968Z,"20 km SW of Akashi, Japan",earthquake,,,,38,reviewed,us,us
+1995-01-16T20:53:09.820Z,34.34,135.303,10,4.8,mb,,,,1.4,us,usp0006rex,2014-11-07T00:57:08.965Z,"8 km S of Izumisano, Japan",earthquake,,,,3,reviewed,us,us
+1995-01-16T20:46:52.120Z,34.583,135.018,21.9,6.9,mw,,,,1,us,usp0006rew,2022-04-29T17:46:02.285Z,"8 km S of Akashi, Japan",earthquake,,,,,reviewed,us,hrv
