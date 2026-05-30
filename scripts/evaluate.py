@@ -21,6 +21,11 @@ def evaluate_models():
     df_agg = pd.read_parquet(metrics_path)
     df_pred = pd.read_parquet(preds_path)
     
+    # Exclude sparse sequences
+    sparse_seqs = ['Kumamoto_2016', 'Kobe_1995']
+    df_agg = df_agg[~df_agg['Sequence'].isin(sparse_seqs)]
+    df_pred = df_pred[~df_pred['Sequence'].isin(sparse_seqs)]
+    
     # We focus on Cumulative for the main narrative ("beat naive on cumulative")
     # but we can do tests on both. Let's do tests on Cumulative_Aggregate
     df_cum = df_agg[df_agg['Target'] == 'Cumulative_Aggregate'].copy()
