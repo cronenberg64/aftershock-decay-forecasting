@@ -1,0 +1,5 @@
+Config,Train_MAE,Val_MAE,Test_MAE
+"{'hidden_units': 32, 'n_hidden_layers': 2, 'window_size': 7}",2.800619855720694,2.831869511604309,2.688979080745152
+"{'hidden_units': 64, 'n_hidden_layers': 2, 'window_size': 14}",2.367603085508042,2.669198213386954,2.759323409625462
+"{'hidden_units': 128, 'n_hidden_layers': 3, 'window_size': 7}",2.8286862231091243,3.0409370863437655,2.690856519199553
+"{'hidden_units': 64, 'n_hidden_layers': 3, 'window_size': 14}",2.351637667719263,2.595906091050098,2.7202052502405074

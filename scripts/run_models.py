@@ -98,6 +98,16 @@ def run_forecasts():
             except:
                 d_preds['ARIMA'] = np.full(horizon, np.nan)
                 
+            # SARIMA
+            try:
+                sarima_model = pm.auto_arima(d_train_log, max_p=3, max_q=3, max_d=1, 
+                                            seasonal=True, m=7, max_P=1, max_Q=1, max_D=1,
+                                            approximation=True, stepwise=True, suppress_warnings=True)
+                pred_log = sarima_model.predict(n_periods=horizon)
+                d_preds['SARIMA'] = np.expm1(pred_log)
+            except:
+                d_preds['SARIMA'] = np.full(horizon, np.nan)
+                
             # ETS
             try:
                 ets_model = ExponentialSmoothing(d_train_log, trend='add', damped_trend=True, initialization_method="estimated").fit()
@@ -141,6 +151,15 @@ def run_forecasts():
             except:
                 c_preds['ARIMA'] = np.full(horizon, np.nan)
                 
+            # SARIMA
+            try:
+                sarima_c = pm.auto_arima(c_train, max_p=3, max_q=3, max_d=1, 
+                                         seasonal=True, m=7, max_P=1, max_Q=1, max_D=1,
+                                         approximation=True, stepwise=True, suppress_warnings=True)
+                c_preds['SARIMA'] = sarima_c.predict(n_periods=horizon)
+            except:
+                c_preds['SARIMA'] = np.full(horizon, np.nan)
+                
             # ETS
             try:
                 ets_c = ExponentialSmoothing(c_train, trend='add', damped_trend=True, initialization_method="estimated").fit()
@@ -166,7 +185,7 @@ def run_forecasts():
                 d_preds['Omori'] = np.full(horizon, np.nan)
                 
             # Calculate metrics
-            for model in ['Naive', 'Mean', 'AR', 'MA', 'ARIMA', 'ETS', 'Omori']:
+            for model in ['Naive', 'Mean', 'AR', 'MA', 'ARIMA', 'SARIMA', 'ETS', 'Omori']:
                 # Daily metrics
                 if not np.any(np.isnan(d_preds[model])):
                     d_mae = mean_absolute_error(d_test, d_preds[model])
