@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+scikit-learn
+scipy
+jupyter
+nbformat
+pyarrow
+requests
+tensorflow
